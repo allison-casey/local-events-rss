@@ -2,19 +2,11 @@
 
 from __future__ import annotations
 
-import json
 from collections.abc import Iterable, Mapping
 from pathlib import Path
-from typing import Any, Final
 
+from rss.hilo.stores import load_channel_from_store
 from rss.hilo.types import HiloChannel, HiloEvent, HiloLocation
-
-DEFAULT_CULVER_CITY_STORE_PATH: Final[Path] = Path("data/hilo/culver_city_events.json")
-
-
-def default_store_path(location: HiloLocation) -> Path:
-    """Default JSON store path for a Hi-Lo location."""
-    return Path(f"data/hilo/{location.name.lower()}_events.json")
 
 
 def upsert_events(
@@ -29,11 +21,8 @@ def upsert_events(
 
 
 def load_channel(path: Path, location: HiloLocation) -> HiloChannel:
-    """Load a Hi-Lo channel from a JSON file, returning an empty channel if missing."""
-    if not path.exists():
-        return HiloChannel.for_location(location, [])
-    payload = json.loads(path.read_text(encoding="utf-8"))
-    channel = _parse_channel_payload(payload, location)
+    """Load a Hi-Lo channel, validating that it matches ``location``."""
+    channel = load_channel_from_store(path)
     if channel.location is not location:
         raise ValueError(
             f"Store {path} is for {channel.location.value}, not {location.value}"
@@ -43,6 +32,8 @@ def load_channel(path: Path, location: HiloLocation) -> HiloChannel:
 
 def save_channel(path: Path, channel: HiloChannel) -> None:
     """Persist a Hi-Lo channel to a JSON file."""
+    import json
+
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(
         json.dumps(channel.model_dump(mode="json"), indent=2, ensure_ascii=False)
@@ -71,12 +62,3 @@ def sync_channel(
         "updated": updated,
         "total": len(merged_channel.events),
     }
-
-
-def _parse_channel_payload(payload: Any, location: HiloLocation) -> HiloChannel:
-    if isinstance(payload, list):
-        events = [HiloEvent.model_validate(item) for item in payload]
-        return HiloChannel.for_location(location, events)
-    if isinstance(payload, dict):
-        return HiloChannel.model_validate(payload)
-    raise ValueError("Expected a JSON object (channel) or array (legacy events)")

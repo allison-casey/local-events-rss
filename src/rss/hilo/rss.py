@@ -2,13 +2,8 @@
 
 from __future__ import annotations
 
-from pathlib import Path
-from typing import Final
-
 from rss.feed.types import FeedChannel, FeedItem
 from rss.hilo.types import HiloChannel, HiloEvent, HiloLocation
-
-DEFAULT_CULVER_CITY_FEED_PATH: Final[Path] = Path("data/hilo/culver_city_feed.xml")
 
 
 def build_hilo_channel(
