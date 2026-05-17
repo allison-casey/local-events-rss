@@ -46,20 +46,21 @@ class FeedChannel(BaseModel):
     language: str = "en-us"
     last_build_date: datetime | None = None
     ttl_minutes: int | None = Field(default=None, ge=1)
+    items: list[FeedItem]
+
+
+class RssChannel(ABC, BaseModel):
+    events: list[RssEvent]
+
+    @abstractmethod
+    def to_feed_channel(self) -> FeedChannel:
+        pass
 
 
 class RssEvent(ABC, BaseModel):
     @abstractmethod
     def to_feed_item(self) -> FeedItem:
         pass
-
-
-def map_to_feed_items[T](
-    sources: Iterable[T],
-    mapper: Callable[[T], FeedItem],
-) -> list[FeedItem]:
-    """Map an iterable of source records into feed items."""
-    return [mapper(source) for source in sources]
 
 
 def sort_feed_items(
