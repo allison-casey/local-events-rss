@@ -1,0 +1,889 @@
+{
+  "events": [
+    {
+      "event_id": "2b083afc07300542",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Silvergrin Vodka & Warbringer Bourbon",
+      "description": "Join us for a free tasting with Silvergrin Vodka & Warbringer Bourbon!",
+      "start_at": "2025-11-17T15:00:00-08:00",
+      "end_at": "2025-11-17T18:00:00-08:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2023/10/hilo_cm_43-scaled.jpg"
+    },
+    {
+      "event_id": "10f9b96812989c40",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Empirical Spirits",
+      "description": "Stop by and try spirits and RTDs from Empirical Spirits, a flavor-first company that takes the highest-quality ingredients and turns them into delicious experiences.",
+      "start_at": "2025-11-17T17:00:00-08:00",
+      "end_at": "2025-11-17T19:00:00-08:00",
+      "image_url": null
+    },
+    {
+      "event_id": "67d938356fec83d3",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Rally Gin",
+      "description": "Rally Gin is a California black and woman owned spirit company. Rally Gin is handcrafted and micro-distilled in small batches and is produced using 12 premium botanicals and Italian spices. Their distilling kettle is vapor-infused, giving a precise gin flavor profile. Come by and experience the difference in Rally Gin!",
+      "start_at": "2025-11-19T13:00:00-08:00",
+      "end_at": "2025-11-19T16:00:00-08:00",
+      "image_url": null
+    },
+    {
+      "event_id": "07ab01bc9be40a6e",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: El Segundo",
+      "description": "Formed in 2011, El Segundo is an independent craft brewery focusing on fresh, hoppy West Coast IPAs and other crisp flavors.",
+      "start_at": "2025-11-20T16:00:00-08:00",
+      "end_at": "2025-11-20T19:00:00-08:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2023/11/Screen-Shot-2023-11-28-at-2.57.25-PM.png"
+    },
+    {
+      "event_id": "1c2b82711b6766cd",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Trip N/A Drinks",
+      "description": "",
+      "start_at": "2025-11-22T16:00:00-08:00",
+      "end_at": "2025-11-22T19:00:00-08:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2025/11/IMG_0065.jpg"
+    },
+    {
+      "event_id": "bf3c50a71fb788a6",
+      "location": "Costa Mesa",
+      "title": "Small Business Saturday!",
+      "description": "In celebration of Small Business Saturday, we are giving away free Hi-Lo Bandana with purchase! Come by and support the products we carry from local businesses and producers!",
+      "start_at": "2025-11-26T09:00:00-08:00",
+      "end_at": "2025-11-26T21:00:00-08:00",
+      "image_url": null
+    },
+    {
+      "event_id": "231b8b916803acd0",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Bardstown Whiskey",
+      "description": "",
+      "start_at": "2025-11-29T16:00:00-08:00",
+      "end_at": "2025-11-29T19:00:00-08:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2025/11/IMG_0064.jpg"
+    },
+    {
+      "event_id": "47dc2ac16fa06e0f",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Lost Irish Whiskey",
+      "description": "Lost Irish is an Irish Whiskey made from casks collected from six continents. Their triple distilled spirit combines all three styles of Irish Whiskey which balances flavor and complexity – the grain lends sweetness, the malt adds fruitiness, and the pot still contributes spice and cream. Stop by and try this smooth and delicious Irish Whiskey!",
+      "start_at": "2025-12-02T17:00:00-08:00",
+      "end_at": "2025-12-02T19:00:00-08:00",
+      "image_url": null
+    },
+    {
+      "event_id": "303b3743a7988641",
+      "location": "Costa Mesa",
+      "title": "Hi-Lo Pop Up at Smorgasburg LA",
+      "description": "Smorgasburg LA has officially kicked off their Sunday Holiday Market for the season. Stop by the Hi-Lo booth this Sunday, Dec 4th! Located at ROW DTLA on 777 Alameda St.",
+      "start_at": "2025-12-04T10:00:00-08:00",
+      "end_at": "2025-12-04T16:00:00-08:00",
+      "image_url": null
+    },
+    {
+      "event_id": "d801084ddafd57a1",
+      "location": "Costa Mesa",
+      "title": "Holiday Sip & Shop",
+      "description": "Join us for a festive day at all Locations 2-6PM. We've got complimentary tastings and local vendors lined up for a festive day of shopping! We're here to make gift giving season extra special!",
+      "start_at": "2025-12-06T14:00:00-08:00",
+      "end_at": "2025-12-06T18:00:00-08:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2025/12/Beige-Minimalist-Aesthetic-Holiday-Sale-Instagram-Post.png.png"
+    },
+    {
+      "event_id": "3d0c3789e9d1f13d",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: CNS Imports Tasting",
+      "description": "Join us for a free tasting CNS Imports, we'll be tasting through some Japanese whiskeys!",
+      "start_at": "2025-12-06T16:00:00-08:00",
+      "end_at": "2025-12-06T19:00:00-08:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2023/12/%C2%A9Project-M-Plus_Hi-Lo_Liquor_3-scaled.jpg"
+    },
+    {
+      "event_id": "1c5c4aa4ff65cf0f",
+      "location": "Costa Mesa",
+      "title": "Hi-Lo Sip n' Shop",
+      "description": "Save the date!!!! December 9th all 3 shops will be hosting a Sip n’ Shop! We’ll have tons of brands sampling out their products for you to try! Come shop presents for your friends and family, sip on tasty bevs, and eat some delicious food!",
+      "start_at": "2025-12-09T16:00:00-08:00",
+      "end_at": "2025-12-09T20:00:00-08:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2023/12/%C2%A9Project-M-Plus_Hi-Lo_Liquor_3-scaled.jpg"
+    },
+    {
+      "event_id": "10dec99e6d6f2027",
+      "location": "Costa Mesa",
+      "title": "Sip & Shop",
+      "description": "Join us this Saturday at all three Hi-Lo locations! Shop small and get festive with us. Complimentary gift wrapping & libations!",
+      "start_at": "2025-12-10T12:00:00-08:00",
+      "end_at": "2025-12-10T17:00:00-08:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2022/12/Hi-Lo-Dec-2022-Sip-n-Shop.png"
+    },
+    {
+      "event_id": "492df78ab5aea700",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Straightaway Cocktails",
+      "description": "Made in Portland, OR, Straightaway cocktails are meticulously crafted using only real juice and the highest quality ingredients. Stop by and try these award-winning RTD cocktails – which make for perfect stocking stuffers and gifts for your cocktail-loving friends and family!",
+      "start_at": "2025-12-11T14:00:00-08:00",
+      "end_at": "2025-12-11T17:00:00-08:00",
+      "image_url": null
+    },
+    {
+      "event_id": "c35db9a8d37b0387",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Ogopogo Brewing",
+      "description": "Sean from Ogopogo Brewing in San Gabriel, California will be in store sampling beers! The beers are named for legendary creatures and figures from around the world, with the style of beer and ingredients used often linked through the country of origin.",
+      "start_at": "2025-12-12T16:00:00-08:00",
+      "end_at": "2025-12-12T19:00:00-08:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2023/12/Screenshot-2024-12-02-at-3.15.36%E2%80%AFPM.png"
+    },
+    {
+      "event_id": "5267b55b3ee839bc",
+      "location": "Costa Mesa",
+      "title": "Off Hours Whiskey Takeover",
+      "description": "Join us for a festive day of Off Hours whiskey at all locations with a curated experience, including: a complimentary festive drink and gifts with purchase.  \r\n\r\n\r\n• Culver City: SMPL Artisan Cheesecakes will be popping-up with yummy, fresh cheesecakes\r\n• Long Beach: Slowlines Art will be popping-up \r\n• Costa Mesa: Made by Mabel Ceramics will be popping-up",
+      "start_at": "2025-12-13T14:00:00-08:00",
+      "end_at": "2025-12-13T18:00:00-08:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2024/12/Screenshot-2024-12-16-at-7.53.43%E2%80%AFPM.png"
+    },
+    {
+      "event_id": "a009f492d26866c8",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Cara a Cara Mezcal",
+      "description": "Join us for a free tasting with Cara a Cara Mezcal!",
+      "start_at": "2025-12-13T16:00:00-08:00",
+      "end_at": "2025-12-13T19:00:00-08:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2024/12/Screenshot-2024-12-09-at-6.58.13%E2%80%AFPM.png"
+    },
+    {
+      "event_id": "ecbfc1fa2d076bb1",
+      "location": "Costa Mesa",
+      "title": "Sip n' Shop",
+      "description": "Join us at all three locations to Sip & Shop on 12/14 | 2-6PM 🎁 We’ve got a festive day filled with complimentary tastings, local vendors, gift with purchase, gift wrapping and more!!",
+      "start_at": "2025-12-14T14:00:00-08:00",
+      "end_at": "2025-12-14T18:00:00-08:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2024/12/Screenshot-2024-12-09-at-7.03.13%E2%80%AFPM.png"
+    },
+    {
+      "event_id": "638e92710a3d1c43",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Ciao Pappy",
+      "description": "Ciao Pappy is a local company that uses amazing, fresh ingredients for the their tomato sauces. Come by and try their delicious sauces, which are perfect for pasta, pizza, meatballs, and more!",
+      "start_at": "2025-12-16T14:00:00-08:00",
+      "end_at": "2025-12-16T16:00:00-08:00",
+      "image_url": null
+    },
+    {
+      "event_id": "3f2a98f8d4c0ca9f",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Morro Mezcal",
+      "description": "Morro Mezcal crafts their small batch artisanal spirits using time-honored methods and traditions of mezcal production, using mature single origin agaves, an earthen hardwood-fueled oven, open air wooden fermentation vessels and small wood-fired copper still distillation. Their mezcals are distilled to proof using agaves grown in the mountains of El Gramal in Oaxaca giving depth, character and complexity.",
+      "start_at": "2025-12-17T17:00:00-08:00",
+      "end_at": "2025-12-17T19:00:00-08:00",
+      "image_url": null
+    },
+    {
+      "event_id": "ae94c5e74c833d06",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Mezcal 33 – POSTPONED",
+      "description": "Join us to taste Mezcal 33 and discover the magic of what this master number represents, reflected through the perfection and passion we pour into every drop of their mezcals.",
+      "start_at": "2025-12-19T16:00:00-08:00",
+      "end_at": "2025-12-19T19:00:00-08:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2025/08/IMG_8342.jpg"
+    },
+    {
+      "event_id": "4258fb93cf10528e",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Green River Whiskey",
+      "description": "Join us for a free tasting with Green River Whiskey!",
+      "start_at": "2025-12-19T16:00:00-08:00",
+      "end_at": "2025-12-19T19:00:00-08:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2024/12/Screenshot-2024-12-09-at-7.00.54%E2%80%AFPM.png"
+    },
+    {
+      "event_id": "331b6d795e83ef60",
+      "location": "Costa Mesa",
+      "title": "Store Closed – MERRY CHRISTMAS!",
+      "description": "We'll be closed for Christmas Day but open again on December 26th at our normal hours.  Enjoy your holiday!",
+      "start_at": "2025-12-25T00:00:00-08:00",
+      "end_at": "2025-12-25T23:00:00-08:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2025/12/069749708a2308650e6569378b19f448-2.jpg"
+    },
+    {
+      "event_id": "d979df01983adada",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Hoplark N/A Beer",
+      "description": "Hoplark is non-alcoholic craft brews, teas and waters hopped and crafted like beer. All of the hoppy flavor without the calories, sugar or alcohol. Stop on in and try their N/A beers!",
+      "start_at": "2026-01-04T16:00:00-08:00",
+      "end_at": "2026-01-04T19:00:00-08:00",
+      "image_url": null
+    },
+    {
+      "event_id": "d88af76935d990a9",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Dry January Delight with Rancho West, Aplos, Ghia, Odd Bird, Saint Viviana & Chandon House",
+      "description": "No reason to stay thirsty this January. Celebrate Dry January with the best NA goods in the game from Rancho West Organic Beers, Ghia, Aplós Spirits, Saint Viviana Wines, Odd Bird Wines…and special fun products from Chandon House.  Now's the time to discovery how tasty this month can be!!!",
+      "start_at": "2026-01-10T14:00:00-08:00",
+      "end_at": "2026-01-10T18:00:00-08:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2025/11/IMG_0282.jpg"
+    },
+    {
+      "event_id": "ec23786f924f1307",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Vala Lifestyle Seltzer",
+      "description": "Join us for a free tasting Vala Seltzer, they're a low abv lifestyle seltzer that's low cal and sugar-free. We'll be sampling Cucumber mint and Yuzu Lemon.",
+      "start_at": "2026-01-24T16:00:00-08:00",
+      "end_at": "2026-01-24T19:00:00-08:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2024/12/Screenshot-2024-12-16-at-7.45.08%E2%80%AFPM.png"
+    },
+    {
+      "event_id": "9b2265679c41b804",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Tost",
+      "description": "Join us for a free tasting with Tost, an NA tea based drink.",
+      "start_at": "2026-01-24T16:00:00-08:00",
+      "end_at": "2026-01-24T19:00:00-08:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2024/02/Screen-Shot-2024-02-26-at-7.22.47-PM.png"
+    },
+    {
+      "event_id": "436a3401a8fe6084",
+      "location": "Costa Mesa",
+      "title": "Food Pop-Up: Eat Your Wave Burger",
+      "description": "One of our favorite Long Beach food pop-ups, Eat Your Wave Burger, is coming to Costa Mesa! Eat Your Wave Burger is the delicious brainchild of Daria and Alex who moved to SoCal not so long ago with a dream to establish the best burger restaurant. Back in their country, they had a famous burger joint and decided that it was time to show their unique approach to the world. And isn't a smash burger the best place to start? Come join us this Saturday for some burgers and fun!",
+      "start_at": "2026-02-04T12:00:00-08:00",
+      "end_at": "2026-02-04T15:00:00-08:00",
+      "image_url": null
+    },
+    {
+      "event_id": "c9d13e87ac0e2f90",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Madre Mezcal & Desert Water",
+      "description": "Madre is an artisanal mezcal, made by hand in the rolling hills of the Oaxacan Sierra. Come by and try their Ensamble, Espadín, and Desert Water, an RTD made only with artisanal mezcal, sparkling water, and real adaptogens, herbs & fruits.",
+      "start_at": "2026-02-25T14:00:00-08:00",
+      "end_at": "2026-02-25T17:00:00-08:00",
+      "image_url": null
+    },
+    {
+      "event_id": "ece3073a01f0d1ef",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: There Does Not Exist",
+      "description": "There Does Not Exist Brewing from San Luis Obispo, will be tasting out some of their gorgeous beers.",
+      "start_at": "2026-02-26T16:00:00-08:00",
+      "end_at": "2026-02-26T19:00:00-08:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2023/04/Screenshot-2025-01-27-at-6.38.18%E2%80%AFPM.png"
+    },
+    {
+      "event_id": "86cc2cad65a77fe0",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: LiveWire Canned Cocktails",
+      "description": "LiveWire creates award-winning cocktails made by award-winning bartenders. The company's mission is to help further highlight the immensely talented bartenders that create brilliant drinks & nights, around the world. LiveWire bartender-collaborators design unique cocktails, using the finest spirits in the world, natural flavors and extracts, and choose the artists that design the art on the packaging to help their vision come alive. Come try these exciting ready-to-drink canned cocktails and support the bartender community.",
+      "start_at": "2026-03-01T16:00:00-08:00",
+      "end_at": "2026-03-01T19:00:00-08:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2022/08/Screen-Shot-2024-02-20-at-2.02.34-PM.png"
+    },
+    {
+      "event_id": "94f9648541b06ae5",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Bimini Gin + Death & Co Moonsail Fizz",
+      "description": "Bimini Gin is the modern gin. It's handcrafted using a few familiar key botanicals— grapefruit zest, hops, coriander seed—that taste bright and citrusy with a beautiful floral aroma. Come by and try Bimini and Death & Co's Moonsail Fizz RTD, which features Bimini Gin!",
+      "start_at": "2026-03-02T16:00:00-08:00",
+      "end_at": "2026-03-02T19:00:00-08:00",
+      "image_url": null
+    },
+    {
+      "event_id": "20b86e5dec4bd1db",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Stereo Brewing",
+      "description": "Stereo is an independent brewery making remixes of classic styles. Come by and try their beers which range from the hop forward, to classic styles reimagined, to a crisp light delight.",
+      "start_at": "2026-03-10T13:00:00-07:00",
+      "end_at": "2026-03-10T16:00:00-07:00",
+      "image_url": null
+    },
+    {
+      "event_id": "fbd868ef323bf64b",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Sake High",
+      "description": "Sake High! is premium junmai sake brewed in Kyoto, Japan using classic techniques and local ingredients. Come by and try the refreshing sake, which comes in single cans and bottles.",
+      "start_at": "2026-03-11T14:00:00-07:00",
+      "end_at": "2026-03-11T16:00:00-07:00",
+      "image_url": null
+    },
+    {
+      "event_id": "f4bcd8ad1a4b0a3e",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Los Sundays Tequila",
+      "description": "Join us for a free tasting with Los Sunday's tequila.",
+      "start_at": "2026-03-13T16:00:00-07:00",
+      "end_at": "2026-03-13T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2023/11/Screen-Shot-2023-11-08-at-3.38.04-PM.png"
+    },
+    {
+      "event_id": "8a35da9fb458ea21",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Calidad Beer and Hard Seltzer",
+      "description": "Calidad produces some wonderfully made beers that homage Mexican lagers and they also have a hard seltzer line that are a delightful play on Agua Frescas!",
+      "start_at": "2026-03-15T16:00:00-07:00",
+      "end_at": "2026-03-15T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2023/12/Screen-Shot-2023-12-19-at-1.35.30-PM.png"
+    },
+    {
+      "event_id": "3ff99635fdf50685",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Vacation Cocktails Hot Tropic RTD",
+      "description": "Come by and try the newly launched Vacation Cocktails – ready-to-drink canned cocktails with real spirits and natural flavors. Made right here in Costa Mesa!",
+      "start_at": "2026-03-18T14:00:00-07:00",
+      "end_at": "2026-03-18T17:00:00-07:00",
+      "image_url": null
+    },
+    {
+      "event_id": "4558f4f27cdef00b",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Yebiga Rakija",
+      "description": "Join us for a free tasting with Yebiga Rakija! Yebiga Rakija is an exceptional, handcrafted, and 100% natural Sljivovica, a fruit brandy from Central Serbia.",
+      "start_at": "2026-03-21T16:00:00-07:00",
+      "end_at": "2026-03-21T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2025/03/Screenshot-2025-03-03-at-9.36.26%E2%80%AFPM.png"
+    },
+    {
+      "event_id": "7da04b4003541ce6",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Brouwerij West",
+      "description": "Brouwerij West out of San Pedro, California will be in store to sample some of their delicious American and Belgian-inspired beers!",
+      "start_at": "2026-03-22T16:00:00-07:00",
+      "end_at": "2026-03-22T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2024/01/Screen-Shot-2024-01-15-at-4.41.25-PM.png"
+    },
+    {
+      "event_id": "76c240850e6d7d3a",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Tequila Mandala",
+      "description": "Come try the balanced and refined flavor of each Mandala tequila, all are hand made and beautifully hand painted to create a beautiful and unique piece of art.",
+      "start_at": "2026-03-23T16:00:00-07:00",
+      "end_at": "2026-03-24T07:00:00-07:00",
+      "image_url": null
+    },
+    {
+      "event_id": "4eee15ae13328869",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Amarok Brewing",
+      "description": "Amarok Brewing, LA's smallest brewery, specializes in IPas with unique hops and ingredients from around the world. Come by, meet owner and brewer Anthony, and try his delicious 'South African Hazy,' a DDH Hazy DIPA and 'Science Fair DIPA', an experimental hop West Coast DIPA.",
+      "start_at": "2026-03-24T12:00:00-07:00",
+      "end_at": "2026-03-24T20:00:00-07:00",
+      "image_url": null
+    },
+    {
+      "event_id": "daa27f20404d773e",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Salt Point Canned Cocktails",
+      "description": "Salt Point has been crafting premium canned cocktails with all-natural ingredients along the coast of Northern California since 2013. Right here to be exact: 38.0834° N, 122.7633° W. Everyone at Salt Point is committed to quality ingredients and the finest of spirits. Though things can get a little foggy around there, they're clear about this: less is more. That’s why they keep the ingredients to a minimum and prefer to sail by the stars. So whether you’re hanging with old friends or interesting strangers, Salt Point invites you to kick back and raise a can. Come on in and give Salt Point a try with this free tasting of their premium canned drinks!",
+      "start_at": "2026-03-27T16:00:00-07:00",
+      "end_at": "2026-03-27T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2022/06/IMG_0605.jpg"
+    },
+    {
+      "event_id": "3a41f2371d9b21db",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Zaddy's RTD Cocktails",
+      "description": "Made for both gin lovers and non-gin lovers, Zaddy's RTD canned cocktails are low sugar, low ABV, gluten free, and super refreshing. Come on in and try Zaddy's creative, unique craft cocktails that are perfect all year round.",
+      "start_at": "2026-03-28T16:00:00-07:00",
+      "end_at": "2026-03-28T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2022/09/Screen-Shot-2024-03-21-at-2.43.38-PM.png"
+    },
+    {
+      "event_id": "c42c3c80bec24307",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Copalli Rum",
+      "description": "Copalli's organic rums are crafted in Southern Belize at the Copal Tree Distillery, designed to run on biomass to have as low a carbon footprint as possible. Crafted from organic fresh sugar cane and proofed with \"canopy water\" collected straight from the rainforest, the Copal Tree Distillery supports sustainable agriculture, producing and selling premium organic, gluten-free spirits. Stop by and taste these delicious terroir driven spirits!",
+      "start_at": "2026-03-30T16:00:00-07:00",
+      "end_at": "2026-03-30T19:00:00-07:00",
+      "image_url": null
+    },
+    {
+      "event_id": "dd1a1d95372685d4",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: BTL SVC",
+      "description": "BTL SVC provides award-winning, hand-crafted, premium cocktails, conveniently served anytime and anywhere.",
+      "start_at": "2026-04-01T16:00:00-07:00",
+      "end_at": "2026-04-01T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2024/01/Screen-Shot-2024-01-22-at-5.52.58-PM.png"
+    },
+    {
+      "event_id": "14d9bb984099150c",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Song Cai Viet Nam Gin",
+      "description": "Song Cai is a first of its kind Vietnamese distillery bottling the taste and flavors of Viet Nam's biodiverse terroir through gins and other spirits. Come by and try their unique gins!",
+      "start_at": "2026-04-07T16:00:00-07:00",
+      "end_at": "2026-04-07T19:00:00-07:00",
+      "image_url": null
+    },
+    {
+      "event_id": "7a9e3c0b38e6c1d0",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Redthumb Wines",
+      "description": "Redthumb Wines focuses on organic, natural, and clean wines and are transparent about it! Come by and try their Chardonnay and Tempranillo!",
+      "start_at": "2026-04-13T16:00:00-07:00",
+      "end_at": "2026-04-13T19:00:00-07:00",
+      "image_url": null
+    },
+    {
+      "event_id": "ab372e2b72f2149a",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Mariscos & Martinis",
+      "description": "Come by and try some delicious Mariscos including oysters & seafood bites and pair them with mini Martini samples made with Las Californias gins!",
+      "start_at": "2026-04-15T16:00:00-07:00",
+      "end_at": "2026-04-15T19:00:00-07:00",
+      "image_url": null
+    },
+    {
+      "event_id": "abc3879e5778ba93",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Sake High",
+      "description": "A female owned sake born out of a love and passion for a good drink! Sake High is brewed in Kyoto, Japan and is all-natural, gluten free and sulfite free.",
+      "start_at": "2026-04-19T15:00:00-07:00",
+      "end_at": "2026-04-19T18:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2023/03/Screen-Shot-2024-01-23-at-3.30.35-PM.png"
+    },
+    {
+      "event_id": "e940f244c904a58c",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Cazcanes Tequila – POSTPONED",
+      "description": "Unfortunately this free tasting is postponed for a later date.  Keep an eye out and join us for a free tasting with Cazcanes Tequila, an award-winning, organic, additive free tequila when they're back.",
+      "start_at": "2026-04-24T16:00:00-07:00",
+      "end_at": "2026-04-24T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2025/04/Screenshot-2025-04-14-at-5.04.50%E2%80%AFPM.png"
+    },
+    {
+      "event_id": "96e64fe8df35f17a",
+      "location": "Costa Mesa",
+      "title": "Hi-Lo x Prism Boutique Spring Market",
+      "description": "We’re excited to have our dear friends from Prism Boutique join us in Costa Mesa t💐April 27th ~ 4-7PM! Don’t miss a lovely evening filled with craft goods, complimentary tastings and delicious Vegan Banh Mi’s!",
+      "start_at": "2026-04-27T16:00:00-07:00",
+      "end_at": "2026-04-27T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2024/04/Screen-Shot-2024-04-22-at-12.58.17-PM.png"
+    },
+    {
+      "event_id": "748b847343c4c26b",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Banhez Mezcal, Libelula Tequila & Combier Liqueur",
+      "description": "In the lead up to Cinco de Mayo, come sample three amazing products that will elevate your celebrations…plus free cocktail cards and Libelula cocktail shakers will be handed out.",
+      "start_at": "2026-04-30T16:00:00-07:00",
+      "end_at": "2026-04-30T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2025/09/IMG_9076.jpg"
+    },
+    {
+      "event_id": "3eb1c4c62c288abc",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Madre Mezcal & Tequila",
+      "description": "Madre is an artisanal mezcal, made by hand in the rolling hills of the Oaxacan Sierra. Come by and try their Ensamble, Espadín, and tequila!",
+      "start_at": "2026-05-02T16:00:00-07:00",
+      "end_at": "2026-05-02T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2023/03/IMG_9780.jpg"
+    },
+    {
+      "event_id": "3b61fcd50cdbf1c6",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Angelisco Tequila",
+      "description": "Angelisco Tequila is produced in the Highlands of Jalisco, Mexico, from blue weber agave grown in the mineral rich, deep red clay soil within the Golden Triangle of the Los Altos region. Come taste their Blanco and Reposado Tequilas!",
+      "start_at": "2026-05-03T16:00:00-07:00",
+      "end_at": "2026-05-03T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2023/02/Screen-Shot-2024-02-12-at-4.12.20-PM.png"
+    },
+    {
+      "event_id": "fa2bb5031e36edee",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Cateral Mezcal",
+      "description": "Founded by a father-daughter duo to reinvent the mezcal market in the US by elevating the men (and women) behind the bottle and paying homage to mezcal’s essential role in Mexican culture.",
+      "start_at": "2026-05-04T13:00:00-07:00",
+      "end_at": "2026-05-04T16:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2023/12/Screen-Shot-2023-12-19-at-1.24.30-PM.png"
+    },
+    {
+      "event_id": "7e06193ff6702e06",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Bandero Tequila",
+      "description": "Join us for a free tasting with Bandero Tequila!",
+      "start_at": "2026-05-08T16:00:00-07:00",
+      "end_at": "2026-05-08T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2024/12/Screenshot-2024-12-02-at-3.07.48%E2%80%AFPM.png"
+    },
+    {
+      "event_id": "0e5bcfd11e901abd",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Off Hours Bourbon",
+      "description": "Join us for a free tasting with Off Hours Bourbon!",
+      "start_at": "2026-05-14T16:00:00-07:00",
+      "end_at": "2026-05-14T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2023/11/Screen-Shot-2023-11-20-at-7.32.28-PM.png"
+    },
+    {
+      "event_id": "daf1d0d661b8c6b6",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Golden Eagle Vodka",
+      "description": "Join us for a free tasting with Golden Eagle Vodka!",
+      "start_at": "2026-05-15T16:00:00-07:00",
+      "end_at": "2026-05-15T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2024/05/Screenshot-2024-05-08-at-1.06.49%E2%80%AFPM.png"
+    },
+    {
+      "event_id": "e7957cf9ef2e9d2c",
+      "location": "Costa Mesa",
+      "title": "Spring Market at Costa Mesa",
+      "description": "Join us for a fun day with a ton of vendors! \r\nVivy Cocktails / \r\nWilbur Wine Spritzers / \r\nSoto Sake / \r\nCalista Coffee /\r\nNeft Vodka",
+      "start_at": "2026-05-16T14:00:00-07:00",
+      "end_at": "2026-05-16T18:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2025/04/Screenshot-2025-04-22-at-3.06.11%E2%80%AFPM.png"
+    },
+    {
+      "event_id": "a8b29b90d640c32f",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Bücha Hard Kombucha",
+      "description": "Join us for a complimentary tasting with Bücha! A small batch kombucha made in San Diego from 100% organic whole fruit sourced from small California farms.",
+      "start_at": "2026-05-22T16:00:00-07:00",
+      "end_at": "2026-05-22T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2025/11/IMG_9909.jpg"
+    },
+    {
+      "event_id": "67106591caece466",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Tasting-Lodestar Whiskey",
+      "description": "Celebrating Women's History Month, meet the founders of this women-owned American Whiskey brand!",
+      "start_at": "2026-06-15T15:00:00-07:00",
+      "end_at": "2026-06-15T18:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2024/03/Screen-Shot-2024-03-21-at-2.49.04-PM.png"
+    },
+    {
+      "event_id": "021198b6f5ec7a65",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Catedral Mezcal",
+      "description": "Join us for a free tasting with Catedral Mezcal!",
+      "start_at": "2026-06-18T16:00:00-07:00",
+      "end_at": "2026-06-18T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2023/12/Screen-Shot-2023-12-19-at-1.24.30-PM.png"
+    },
+    {
+      "event_id": "f3b6f3bf4f67b784",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Burgeon Beer Co",
+      "description": "Join us for a free tasting with Burgeon Beer Co!",
+      "start_at": "2026-06-20T16:00:00-07:00",
+      "end_at": "2026-06-20T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2025/06/Screenshot-2025-06-17-at-5.07.26%E2%80%AFPM.png"
+    },
+    {
+      "event_id": "29fbcd57fa880383",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Fallen Grape",
+      "description": "Join us for a free tasting with Fallen Grape Wine Co. We'll be sampling the chilled red and orange wine.",
+      "start_at": "2026-06-20T17:00:00-07:00",
+      "end_at": "2026-06-20T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2024/06/Screenshot-2024-06-17-at-4.32.44%E2%80%AFPM.png"
+    },
+    {
+      "event_id": "fd543c3fba4ef523",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Mijenta Tequila",
+      "description": "Join us for a free tasting with Mijenta Tequila!",
+      "start_at": "2026-07-03T16:00:00-07:00",
+      "end_at": "2026-07-03T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2025/07/Screenshot-2025-07-01-at-5.30.40%E2%80%AFPM.png"
+    },
+    {
+      "event_id": "5bce855851681136",
+      "location": "Costa Mesa",
+      "title": "Pop-Up: \"Sunday Market\"",
+      "description": "Summer is hitting hard with our next pop up at Hi-Lo Costa Mesa inside The Camp 🥂 Catch us on July 13, from 2pm-6pm!!\r\nWe’re celebrating big for Hi-Lo Liquor Market’s 2 year anniversary!\r\n— vendors, food, free tastings, music, & a good time 🍷✨\r\nFree tastings with:\r\n• Golden Eagle Vodka\r\n• Black Lamb Wines\r\n• Siesta Tinned fish\r\n• Leisure Hydration\r\n• South Forty\r\n• Morning Recovery\r\n• Dead of Night\r\n• Off Hours\r\n• Slow Days Gin Co",
+      "start_at": "2026-07-13T14:00:00-07:00",
+      "end_at": "2026-07-13T18:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2024/07/Screenshot-2024-07-08-at-6.26.02%E2%80%AFPM.png"
+    },
+    {
+      "event_id": "ca688f14e8fe1bc9",
+      "location": "Costa Mesa",
+      "title": "Free Tasting Orin Swift",
+      "description": "We'll be tasting through some of the classics from Orin Swift!",
+      "start_at": "2026-07-31T16:00:00-07:00",
+      "end_at": "2026-07-31T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2025/07/Screenshot-2025-07-30-at-5.47.58-PM.png"
+    },
+    {
+      "event_id": "b32238870982bbb6",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Unico Zelo",
+      "description": "Join us for a free tasting with Unico Zelo wines!",
+      "start_at": "2026-08-02T17:00:00-07:00",
+      "end_at": "2026-08-02T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2024/07/Screenshot-2024-07-30-at-12.30.55%E2%80%AFPM.png"
+    },
+    {
+      "event_id": "ebe6d61c28ec693f",
+      "location": "Costa Mesa",
+      "title": "Food Pop: Dane's Donuts",
+      "description": "Dane's Donuts will be selling donuts out front while we have free tastings from Golden Eagle Vodka and Rancho West Beer.",
+      "start_at": "2026-08-03T16:00:00-07:00",
+      "end_at": "2026-08-03T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2024/06/Screenshot-2024-06-25-at-6.15.00%E2%80%AFPM.png"
+    },
+    {
+      "event_id": "a4c67529c2e07dc7",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Wolves Whiskey",
+      "description": "Join us for a free tasting with Wolves Whiskey! California's first luxury whiskey brand.",
+      "start_at": "2026-08-21T16:00:00-07:00",
+      "end_at": "2026-08-21T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2025/01/Screenshot-2025-01-20-at-5.37.30%E2%80%AFPM.png"
+    },
+    {
+      "event_id": "533c2b9ed86ab280",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Simple Shots",
+      "description": "Come sample the spirit based juice shot. Simple ingredients, all natural, made with real fruit.",
+      "start_at": "2026-08-23T16:00:00-07:00",
+      "end_at": "2026-08-23T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2024/05/Screenshot-2024-05-15-at-3.45.58%E2%80%AFPM.png"
+    },
+    {
+      "event_id": "a4cfe1c3947c6087",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Wilde Irish Gin",
+      "description": "Wilde Irish Gin is distilled in Ireland using select Irish ingredients. It is an exquisite blend of carefully selected ingredients that shine through in every sip. This premium gin is distilled by hand in small batches with two copper pot stills to ensure a level of quality that can only result from a master distiller's intuition. Come by and taste this standout gin!",
+      "start_at": "2026-08-28T16:00:00-07:00",
+      "end_at": "2026-08-28T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2023/12/Screen-Shot-2023-12-28-at-3.22.13-PM.png"
+    },
+    {
+      "event_id": "32f086e47d5ef6ec",
+      "location": "Costa Mesa",
+      "title": "Jumbo Time Wines x Hi-Lo Wine Collab Release Party",
+      "description": "We're so excited to announce we've collaborated with one of our favorite wine producers Jumbo Time Wines to bring you an amazing orange and chillable red!\r\nWe’ll be partying at ALL three locations pouring these delicious wines along with food vendors:\r\nLong Beach ~ Rize Kitchen and Tip Top Canned Cocktails \r\nCulver City ~ Lindfors Farms Pizza and Livewire Cocktails \r\nCosta Mesa ~ Dane's Donuts",
+      "start_at": "2026-08-29T16:00:00-07:00",
+      "end_at": "2026-08-30T08:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2024/08/Untitled-Instagram-Post.png"
+    },
+    {
+      "event_id": "0907bfe32eac556e",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Tip Top",
+      "description": "Join us for a free tasting with Tip Top canned cocktails!",
+      "start_at": "2026-08-31T13:00:00-07:00",
+      "end_at": "2026-08-31T16:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2024/01/Screen-Shot-2024-01-11-at-2.10.45-PM.png"
+    },
+    {
+      "event_id": "25e4289f826ede28",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Soonish",
+      "description": "Slightly tart and subtly sweet, Soonish Natural Beer is gluten-free, lightly carbonated, low calorie and low in sugar. Made from simple, wholesome ingredients (banana, ancient grains and honey), Soonish is a lighter, brighter brew for any and all occasions. Come through and try what this natural beer is all about!",
+      "start_at": "2026-09-09T17:00:00-07:00",
+      "end_at": "2026-09-09T19:00:00-07:00",
+      "image_url": null
+    },
+    {
+      "event_id": "3e64401a52c112e8",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Nova Brewing",
+      "description": "Join us for a free tasting with Nova Brewing!",
+      "start_at": "2026-09-12T16:00:00-07:00",
+      "end_at": "2026-09-12T19:30:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2024/08/Screenshot-2024-08-19-at-4.47.38%E2%80%AFPM.png"
+    },
+    {
+      "event_id": "5766295df6597492",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Zaddy's RTD Cocktails",
+      "description": "Made for both gin lovers and non-gin lovers, Zaddy's RTD canned cocktails are low sugar, low ABV, gluten free, and super refreshing. Come on in and try Zaddy's creative, unique craft cocktails that are perfect all year round.",
+      "start_at": "2026-09-15T17:00:00-07:00",
+      "end_at": "2026-09-15T19:00:00-07:00",
+      "image_url": null
+    },
+    {
+      "event_id": "c7064dd02edec56d",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: NEFT Vodka",
+      "description": "Crafted in Austria, NEFT Vodka is made from just two ingredients – Old World, non-GMO rye and oxygen-rich mountain spring water sourced from the Rhein River beneath the Alps. NEFT combines four different types of non-GMO ancient rye grains, is distilled three times in a copper-pot still using carbon-layer filtering, and is packaged in an eye catching unbreakable barrel. Come on in and try this great-tasting, smooth, quality rye vodka that is worth sipping.",
+      "start_at": "2026-09-22T17:00:00-07:00",
+      "end_at": "2026-09-22T19:00:00-07:00",
+      "image_url": null
+    },
+    {
+      "event_id": "08a524799f1368af",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: NON Na Wines",
+      "description": "Non is a NA wine alternative that will spark your tastebuds. Each bottle has key notes of floral, tannin, salinity, acidity.",
+      "start_at": "2026-09-27T16:00:00-07:00",
+      "end_at": "2026-09-27T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2024/01/Screen-Shot-2024-01-15-at-6.33.42-PM.png"
+    },
+    {
+      "event_id": "433ca997286904aa",
+      "location": "Costa Mesa",
+      "title": "Sunday Market is back! Join us this Saturday for a fun filled day with local vendors, complimentary tastings, food and music!",
+      "description": "Sunday Market is back! Join us this Saturday for a fun filled day with local vendors, complimentary tastings, food and music!",
+      "start_at": "2026-09-28T14:00:00-07:00",
+      "end_at": "2026-09-28T18:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2024/09/Screenshot-2024-09-23-at-7.00.22%E2%80%AFPM.png"
+    },
+    {
+      "event_id": "9d76df501eb5beea",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: YOLA Mezcal",
+      "description": "Female founded and run, this brand was created to honor Yola's grandfather and the centuries old know-how he bestowed on his children and grandchildren in the art of mezcal. Made from a blend of organic, fully ripe espadin and madrecuixe agaves that are naturally processed and double distilled in direct fire copper pot stills. The team behind Yola is dedicated to sustainability in all their efforts around mezcal and the greater community it impacts. Come on in and try this handcrafted, organic, artisanal mezcal!",
+      "start_at": "2026-10-06T17:00:00-07:00",
+      "end_at": "2026-10-06T19:00:00-07:00",
+      "image_url": null
+    },
+    {
+      "event_id": "c795f9c7bca4779b",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: NEFT Vodka",
+      "description": "Crafted in Austria, NEFT Vodka is made from just two ingredients – Old World, non-GMO rye and oxygen-rich mountain spring water sourced from the Rhein River beneath the Alps. NEFT combines four different types of non-GMO ancient rye grains, is distilled three times in a copper-pot still using carbon-layer filtering, and is packaged in an eye catching unbreakable barrel. Come on in and try this great-tasting, smooth, quality rye vodka that is worth sipping.",
+      "start_at": "2026-10-13T17:00:00-07:00",
+      "end_at": "2026-10-13T19:00:00-07:00",
+      "image_url": null
+    },
+    {
+      "event_id": "a897be7ac108aed2",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Chapman Crafted Beer",
+      "description": "Join us for a freet tasting with Chapman Crafted Beer!",
+      "start_at": "2026-10-16T16:00:00-07:00",
+      "end_at": "2026-10-16T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2025/07/Screenshot-2025-07-15-at-2.32.58%E2%80%AFPM.png"
+    },
+    {
+      "event_id": "0e0bc2234bddb96f",
+      "location": "Costa Mesa",
+      "title": "Costa Mesa Fall Market",
+      "description": "Join us for a festive day of local vendors + tattoos + free tastings + coffee + Basque cheesecake!!",
+      "start_at": "2026-10-18T15:00:00-07:00",
+      "end_at": "2026-10-18T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2025/10/Fall-Market.zip-1.png"
+    },
+    {
+      "event_id": "a7536e067f1826a6",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Calirosa Tequila",
+      "description": "Calirosa has taken a spin on traditional tequila – a fusion of Mexican spirit and California style captured in their Rosa Blanco, Anejo and Extra Anejo. Come by and try their 100% agave tequilas aged in California red wine barrels.",
+      "start_at": "2026-10-20T17:00:00-07:00",
+      "end_at": "2026-10-20T19:00:00-07:00",
+      "image_url": null
+    },
+    {
+      "event_id": "928cdbaafcbf5669",
+      "location": "Costa Mesa",
+      "title": "Hi-Lo Costa Mesa: Mini Market",
+      "description": "Join us at our Costa Mesa location for our fall Mini Market! We'll have complimentary tastings with Lovely Bunch, Taste Buds, Dead of Night Distillery, Pfeiffers Famous Beer, Nosotros Tequila!",
+      "start_at": "2026-10-21T16:00:00-07:00",
+      "end_at": "2026-10-21T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2023/10/hilo_cm_43-scaled.jpg"
+    },
+    {
+      "event_id": "fa9554564caf41d6",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Yuzy Margaritas",
+      "description": "Join us for a free tasting with Yuzy margaritas!",
+      "start_at": "2026-10-23T16:00:00-07:00",
+      "end_at": "2026-10-23T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2024/06/Screenshot-2024-06-18-at-1.22.02%E2%80%AFPM.png"
+    },
+    {
+      "event_id": "15da7bb945ba8f40",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Ola Sol",
+      "description": "",
+      "start_at": "2026-10-24T16:00:00-07:00",
+      "end_at": "2026-10-24T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2025/06/IMG_9417.jpg"
+    },
+    {
+      "event_id": "0acfd574d9eee8eb",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Morro Mezcal",
+      "description": "Join us at our Costa Mesa location for a free tasting of Morro Mezcal.",
+      "start_at": "2026-10-26T17:00:00-07:00",
+      "end_at": "2026-10-26T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2023/10/Screen-Shot-2023-10-19-at-3.28.21-PM-e1699309589640.png"
+    },
+    {
+      "event_id": "1c545d1b26b84417",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Smog City",
+      "description": "Come by and try some incredible beers from the award-winning LA craft brewery, Smog City, owned and run by husband and wife duo Jonathan and Laurie Porter.",
+      "start_at": "2026-10-28T17:00:00-07:00",
+      "end_at": "2026-10-28T19:00:00-07:00",
+      "image_url": null
+    },
+    {
+      "event_id": "a0600a706b0d73fc",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Copalli Rum",
+      "description": "Copalli's organic rums are crafted in Southern Belize at the Copal Tree Distillery, designed to run on biomass to have as low a carbon footprint as possible. Crafted from organic fresh sugar cane and proofed with \"canopy water\" collected straight from the rainforest, the Copal Tree Distillery supports sustainable agriculture, producing and selling premium organic, gluten-free spirits. Stop by and taste these delicious terroir driven spirits!",
+      "start_at": "2026-10-29T13:00:00-07:00",
+      "end_at": "2026-10-29T15:00:00-07:00",
+      "image_url": null
+    },
+    {
+      "event_id": "f6af94c626ca7e38",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Xila Aperitif + Coastal Stone + Bimini Gin",
+      "description": "Enjoy this complimentary tasting around the world spirits!",
+      "start_at": "2026-10-30T16:00:00-07:00",
+      "end_at": "2026-10-30T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2024/03/IMG_9160.jpg"
+    },
+    {
+      "event_id": "b576656bfa19e9ce",
+      "location": "Costa Mesa",
+      "title": "Boo Bash",
+      "description": "Join us for some Halloween Festivities at the Camp! We'll have complimentary tastings and Donuts by Dane's Donuts!",
+      "start_at": "2026-10-30T17:00:00-07:00",
+      "end_at": "2026-10-30T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2024/10/Screenshot-2024-10-29-at-12.18.55%E2%80%AFPM.png"
+    },
+    {
+      "event_id": "3a58375dddfb59ae",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Ranch West Organic Beer",
+      "description": "Come sample Ranch West Organic Beer! Their a mission to shift the cultural change towards a beer that’s better for you and for the planet.",
+      "start_at": "2026-11-02T15:00:00-08:00",
+      "end_at": "2026-11-02T18:00:00-08:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2024/10/Screenshot-2024-10-24-at-12.03.29%E2%80%AFPM.png"
+    },
+    {
+      "event_id": "b81fc0b4d75dc6b6",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Angel's Envy",
+      "description": "Based in the heart of Louisville, Angel's Envy produces Kentucky Straight Bourbon Finished in Port Barrels. Angel's Envy started as a father & son project and has now evolved into  a project in which 3 generations of Hendersons are all working together. Come on in and try Angel's Envy small-batch, hand crafted whiskies!",
+      "start_at": "2026-11-04T15:00:00-08:00",
+      "end_at": "2026-11-04T18:00:00-08:00",
+      "image_url": null
+    },
+    {
+      "event_id": "a5905abf23c08665",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: ROM Beer Co",
+      "description": "Join us for a free tasting with Rom Beer Co.",
+      "start_at": "2026-11-07T16:00:00-08:00",
+      "end_at": "2026-11-07T19:00:00-08:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2025/04/Screenshot-2025-04-08-at-1.58.52%E2%80%AFPM.png"
+    },
+    {
+      "event_id": "02aa0098b2b0fdb1",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Sweet Gwendoline French Gin",
+      "description": "Sweet Gwendoline is a gin sourced in the South of France and infused with wine and Figue de Solliès, a variety of fig grown in the region. Come by and try this French gin an experience its sweet entry, juniper, green apple, pepper notes and unique round citrus finish.",
+      "start_at": "2026-11-12T13:00:00-08:00",
+      "end_at": "2026-11-12T16:00:00-08:00",
+      "image_url": null
+    },
+    {
+      "event_id": "b2680d9174d60875",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Calista Coffee",
+      "description": "Join us for a complimentary tasting of Calista Coffee!",
+      "start_at": "2026-11-15T16:00:00-08:00",
+      "end_at": "2026-11-15T19:00:00-08:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2025/11/IMG_0066.jpg"
+    }
+  ],
+  "location": "Costa Mesa",
+  "language": "en-us",
+  "ttl_minutes": 60
+}

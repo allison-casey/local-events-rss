@@ -4,7 +4,7 @@ from __future__ import annotations
 
 from abc import ABC
 from abc import abstractmethod
-from collections.abc import Callable, Iterable, Sequence
+from collections.abc import Sequence
 from datetime import datetime
 
 from pydantic import BaseModel, ConfigDict, Field, HttpUrl
@@ -49,17 +49,17 @@ class FeedChannel(BaseModel):
     items: list[FeedItem]
 
 
-class RssChannel(ABC, BaseModel):
-    events: list[RssEvent]
-
-    @abstractmethod
-    def to_feed_channel(self) -> FeedChannel:
-        pass
-
-
 class RssEvent(ABC, BaseModel):
     @abstractmethod
     def to_feed_item(self) -> FeedItem:
+        pass
+
+
+class RssChannel[T: RssEvent](ABC, BaseModel):
+    events: list[T]
+
+    @abstractmethod
+    def to_feed_channel(self) -> FeedChannel:
         pass
 
 

@@ -12,10 +12,9 @@ import httpx
 import pendulum
 from bs4 import BeautifulSoup, Tag
 
-from rss.hilo.types import HiloEvent, HiloLocation
+from rss.hilo.types import DEFAULT_TIMEZONE, HiloChannel, HiloEvent, HiloLocation
 
 DEFAULT_LOCATIONS_URL: Final[str] = "https://hiloliquor.com/locations/"
-DEFAULT_TIMEZONE: Final[str] = "America/Los_Angeles"
 _EVENT_ITEM_CLASS: Final[str] = "item-single-bar"
 _TIME_RANGE_RE: Final[re.Pattern[str]] = re.compile(
     r"(?P<weekday>\w+)\s+"
@@ -83,16 +82,59 @@ def scrape_location_events(
     timezone: str = DEFAULT_TIMEZONE,
 ) -> list[HiloEvent]:
     """Fetch and parse all events for one Hi-Lo location."""
+    return scrape_location_channel(
+        location,
+        url=url,
+        client=client,
+        timezone=timezone,
+    ).events
+
+
+def scrape_location_channel(
+    location: HiloLocation,
+    *,
+    url: str = DEFAULT_LOCATIONS_URL,
+    client: httpx.Client | None = None,
+    timezone: str = DEFAULT_TIMEZONE,
+    soup: BeautifulSoup | None = None,
+) -> HiloChannel:
+    """Fetch and parse a Hi-Lo channel for one store location."""
+    if soup is None:
+        html = fetch_locations_html(url, client=client)
+        soup = parse_locations_html(html)
+    return _channel_from_soup(soup, location, timezone=timezone)
+
+
+def scrape_location_channels(
+    locations: list[HiloLocation],
+    *,
+    url: str = DEFAULT_LOCATIONS_URL,
+    client: httpx.Client | None = None,
+    timezone: str = DEFAULT_TIMEZONE,
+) -> list[HiloChannel]:
+    """Fetch the locations page once and parse channels for each location."""
     html = fetch_locations_html(url, client=client)
     soup = parse_locations_html(html)
-    now = pendulum.now(timezone)
     return [
+        _channel_from_soup(soup, location, timezone=timezone) for location in locations
+    ]
+
+
+def _channel_from_soup(
+    soup: BeautifulSoup,
+    location: HiloLocation,
+    *,
+    timezone: str,
+) -> HiloChannel:
+    now = pendulum.now(timezone)
+    events = [
         _to_hilo_event(raw, now=now, timezone=timezone)
         for raw in (
             _parse_event_element(element, location)
             for element in iter_location_event_elements(soup, location)
         )
     ]
+    return HiloChannel.for_location(location, events)
 
 
 def build_event_id(
@@ -130,9 +172,9 @@ def _iter_event_items_until_next_section(events_heading: Tag) -> Iterator[Tag]:
 
 def _parse_event_element(element: Tag, location: HiloLocation) -> _RawEventFields:
     month_label, day = _parse_month_day(element)
-    schedule_label = _text_from_selector(element, "p.tracking-customSix")
-    title = _text_from_selector(element, "p.text-3xl")
+    schedule_label = _text_from_selector(element, "p[class*='tracking-customSix']")
     description = _optional_text_from_selector(element, "p.my-2")
+    title = _parse_title(element, description=description)
     image = element.find("img")
     image_url = str(image.get("src")) if image else None
     if isinstance(image_url, str) and not image_url.strip():
@@ -166,10 +208,29 @@ def _parse_month_day(element: Tag) -> tuple[str, int]:
     return month_paragraph, day_value
 
 
+def _parse_title(element: Tag, *, description: str) -> str:
+    """Parse event title, falling back when the primary heading is empty."""
+    title = _optional_text_from_selector(element, "p.text-3xl")
+    if title:
+        return title
+    if description:
+        first_sentence = description.split(".", 1)[0].strip()
+        return first_sentence or description[:120].strip()
+    image = element.find("img")
+    if image is not None:
+        alt = (image.get("alt") or "").strip()
+        if alt:
+            return alt
+    raise ValueError("Could not parse event title from element")
+
+
 def _text_from_selector(element: Tag, selector: str) -> str:
     text = _optional_text_from_selector(element, selector)
     if not text:
-        raise ValueError(f"Missing element for selector: {selector}")
+        matched = element.select_one(selector)
+        if matched is None:
+            raise ValueError(f"Missing element for selector: {selector}")
+        raise ValueError(f"Empty text for selector: {selector}")
     return text
 
 
