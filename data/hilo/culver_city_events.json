@@ -1,24 +1,54 @@
 [
   {
+    "event_id": "5fe5b2b5d9eda214",
+    "location": "Long Beach",
+    "title": "Free Tasting: Mario's Hard Espresso",
+    "description": "Join us for a free tasting with Mario's Hard Espresso!",
+    "start_at": "2025-11-19T15:30:00-08:00",
+    "end_at": "2025-11-19T18:30:00-08:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2024/10/Screenshot-2024-10-24-at-12.09.37%E2%80%AFPM.png"
+  },
+  {
     "event_id": "161bb1c6267e5374",
     "location": "Culver City",
     "title": "Free Tasting: Whiskey Del Bac",
     "description": "Join us for a complimentary tasting of Whiskey Del Bac!",
-    "schedule_label": "Thursday 04:00pm – 07:00pm",
-    "month_label": "Nov",
-    "day": 20,
     "start_at": "2025-11-20T16:00:00-08:00",
     "end_at": "2025-11-20T19:00:00-08:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2025/11/IMG_0283.jpg"
+  },
+  {
+    "event_id": "804e6adb6d13a6ac",
+    "location": "Long Beach",
+    "title": "Free Tasting: Long Beach Beer Lab",
+    "description": "Join us with a complimentary with Long Beach Beer Lab~",
+    "start_at": "2025-11-20T16:00:00-08:00",
+    "end_at": "2025-11-20T19:00:00-08:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2025/11/IMG_0284.jpg"
+  },
+  {
+    "event_id": "c58aff239f1a9c3c",
+    "location": "Long Beach",
+    "title": "Food Pop-up: Three Pigs LBC",
+    "description": "Come by to enjoy Three Pigs LBC Japanese street food + yakitori!",
+    "start_at": "2025-11-22T12:00:00-08:00",
+    "end_at": "2025-11-22T16:00:00-08:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2025/08/IMG_8691.jpg"
+  },
+  {
+    "event_id": "43ec560e6157d1e5",
+    "location": "Long Beach",
+    "title": "Free Tasting: Bardstown Whiskey",
+    "description": "Join us for a complimentary tasting with Bardstown Bourbon!",
+    "start_at": "2025-11-28T16:00:00-08:00",
+    "end_at": "2025-11-28T19:00:00-08:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2025/11/IMG_0064-1.jpg"
   },
   {
     "event_id": "a434215efcf2eb3a",
     "location": "Culver City",
     "title": "Free Tasting: Craft Spirits Coop",
     "description": "Join us for a free tasting with Craft Spirits Coop lineup!",
-    "schedule_label": "Saturday 01:00pm – 04:00pm",
-    "month_label": "Nov",
-    "day": 29,
     "start_at": "2025-11-29T13:00:00-08:00",
     "end_at": "2025-11-29T16:00:00-08:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2024/03/IMG_9160.jpg"
@@ -28,21 +58,60 @@
     "location": "Culver City",
     "title": "Holiday Sip & Shop",
     "description": "Join us for a festive day at all Locations 2-6PM. We've got complimentary tastings and local vendors lined up for a festive day of shopping! We're here to make gift giving season extra special!",
-    "schedule_label": "Saturday 02:00pm – 06:00pm",
-    "month_label": "Dec",
-    "day": 6,
     "start_at": "2025-12-06T14:00:00-08:00",
     "end_at": "2025-12-06T18:00:00-08:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2025/12/Beige-Minimalist-Aesthetic-Holiday-Sale-Instagram-Post.png.png"
+  },
+  {
+    "event_id": "89130bd60a6b5896",
+    "location": "Long Beach",
+    "title": "Holiday Sip & Shop",
+    "description": "Join us for a festive day at all Locations 2-6PM. We've got complimentary tastings and local vendors lined up for a festive day of shopping! We're here to make gift giving season extra special!",
+    "start_at": "2025-12-06T14:00:00-08:00",
+    "end_at": "2025-12-06T18:00:00-08:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2025/12/Beige-Minimalist-Aesthetic-Holiday-Sale-Instagram-Post.png.png"
+  },
+  {
+    "event_id": "9e09aaf3c6e24371",
+    "location": "Long Beach",
+    "title": "Free Tasting: Ogopogo Brewing",
+    "description": "Deryk from Ogopogo Brewing in San Gabriel, California will be in store sampling beers! The beers are named for legendary creatures and figures from around the world, with the style of beer and ingredients used often linked through the country of origin.",
+    "start_at": "2025-12-07T15:00:00-08:00",
+    "end_at": "2025-12-07T18:00:00-08:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2023/12/Screenshot-2024-12-02-at-3.15.36%E2%80%AFPM.png"
+  },
+  {
+    "event_id": "216dc02c05c22ea4",
+    "location": "Long Beach",
+    "title": "Free Tasting: Dreyfus Ashby Wines",
+    "description": "Come taste your way through France with 3 wines from Campuget: 1753 Rose, Viognier & Syrah.",
+    "start_at": "2025-12-10T15:30:00-08:00",
+    "end_at": "2025-12-10T18:30:00-08:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2025/12/Screenshot-2025-12-09-at-10.45.00-AM.png"
+  },
+  {
+    "event_id": "5a02446b129475de",
+    "location": "Long Beach",
+    "title": "Free Tasting: St. Agrestis Phony Drinks & Kin Whiskey",
+    "description": "Join us for a complimentary tasting of St. Agrestis Phony Drinks & Kin Whiskey!",
+    "start_at": "2025-12-11T16:00:00-08:00",
+    "end_at": "2025-12-11T19:00:00-08:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2025/12/IMG_0606.jpg"
+  },
+  {
+    "event_id": "5db903fef94da68b",
+    "location": "Long Beach",
+    "title": "Free Tasting: Simple Shots",
+    "description": "Come sample the spirit based juice shot. Simple ingredients, all natural, made with real fruit.",
+    "start_at": "2025-12-11T16:00:00-08:00",
+    "end_at": "2025-12-11T19:00:00-08:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2024/05/Screenshot-2024-05-15-at-3.45.58%E2%80%AFPM.png"
   },
   {
     "event_id": "ab0ab50a2fece346",
     "location": "Culver City",
     "title": "Free Tasting: Domaine Casademont Wines",
     "description": "Come experience some incredible French wines from a fresh and inventive young wine maker!",
-    "schedule_label": "Friday 04:00pm – 07:00pm",
-    "month_label": "Dec",
-    "day": 12,
     "start_at": "2025-12-12T16:00:00-08:00",
     "end_at": "2025-12-12T19:00:00-08:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2025/12/Screenshot-2025-12-09-at-11.09.10-AM.png"
@@ -52,69 +121,168 @@
     "location": "Culver City",
     "title": "Off Hours Whiskey Takeover",
     "description": "Join us for a festive day of Off Hours whiskey at all locations with a curated experience, including: a complimentary festive drink and gifts with purchase.  \r\n\r\n\r\n• Culver City: SMPL Artisan Cheesecakes will be popping-up with yummy, fresh cheesecakes\r\n• Long Beach: Slowlines Art will be popping-up \r\n• Costa Mesa: Made by Mabel Ceramics will be popping-up",
-    "schedule_label": "Saturday 02:00pm – 06:00pm",
-    "month_label": "Dec",
-    "day": 13,
     "start_at": "2025-12-13T14:00:00-08:00",
     "end_at": "2025-12-13T18:00:00-08:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2024/12/Screenshot-2024-12-16-at-7.53.43%E2%80%AFPM.png"
+  },
+  {
+    "event_id": "83c3dcd01f63294f",
+    "location": "Long Beach",
+    "title": "Off Hours Whiskey Takeover",
+    "description": "Join us for a festive day of Off Hours whiskey at all locations with a curated experience, including: a complimentary festive drink and gifts with purchase.  \r\n\r\n\r\n• Culver City: SMPL Artisan Cheesecakes will be popping-up with yummy, fresh cheesecakes\r\n• Long Beach: Slowlines Art will be popping-up \r\n• Costa Mesa: Made by Mabel Ceramics will be popping-up",
+    "start_at": "2025-12-13T14:00:00-08:00",
+    "end_at": "2025-12-13T18:00:00-08:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2024/12/Screenshot-2024-12-16-at-7.53.43%E2%80%AFPM.png"
+  },
+  {
+    "event_id": "7644e2d93a3f1aa8",
+    "location": "Long Beach",
+    "title": "Sip n' Shop",
+    "description": "Join us at all three locations to Sip & Shop on 12/14 | 2-6PM 🎁 We’ve got a festive day filled with complimentary tastings, local vendors, gift with purchase, gift wrapping and more!!",
+    "start_at": "2025-12-14T14:00:00-08:00",
+    "end_at": "2025-12-14T18:00:00-08:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2024/12/Screenshot-2024-12-09-at-7.03.13%E2%80%AFPM.png"
   },
   {
     "event_id": "58bbf0cb259712eb",
     "location": "Culver City",
     "title": "Free Tasting: Crown & Hops",
     "description": "Based out of Inglewood, CA, Crown and Hops is the first black-owned, woman-owned, and veteran-owned brewery. Owners Beny Ashburn and Teo Hunter have disrupted the space and built a brand whose core mission is to create culture equity in the beer industry. Come by, show your support and try some of their wonderful beers!",
-    "schedule_label": "Wednesday 03:00pm – 06:00pm",
-    "month_label": "Dec",
-    "day": 17,
     "start_at": "2025-12-17T15:00:00-08:00",
     "end_at": "2025-12-17T18:00:00-08:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2022/11/Screen-Shot-2024-04-14-at-8.29.06-PM.png"
+  },
+  {
+    "event_id": "5f09e5ecbc691d4c",
+    "location": "Long Beach",
+    "title": "Free Tasting: Aplos NA Spirits",
+    "description": "Aplos specializes in hemp infused NA spirit alternatives. Join us for a free sample of their delicious products!",
+    "start_at": "2025-12-19T15:30:00-08:00",
+    "end_at": "2025-12-19T18:30:00-08:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2024/01/Screen-Shot-2024-01-11-at-1.20.51-PM.png"
   },
   {
     "event_id": "d24e9b298ecc19ac",
     "location": "Culver City",
     "title": "Free Tasting: Simple Shots",
     "description": "Come sample the spirit based juice shot. Simple ingredients, all natural, made with real fruit.",
-    "schedule_label": "Friday 04:00pm – 07:00pm",
-    "month_label": "Dec",
-    "day": 19,
     "start_at": "2025-12-19T16:00:00-08:00",
     "end_at": "2025-12-19T19:00:00-08:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2024/05/Screenshot-2024-05-15-at-3.45.58%E2%80%AFPM.png"
+  },
+  {
+    "event_id": "0a6a10bfcc83a314",
+    "location": "Long Beach",
+    "title": "Free Tasting: Laurel Canyon Spirits",
+    "description": "Join us for a free tasting with Laurel Canyon Spirits! We'll be trying their Cold Black Hjerte Coffee Liqueur.",
+    "start_at": "2025-12-19T16:00:00-08:00",
+    "end_at": "2025-12-19T19:00:00-08:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2024/12/Screenshot-2024-12-16-at-7.50.35%E2%80%AFPM.png"
+  },
+  {
+    "event_id": "15f6d9e87e16633c",
+    "location": "Long Beach",
+    "title": "Free Tasting: Green River Whiskey",
+    "description": "Join us for a free tasting with Green River Whiskey!",
+    "start_at": "2025-12-19T16:00:00-08:00",
+    "end_at": "2025-12-19T19:00:00-08:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2024/12/Screenshot-2024-12-09-at-7.00.54%E2%80%AFPM.png"
   },
   {
     "event_id": "9d59d8bea7bb1cec",
     "location": "Culver City",
     "title": "Store Closed – MERRY CHRISTMAS!",
     "description": "We'll be closed for Christmas Day but open again on December 26th at our normal hours.  Enjoy your holiday!",
-    "schedule_label": "Thursday 12:00am – 11:00pm",
-    "month_label": "Dec",
-    "day": 25,
     "start_at": "2025-12-25T00:00:00-08:00",
     "end_at": "2025-12-25T23:00:00-08:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2025/12/069749708a2308650e6569378b19f448-2.jpg"
+  },
+  {
+    "event_id": "1fa3e17da558d489",
+    "location": "Long Beach",
+    "title": "Store Closed – MERRY CHRISTMAS!",
+    "description": "We'll be closed for Christmas Day but open again on December 26th at our normal hours.  Enjoy your holiday!",
+    "start_at": "2025-12-25T00:00:00-08:00",
+    "end_at": "2025-12-25T23:00:00-08:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2025/12/069749708a2308650e6569378b19f448-2.jpg"
+  },
+  {
+    "event_id": "cdc0f22be5f0747f",
+    "location": "Long Beach",
+    "title": "Free Tasting: Soju-Holics",
+    "description": "Join us for a free tasting with Soju-Holics!",
+    "start_at": "2025-12-27T16:00:00-08:00",
+    "end_at": "2025-12-27T19:00:00-08:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2024/12/Screenshot-2024-12-27-at-2.49.47%E2%80%AFPM.png"
+  },
+  {
+    "event_id": "f4b41ceddbebf35e",
+    "location": "Long Beach",
+    "title": "Free Tasting: Manly Spirits",
+    "description": "Come try a sample of Manly Spirits pink martini or NA pink martini!",
+    "start_at": "2026-01-15T16:00:00-08:00",
+    "end_at": "2026-01-15T19:00:00-08:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2025/01/Screenshot-2025-01-07-at-2.18.28%E2%80%AFPM.png"
+  },
+  {
+    "event_id": "aaacb3487662e677",
+    "location": "Long Beach",
+    "title": "Free Tasting: Vala Lifestyle Seltzer",
+    "description": "Join us for a free tasting Vala Seltzer, they're a low abv lifestyle seltzer that's low cal and sugar-free. We'll be sampling Cucumber mint and Yuzu Lemon.",
+    "start_at": "2026-01-22T15:30:00-08:00",
+    "end_at": "2026-01-22T18:30:00-08:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2024/12/Screenshot-2024-12-16-at-7.45.08%E2%80%AFPM.png"
   },
   {
     "event_id": "523eb2fcd9c26887",
     "location": "Culver City",
     "title": "Free Tasting: Nankai Shochu",
     "description": "Come taste and learn about the wonderful world of shochu with these tasty spirits!",
-    "schedule_label": "Friday 04:00pm – 07:00pm",
-    "month_label": "Jan",
-    "day": 23,
     "start_at": "2026-01-23T16:00:00-08:00",
     "end_at": "2026-01-23T19:00:00-08:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2026/01/Screenshot-2026-01-19-at-2.33.14-PM.png"
+  },
+  {
+    "event_id": "885723b57f7fdb4c",
+    "location": "Long Beach",
+    "title": "Free Tasting: Tost",
+    "description": "Join us for a free tasting with Tost, an NA tea based drink.",
+    "start_at": "2026-01-23T16:00:00-08:00",
+    "end_at": "2026-01-23T19:00:00-08:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2024/02/Screen-Shot-2024-02-26-at-7.22.47-PM.png"
+  },
+  {
+    "event_id": "c41fc3373485e2a0",
+    "location": "Long Beach",
+    "title": "Free Tasting: Parch NA Cocktails",
+    "description": "Join us for a free tasting with Parch! They specialize in agave based NA cocktails.",
+    "start_at": "2026-01-29T16:00:00-08:00",
+    "end_at": "2026-01-29T19:00:00-08:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2024/01/Screen-Shot-2024-01-29-at-6.42.12-PM.png"
+  },
+  {
+    "event_id": "701828b3eb858969",
+    "location": "Long Beach",
+    "title": "Free Tasting: MadeWest Brewing",
+    "description": "Join us for a free tasting of the delicious beers from MadeWest Brewing!",
+    "start_at": "2026-01-30T16:00:00-08:00",
+    "end_at": "2026-01-30T19:00:00-08:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2026/01/MadeWest.png"
+  },
+  {
+    "event_id": "25a292b4dd016c3a",
+    "location": "Long Beach",
+    "title": "Beer Tasting: Topo Chico Hard Seltzer",
+    "description": "Come join us to sample some flavorful hard seltzers from Topo Chico!",
+    "start_at": "2026-01-30T16:00:00-08:00",
+    "end_at": "2026-01-30T19:00:00-08:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2023/11/Screen-Shot-2023-11-06-at-4.30.04-PM.png"
   },
   {
     "event_id": "3777fc7ede83aed4",
     "location": "Culver City",
     "title": "Food Pop Up: Shuck Brother's Oysters",
     "description": "Join us for some oysters and good times! Shuck brothers will be serving freshly shucked oysters, Maine lobster rolls and Maine lobster rolls!  YUUMMMM",
-    "schedule_label": "Saturday 01:00pm – 05:00pm",
-    "month_label": "Jan",
-    "day": 31,
     "start_at": "2026-01-31T13:00:00-08:00",
     "end_at": "2026-01-31T17:00:00-08:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2025/09/Shuck-Bros-2.png"
@@ -124,9 +292,6 @@
     "location": "Culver City",
     "title": "Free Tasting: Mario's Hard Espresso",
     "description": "Join us for a free tasting with Mario's Hard Espresso!",
-    "schedule_label": "Saturday 04:00pm – 07:00pm",
-    "month_label": "Jan",
-    "day": 31,
     "start_at": "2026-01-31T16:00:00-08:00",
     "end_at": "2026-01-31T19:00:00-08:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2024/10/Screenshot-2024-10-24-at-12.09.37%E2%80%AFPM.png"
@@ -136,9 +301,6 @@
     "location": "Culver City",
     "title": "Free Tasting: Ghia N/A Spritz",
     "description": "Join us for a complimentary tasting of GHIA n/a spritz!",
-    "schedule_label": "Thursday 04:00pm – 07:00pm",
-    "month_label": "Feb",
-    "day": 5,
     "start_at": "2026-02-05T16:00:00-08:00",
     "end_at": "2026-02-05T19:00:00-08:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2025/11/IMG_0282.jpg"
@@ -148,9 +310,6 @@
     "location": "Culver City",
     "title": "Free Tasting: Ford's Gin & Negronis",
     "description": "Join us for a free tasting with Ford's Gin, \"The Cocktail Gin.\"  Complimentary samples of Ford's Gin negronis will also be on offer!",
-    "schedule_label": "Friday 03:00pm – 06:00pm",
-    "month_label": "Feb",
-    "day": 6,
     "start_at": "2026-02-06T15:00:00-08:00",
     "end_at": "2026-02-06T18:00:00-08:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2026/02/Fords-Gin.png"
@@ -160,9 +319,6 @@
     "location": "Culver City",
     "title": "Free Tasting: Livewire Canned Cocktails",
     "description": "LiveWire creates award-winning cocktails made by award-winning bartenders. The company's mission is to help further highlight the immensely talented bartenders that create brilliant drinks & nights, around the world. LiveWire bartender-collaborators design unique cocktails, using the finest spirits in the world, natural flavors and extracts, and choose the artists that design the art on the packaging to help their vision come alive. Come check out this bold new brand with a free tasting of their exciting ready-to-drink canned cocktails!",
-    "schedule_label": "Sunday 11:00am – 01:00pm",
-    "month_label": "Feb",
-    "day": 8,
     "start_at": "2026-02-08T11:00:00-08:00",
     "end_at": "2026-02-08T13:00:00-08:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2022/08/Screenshot-2026-02-06-at-2.46.30-PM.png"
@@ -172,21 +328,24 @@
     "location": "Culver City",
     "title": "Free Tasting: Nosotros Tequila  & Mezcal",
     "description": "Nosotros is a small-batch agave spirits brand that marries the Pura Vida lifestyle of Costa Rica with the rebel spirit of Mexico, blending them under the California sun. Come on in and try this independent brand's award-winning Blanco, Reposado, and Mezcal!",
-    "schedule_label": "Sunday 11:00am – 01:00pm",
-    "month_label": "Feb",
-    "day": 8,
     "start_at": "2026-02-08T11:00:00-08:00",
     "end_at": "2026-02-08T13:00:00-08:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2022/12/Screenshot-2024-08-06-at-6.57.56%E2%80%AFPM.png"
+  },
+  {
+    "event_id": "47f4179f34ab0838",
+    "location": "Long Beach",
+    "title": "Free Tasting: Mas Vino x Wonderwerk Wines",
+    "description": "With Valentine's Day right around the corner, come enjoy a free tasting of fun wines from Wonderwerk & Mas Vino: Chismosa & Como La Flor.  Get in the mood for love with these inventive wines!",
+    "start_at": "2026-02-11T15:30:00-08:00",
+    "end_at": "2026-02-11T18:30:00-08:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2026/02/Como-La-Flor.png"
   },
   {
     "event_id": "cbe6c9166676dbec",
     "location": "Culver City",
     "title": "Free Tasting: Mas Vino x Wonderwerk Wines",
     "description": "Get in the mood for love with a free tasting of fun wines from Wonderwerk & Mas Vino: Chismosa & Como La Flor!",
-    "schedule_label": "Saturday 01:00pm – 04:00pm",
-    "month_label": "Feb",
-    "day": 14,
     "start_at": "2026-02-14T13:00:00-08:00",
     "end_at": "2026-02-14T16:00:00-08:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2026/02/Como-La-Flor.png"
@@ -196,21 +355,24 @@
     "location": "Culver City",
     "title": "Fiore Flower Pop-Up",
     "description": "We’ve got everything you need to make this Valentine’s extra special, including beautiful bouquets by Fiore!",
-    "schedule_label": "Saturday 11:00am – 03:00pm",
-    "month_label": "Feb",
-    "day": 15,
     "start_at": "2026-02-15T11:00:00-08:00",
     "end_at": "2026-02-15T15:00:00-08:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2025/02/Screenshot-2025-02-10-at-4.07.21%E2%80%AFPM.png"
+  },
+  {
+    "event_id": "9fad593de7dc5f61",
+    "location": "Long Beach",
+    "title": "Free Tasting: Precis Vodka",
+    "description": "Join us for a free tasting with Precis Vodka.",
+    "start_at": "2026-02-19T15:30:00-08:00",
+    "end_at": "2026-02-19T18:30:00-08:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2024/11/Screenshot-2024-11-05-at-12.23.00%E2%80%AFPM.png"
   },
   {
     "event_id": "303ff8afaa6fc519",
     "location": "Culver City",
     "title": "Free Tasting: Lost Republic Bourbon & Rye",
     "description": "Lost Republic Distilling Co. was created by two best friends who had a vision of creating and delivering California's highest quality craft whiskey. Their Master Distiller has a keen attention to detail during the blending process, giving their whiskey flavor complexity and depth.   \r\nCome try their small batch American whiskey produced right here in the heart of Sonoma.",
-    "schedule_label": "Friday 04:00pm – 07:00pm",
-    "month_label": "Feb",
-    "day": 20,
     "start_at": "2026-02-20T16:00:00-08:00",
     "end_at": "2026-02-20T19:00:00-08:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2022/08/Asset-3.png"
@@ -220,9 +382,6 @@
     "location": "Culver City",
     "title": "Free Tasting: Bottle Logic Brewing",
     "description": "Join us for a free tasting with Bottle Logic Brewery!",
-    "schedule_label": "Friday 04:00pm – 07:00pm",
-    "month_label": "Feb",
-    "day": 20,
     "start_at": "2026-02-20T16:00:00-08:00",
     "end_at": "2026-02-20T19:00:00-08:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2025/05/Screenshot-2025-05-13-at-11.05.57%E2%80%AFAM.png"
@@ -232,21 +391,24 @@
     "location": "Culver City",
     "title": "Free Tasting: Sake High",
     "description": "Sake High! is premium junmai sake brewed in Kyoto, Japan using classic techniques and local ingredients. Come by and try the refreshing sake, which comes in single cans and bottles.",
-    "schedule_label": "Thursday 04:00pm – 07:00pm",
-    "month_label": "Feb",
-    "day": 26,
     "start_at": "2026-02-26T16:00:00-08:00",
     "end_at": "2026-02-26T19:00:00-08:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2023/03/Screen-Shot-2024-01-23-at-3.30.35-PM.png"
+  },
+  {
+    "event_id": "21652d16df092935",
+    "location": "Long Beach",
+    "title": "Free Tasting: Via Carota Cocktails",
+    "description": "Join us for a Free Tasting with Via Carota Craft Cocktails!",
+    "start_at": "2026-02-26T16:00:00-08:00",
+    "end_at": "2026-02-26T19:00:00-08:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2025/09/IMG_9074.jpg"
   },
   {
     "event_id": "628ac206eb15505d",
     "location": "Culver City",
     "title": "Free Tasting: Kings County Whiskey",
     "description": "Join us for a free tasting with the legendary NY whiskey, Kings County!",
-    "schedule_label": "Friday 04:00pm – 07:00pm",
-    "month_label": "Feb",
-    "day": 27,
     "start_at": "2026-02-27T16:00:00-08:00",
     "end_at": "2026-02-27T19:00:00-08:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2026/02/Screenshot-2026-02-22-at-4.35.14-PM.png"
@@ -256,21 +418,24 @@
     "location": "Culver City",
     "title": "Free Tasting: Via Carota Cocktails",
     "description": "Join us for a Free Tasting with Via Carota Craft Cocktails!",
-    "schedule_label": "Saturday 01:00pm – 04:00pm",
-    "month_label": "Feb",
-    "day": 28,
     "start_at": "2026-02-28T13:00:00-08:00",
     "end_at": "2026-02-28T16:00:00-08:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2025/09/IMG_9074.jpg"
+  },
+  {
+    "event_id": "8b79f6f6e6576c1d",
+    "location": "Long Beach",
+    "title": "Free Tasting: Kolfok Wines",
+    "description": "We'll be sampling through 3 wines by Kolfolk. Winemaker, Stefan Wellanschitz is a natura wine maker in Austria in the Ödenburger Valley. He wants to avoid monoculture and prefers the grapes grow naturally together and whatever else might sprout up in between such as flowers and herbs. These wine are super fun and delicious!",
+    "start_at": "2026-03-05T16:00:00-08:00",
+    "end_at": "2026-03-05T19:00:00-08:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2025/01/Screenshot-2025-01-07-at-1.09.42%E2%80%AFPM.png"
   },
   {
     "event_id": "917f7a5987793e91",
     "location": "Culver City",
     "title": "Free Tasting: Wolf Spirits",
     "description": "Jef from Wolf Spirits will be sampling Granalta Mezcal and Rum along with Mama Chuy.",
-    "schedule_label": "Wednesday 05:00pm – 07:30pm",
-    "month_label": "Mar",
-    "day": 5,
     "start_at": "2026-03-05T17:00:00-08:00",
     "end_at": "2026-03-05T19:30:00-08:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2023/12/%C2%A9Project-M-Plus_Hi-Lo_Liquor_3-scaled.jpg"
@@ -280,9 +445,6 @@
     "location": "Culver City",
     "title": "Free Tasting: Perro Verde Mezcal",
     "description": "Join us for a free tasting with Perro Verde Mezcal!",
-    "schedule_label": "Friday 04:00pm – 07:00pm",
-    "month_label": "Mar",
-    "day": 6,
     "start_at": "2026-03-06T16:00:00-08:00",
     "end_at": "2026-03-06T19:00:00-08:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2024/09/Screenshot-2024-09-18-at-2.53.44%E2%80%AFPM.png"
@@ -292,9 +454,6 @@
     "location": "Culver City",
     "title": "Free Tasting: Penelope Whiskey and Yellowstone Whiskey",
     "description": "Join us for a free tasting with Penelope and Yellowstone whiskeys.",
-    "schedule_label": "Thursday 04:00pm – 06:00pm",
-    "month_label": "Mar",
-    "day": 6,
     "start_at": "2026-03-06T16:00:00-08:00",
     "end_at": "2026-03-06T18:00:00-08:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2023/12/%C2%A9Project-M-Plus_Hi-Lo_Liquor_3-scaled.jpg"
@@ -304,9 +463,6 @@
     "location": "Culver City",
     "title": "Free Tasting: Kolfok Wines",
     "description": "We'll be sampling through 3 wines by Kolfolk. Winemaker, Stefan Wellanschitz is a natura wine maker in Austria in the Ödenburger Valley. He wants to avoid monoculture and prefers the grapes grow naturally together and whatever else might sprout up in between such as flowers and herbs. These wine are super fun and delicious!",
-    "schedule_label": "Thursday 04:00pm – 07:00pm",
-    "month_label": "Mar",
-    "day": 6,
     "start_at": "2026-03-06T16:00:00-08:00",
     "end_at": "2026-03-06T19:00:00-08:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2025/01/Screenshot-2025-01-07-at-1.09.42%E2%80%AFPM.png"
@@ -316,21 +472,24 @@
     "location": "Culver City",
     "title": "Free Tasting: AgaveLuz Tequila",
     "description": "Join us for a free tasting of AgaveLuz, and celebrate women's history month with female owned organic tequila.",
-    "schedule_label": "Saturday 01:00pm – 04:00pm",
-    "month_label": "Mar",
-    "day": 7,
     "start_at": "2026-03-07T13:00:00-08:00",
     "end_at": "2026-03-07T16:00:00-08:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2026/03/Screenshot-2026-03-01-at-12.14.01-PM.png"
+  },
+  {
+    "event_id": "92a64a7ea0b9568e",
+    "location": "Long Beach",
+    "title": "Free Tasting: Jiant Hard Kombucha & Tea",
+    "description": "Come by and try the clean, crisp, and refreshing hard kombuchas and hard teas from Jiant, which are crafted with fresh-brewed organic teas, botanicals and real fruit.",
+    "start_at": "2026-03-11T15:30:00-07:00",
+    "end_at": "2026-03-11T18:30:00-07:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2023/01/Screen-Shot-2024-03-04-at-7.09.12-PM.png"
   },
   {
     "event_id": "92cc84aaa2c92d9a",
     "location": "Culver City",
     "title": "Free Tasting: Ysidro Sake Spritz",
     "description": "Come enjoy a free taste of this sophisticated spritz made with super premium sake and real, organic grapefruit & sea salt.",
-    "schedule_label": "Wednesday 04:00pm – 07:00pm",
-    "month_label": "Mar",
-    "day": 11,
     "start_at": "2026-03-11T16:00:00-07:00",
     "end_at": "2026-03-11T19:00:00-07:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2025/12/ysidro-cover-scaled-e1765843142737.jpg"
@@ -340,9 +499,6 @@
     "location": "Culver City",
     "title": "Free Tasting: Two Stacks Irish Whiskey",
     "description": "Join us for a free tasting with Two Stacks Irish Whiskey. We'll be sampling out their Dram in Can RTD's!",
-    "schedule_label": "Wednesday 04:00pm – 07:00pm",
-    "month_label": "Mar",
-    "day": 11,
     "start_at": "2026-03-11T16:00:00-07:00",
     "end_at": "2026-03-11T19:00:00-07:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2025/04/Screenshot-2025-04-09-at-11.25.14%E2%80%AFAM.png"
@@ -352,21 +508,33 @@
     "location": "Culver City",
     "title": "Free Tasting: Bordiga Vermouth and Spirits",
     "description": "Join us for a free tasting with Bordiga Vermouth + Spirits!",
-    "schedule_label": "Wednesday 04:00pm – 07:00pm",
-    "month_label": "Mar",
-    "day": 12,
     "start_at": "2026-03-12T16:00:00-07:00",
     "end_at": "2026-03-12T19:00:00-07:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2025/03/Screenshot-2025-03-11-at-3.33.08%E2%80%AFPM.png"
+  },
+  {
+    "event_id": "6fde53dbfaa8314f",
+    "location": "Long Beach",
+    "title": "Free Tasting: Lodestar Whiskey",
+    "description": "Join us for a free tasting with Lodestar whiskey!",
+    "start_at": "2026-03-13T16:00:00-07:00",
+    "end_at": "2026-03-13T19:00:00-07:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2024/03/Screen-Shot-2024-03-21-at-2.49.04-PM.png"
+  },
+  {
+    "event_id": "44cb93fdeab94bba",
+    "location": "Long Beach",
+    "title": "Free Tasting: Breakthru",
+    "description": "Jeff from Breakthru will be tasting through some sparkling wines and white wines from their portfolio!",
+    "start_at": "2026-03-13T16:00:00-07:00",
+    "end_at": "2026-03-13T19:00:00-07:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2023/12/%C2%A9Project-M-Plus_Hi-Lo_Liquor_3-scaled.jpg"
   },
   {
     "event_id": "f6b59c7a7f7fd238",
     "location": "Culver City",
     "title": "Free Tasting: Lodestar Whiskey",
     "description": "Join us for a free tasting with Lodestar whiskey!",
-    "schedule_label": "Saturday 04:00pm – 07:00pm",
-    "month_label": "Mar",
-    "day": 14,
     "start_at": "2026-03-14T16:00:00-07:00",
     "end_at": "2026-03-14T19:00:00-07:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2024/03/Screen-Shot-2024-03-21-at-2.49.04-PM.png"
@@ -376,45 +544,78 @@
     "location": "Culver City",
     "title": "Free Tasting: Busker Irish Whiskey",
     "description": "Join us for a free tasting with Busker Irish Whiskey!",
-    "schedule_label": "Friday 04:00pm – 07:00pm",
-    "month_label": "Mar",
-    "day": 14,
     "start_at": "2026-03-14T16:00:00-07:00",
     "end_at": "2026-03-14T19:00:00-07:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2025/03/Screenshot-2025-03-11-at-3.47.33%E2%80%AFPM.png"
+  },
+  {
+    "event_id": "c56d0575e9493c96",
+    "location": "Long Beach",
+    "title": "Free Tasting: Golden Rule Canned Cocktails",
+    "description": "Golden Rule's drinks are top-shelf, bar-strength destination cocktails in convenient 100ml cans so that you can sip, savor, and enjoy wherever the day or night takes you. Come by and try their delicious, quality canned cocktails including The Margarita, Old Fashioned, and Espresso Martini!",
+    "start_at": "2026-03-14T16:00:00-07:00",
+    "end_at": "2026-03-14T19:00:00-07:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2022/10/Screenshot-2024-12-02-at-2.51.46%E2%80%AFPM.png"
+  },
+  {
+    "event_id": "a3a390ecca4860c2",
+    "location": "Long Beach",
+    "title": "Free Tasting: Writer's Tears Irish Whiskey",
+    "description": "Join us for a free tasting of Writers Tears Irish Whiskey",
+    "start_at": "2026-03-15T15:00:00-07:00",
+    "end_at": "2026-03-15T18:00:00-07:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2024/03/Screen-Shot-2024-03-12-at-3.26.10-PM.png"
+  },
+  {
+    "event_id": "7de108b5e264aa9e",
+    "location": "Long Beach",
+    "title": "Free Tasting: Salt Point Canned Cocktails",
+    "description": "Salt Point has been crafting premium canned cocktails with all-natural ingredients along the coast of Northern California since 2013. Right here to be exact: 38.0834° N, 122.7633° W. Everyone at Salt Point is committed to quality ingredients and the finest of spirits. Though things can get a little foggy around there, they're clear about this: less is more. That’s why they keep the ingredients to a minimum and prefer to sail by the stars. So whether you’re hanging with old friends or interesting strangers, Salt Point invites you to kick back and raise a can. Come on in and give Salt Point a try with this free tasting of their premium canned drinks!",
+    "start_at": "2026-03-18T15:30:00-07:00",
+    "end_at": "2026-03-18T18:30:00-07:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2022/06/IMG_0605.jpg"
   },
   {
     "event_id": "12dea7352a8ae0aa",
     "location": "Culver City",
     "title": "Free Tasting: Off Hours Bourbon & Rye",
     "description": "Join us for a free tasting with Off Hours Bourbon & Rye!",
-    "schedule_label": "Thursday 04:00pm – 07:00pm",
-    "month_label": "Mar",
-    "day": 19,
     "start_at": "2026-03-19T16:00:00-07:00",
     "end_at": "2026-03-19T19:00:00-07:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2023/11/Screen-Shot-2023-11-20-at-7.32.28-PM.png"
+  },
+  {
+    "event_id": "f2f1ac3cd3885684",
+    "location": "Long Beach",
+    "title": "Free Tasting: Societe Brewing",
+    "description": "Come sample some incredible beers from this stalwart San Diego brewery.",
+    "start_at": "2026-03-19T16:00:00-07:00",
+    "end_at": "2026-03-19T19:00:00-07:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2026/03/Societe-Brewing.png"
   },
   {
     "event_id": "bcd693e6f6c61ac5",
     "location": "Culver City",
     "title": "Free Tasting: Acronimo Sotol & Gin",
     "description": "Join us for a free tasting with Acronimo Sotol & Gin!",
-    "schedule_label": "Friday 04:00pm – 07:00pm",
-    "month_label": "Mar",
-    "day": 20,
     "start_at": "2026-03-20T16:00:00-07:00",
     "end_at": "2026-03-20T19:00:00-07:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2025/07/Screenshot-2025-07-01-at-5.33.37%E2%80%AFPM.png"
+  },
+  {
+    "event_id": "e91f44e759184fb8",
+    "location": "Long Beach",
+    "title": "Free Tasting: North Coast Brewing",
+    "description": "Join us for a free tasting with North Coast Brewing!",
+    "start_at": "2026-03-20T16:00:00-07:00",
+    "end_at": "2026-03-20T19:00:00-07:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2025/05/Screenshot-2025-05-06-at-11.47.55%E2%80%AFAM.png"
   },
   {
     "event_id": "85c96b8784785b6a",
     "location": "Culver City",
     "title": "Food Pop-Up: Ronin Barbeque LA",
     "description": "First appearance by a new BBQ provider; come enjoy the mouth water flavors Ronin has cooked up!",
-    "schedule_label": "Friday 05:30pm – 08:00pm",
-    "month_label": "Mar",
-    "day": 20,
     "start_at": "2026-03-20T17:30:00-07:00",
     "end_at": "2026-03-20T20:00:00-07:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2026/02/Screenshot-2026-02-22-at-4.25.56-PM.png"
@@ -424,9 +625,6 @@
     "location": "Culver City",
     "title": "Free Tasting: Slowdays Gin",
     "description": "Join us for a free tasting with Slowdays gin!",
-    "schedule_label": "Saturday 04:00pm – 07:00pm",
-    "month_label": "Mar",
-    "day": 21,
     "start_at": "2026-03-21T16:00:00-07:00",
     "end_at": "2026-03-21T19:00:00-07:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2024/07/Screenshot-2024-07-15-at-3.15.53%E2%80%AFPM.png"
@@ -436,21 +634,33 @@
     "location": "Culver City",
     "title": "Free Tasting: Serendipity Wines",
     "description": "Join us for a free tasting of some European natural wines! We'll be tasting a wine from Italy, France, and Austria!",
-    "schedule_label": "Friday 04:00pm – 07:00pm",
-    "month_label": "Mar",
-    "day": 21,
     "start_at": "2026-03-21T16:00:00-07:00",
     "end_at": "2026-03-21T19:00:00-07:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2023/12/Screen-Shot-2024-01-15-at-4.21.54-PM.png"
+  },
+  {
+    "event_id": "871d8194dea210fc",
+    "location": "Long Beach",
+    "title": "Free Tasting: Agua Del Sol Mezcal",
+    "description": "Join us for a free tasting with Agua Del Sol Mezcal!",
+    "start_at": "2026-03-21T16:00:00-07:00",
+    "end_at": "2026-03-21T19:00:00-07:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2023/12/%C2%A9Project-M-Plus_Hi-Lo_Liquor_3-scaled.jpg"
+  },
+  {
+    "event_id": "643bc490170e310f",
+    "location": "Long Beach",
+    "title": "Free Tasting: Yebiga Rakija",
+    "description": "Come sample this unique and delicious Serbian Plum Brandy.  Yebiga Rakija is an exceptional , handcrafted and 100% natural Sljivovica, a fruit brandy from central central Serbia.",
+    "start_at": "2026-03-26T16:00:00-07:00",
+    "end_at": "2026-03-26T19:00:00-07:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2025/03/Screenshot-2025-03-03-at-9.36.26%E2%80%AFPM.png"
   },
   {
     "event_id": "c094e2ac24e25047",
     "location": "Culver City",
     "title": "Free Tasting: Sipwell Canned Wine",
     "description": "Sipwell Wine Company is premium California wine with a can-do spirit. A female-founded and Black-owned company, they make award-winning canned wine that’s a little bit of a renegade. Sipwell sparkling wines are naturally can-conditioned, are fermented dry, meaning they have 0g sugar, and are sourced from organic or sustainably farmed grapes in California's Central Coast. These single-serve aluminum cans are infinitely recyclable, portable, and perfect for celebrating life's little moments.",
-    "schedule_label": "Friday 04:00pm – 07:00pm",
-    "month_label": "Mar",
-    "day": 27,
     "start_at": "2026-03-27T16:00:00-07:00",
     "end_at": "2026-03-27T19:00:00-07:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2022/09/Screen-Shot-2023-12-12-at-12.24.44-PM.png"
@@ -460,9 +670,6 @@
     "location": "Culver City",
     "title": "Free Tasting: Mama Chuy Gin",
     "description": "Come sample this refreshing Mexican gin.  Distilled in small batches at the Satvrnal Distillery under Master Distiller Pedro Andres from a pristine base spirit produced by clean, swift fermentation and precise distillation. Vibrant lime zest greets the nose, with soft herbal bay leaf and classic juniper weaving a harmonious botanical tapestry; a crescendo of citrus brightens the palate before a light, coriander-driven spice on the finish.",
-    "schedule_label": "Saturday 04:00pm – 07:00pm",
-    "month_label": "Mar",
-    "day": 28,
     "start_at": "2026-03-28T16:00:00-07:00",
     "end_at": "2026-03-28T19:00:00-07:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2026/03/mama-chuy.jpg"
@@ -472,9 +679,6 @@
     "location": "Culver City",
     "title": "Free Tasting: Granalta Blanco Tequila, Mezcal & Rum",
     "description": "Come sample these incredible tequilas & mezcal from Granalta.  Made in San Dioniso Ocotepec, Oaxaca by Miguel Martinez, these artisanal expressions are roasted with mesquite & oak, milled by Tahona, fermented in cypress wood & twice distilled in a copper pot still.",
-    "schedule_label": "Saturday 04:00pm – 07:00pm",
-    "month_label": "Mar",
-    "day": 28,
     "start_at": "2026-03-28T16:00:00-07:00",
     "end_at": "2026-03-28T19:00:00-07:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2026/03/Granalta-Tequila.png"
@@ -484,21 +688,51 @@
     "location": "Culver City",
     "title": "Free Tasting: Harland Brewing",
     "description": "Carl from Harland Brewing in San Diego, California will be tasting beers to customers in store!",
-    "schedule_label": "Friday 04:00pm – 07:00pm",
-    "month_label": "Mar",
-    "day": 28,
     "start_at": "2026-03-28T16:00:00-07:00",
     "end_at": "2026-03-28T19:00:00-07:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2024/02/Screen-Shot-2024-02-05-at-7.01.08-PM.png"
+  },
+  {
+    "event_id": "967b0ab5a95da103",
+    "location": "Long Beach",
+    "title": "Free Tasting: Anytime Spritz + Farmhouse Organic Spirits",
+    "description": "Anytime Spritz makes organic and regenerative spirits & cocktails. Crafted by queer women, powered by farmers and the first climate negative distillery.",
+    "start_at": "2026-03-28T16:00:00-07:00",
+    "end_at": "2026-03-28T19:00:00-07:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2025/04/Screenshot-2025-04-29-at-1.09.57%E2%80%AFPM.png"
+  },
+  {
+    "event_id": "7d7868ec344d835b",
+    "location": "Long Beach",
+    "title": "Free Tasting: Kastra Elion Vodka",
+    "description": "Family-owned and artisan-crafted in Greece, Kastra Elion is the original premium sipping vodka distilled from Greek olives. This premium vodka has unparalleled smoothness and timeless sophistication. Come get a taste of the Mediterranean with this free tasting!",
+    "start_at": "2026-03-28T16:00:00-07:00",
+    "end_at": "2026-03-28T19:00:00-07:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2023/03/Screenshot-2024-05-28-at-1.52.37%E2%80%AFPM.png"
+  },
+  {
+    "event_id": "e249dcc9d8e3188d",
+    "location": "Long Beach",
+    "title": "Free Tasting: Sipwell Canned Wine",
+    "description": "Sipwell Wine Company is premium California wine with a can-do spirit. A female-founded and Black-owned company, they make award-winning canned wine that’s a little bit of a renegade. Sipwell sparkling wines are naturally can-conditioned, are fermented dry, meaning they have 0g sugar, and are sourced from organic or sustainably farmed grapes in California's Central Coast. These single-serve aluminum cans are infinitely recyclable, portable, and perfect for celebrating life's little moments.",
+    "start_at": "2026-03-28T17:00:00-07:00",
+    "end_at": "2026-03-28T20:00:00-07:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2024/05/Screenshot-2024-07-08-at-6.19.54%E2%80%AFPM.png"
+  },
+  {
+    "event_id": "bec125fd7ede50ba",
+    "location": "Long Beach",
+    "title": "Food Pop-Up: Tacos Tekila",
+    "description": "Tacos Tekila will be serving their mouth watering tacos and quesadillas. You can choose from Carne Asada, Al Pastor, Chorizo, or Pollo!",
+    "start_at": "2026-03-29T17:00:00-07:00",
+    "end_at": "2026-03-29T20:00:00-07:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2023/10/Screen-Shot-2023-10-17-at-4.26.50-PM.png"
   },
   {
     "event_id": "b969b6773b5e4964",
     "location": "Culver City",
     "title": "Free Tasting: BTL SVC",
     "description": "BTL SVC provides award-winning, hand-crafted, premium cocktails, conveniently served anytime and anywhere.",
-    "schedule_label": "Thursday 04:00pm – 07:00pm",
-    "month_label": "Apr",
-    "day": 2,
     "start_at": "2026-04-02T16:00:00-07:00",
     "end_at": "2026-04-02T19:00:00-07:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2024/01/Screen-Shot-2024-01-22-at-5.52.58-PM.png"
@@ -508,9 +742,6 @@
     "location": "Culver City",
     "title": "Free Tasting: Tequio Tequila",
     "description": "Join us for a free tasting with Tequio Tequila!",
-    "schedule_label": "Thursday 03:00pm – 06:00pm",
-    "month_label": "Apr",
-    "day": 3,
     "start_at": "2026-04-03T15:00:00-07:00",
     "end_at": "2026-04-03T18:00:00-07:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2024/04/Screen-Shot-2024-04-01-at-6.41.12-PM.png"
@@ -520,9 +751,6 @@
     "location": "Culver City",
     "title": "Free Tasting: Amante 1530",
     "description": "Hailing from the historic Il Palagio 1530 estate in Tuscany, this latest innovation in amaro offers a new take on an old classic; combining aromas of Italian citrus, ginger and honeysuckle to help you enjoy a unique bittersweet taste and a thoroughly delicious afternoon.",
-    "schedule_label": "Saturday 01:00pm – 04:00pm",
-    "month_label": "Apr",
-    "day": 4,
     "start_at": "2026-04-04T13:00:00-07:00",
     "end_at": "2026-04-04T16:00:00-07:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2024/02/Screen-Shot-2024-02-05-at-7.14.05-PM.png"
@@ -532,9 +760,6 @@
     "location": "Culver City",
     "title": "Free Tasting: Duvel Beer",
     "description": "Join us for a free tasting with Duvel, the iconic Belgian Golden Ale.",
-    "schedule_label": "Wednesday 04:00pm – 07:00pm",
-    "month_label": "Apr",
-    "day": 8,
     "start_at": "2026-04-08T16:00:00-07:00",
     "end_at": "2026-04-08T19:00:00-07:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2025/07/Screenshot-2025-07-15-at-2.25.53%E2%80%AFPM.png"
@@ -544,33 +769,51 @@
     "location": "Culver City",
     "title": "Free Tasting: Domaine Zafeirakis Wines",
     "description": "Join us for a free tasting of these incredible organic wines from 4th generation Greek wine maker Christos Zafeirakis.",
-    "schedule_label": "Thursday 04:00pm – 07:00pm",
-    "month_label": "Apr",
-    "day": 9,
     "start_at": "2026-04-09T16:00:00-07:00",
     "end_at": "2026-04-09T19:00:00-07:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2026/04/Domaine-Zafeirakis.png"
+  },
+  {
+    "event_id": "9e36762bdc79aa50",
+    "location": "Long Beach",
+    "title": "Food Pop-Up: Say No More LBC",
+    "description": "Say No More LBC will be popping up out front serving delicious grilled meats!",
+    "start_at": "2026-04-09T17:00:00-07:00",
+    "end_at": "2026-04-09T20:00:00-07:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2024/09/Screenshot-2024-09-23-at-6.49.07%E2%80%AFPM.png"
   },
   {
     "event_id": "2e4ee8a3fbdcc25a",
     "location": "Culver City",
     "title": "Free Tasting: Abre Ojos Tequila",
     "description": "Join us for a free tasting of Abre Ojos tequila!",
-    "schedule_label": "Friday 04:00pm – 07:00pm",
-    "month_label": "Apr",
-    "day": 10,
     "start_at": "2026-04-10T16:00:00-07:00",
     "end_at": "2026-04-10T19:00:00-07:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2026/03/Abre-Ojos.png"
+  },
+  {
+    "event_id": "20682483230928cd",
+    "location": "Long Beach",
+    "title": "Free Tasting: Luxardo Liqueurs",
+    "description": "Come by and sample some incredible offerings from Luxardo Liqueurs!",
+    "start_at": "2026-04-10T16:00:00-07:00",
+    "end_at": "2026-04-10T19:00:00-07:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2023/03/Luxardo-1.png"
+  },
+  {
+    "event_id": "5e731406b7282dc9",
+    "location": "Long Beach",
+    "title": "Free Tasting: Nikka Spirits",
+    "description": "Come by and try craft spirits from Nikka!",
+    "start_at": "2026-04-10T16:00:00-07:00",
+    "end_at": "2026-04-10T19:00:00-07:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2023/03/Screen-Shot-2024-01-11-at-2.14.54-PM.png"
   },
   {
     "event_id": "8c90dc775a814e79",
     "location": "Culver City",
     "title": "Free Tasting: Suncliffe Gin",
     "description": "Come join us for a free tasting of this aromatic gin made with juniper berries from the twisted trees of Sedona, AZ.",
-    "schedule_label": "Saturday 04:00pm – 07:00pm",
-    "month_label": "Apr",
-    "day": 11,
     "start_at": "2026-04-11T16:00:00-07:00",
     "end_at": "2026-04-11T19:00:00-07:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2026/04/Suncliffe-Gin.png"
@@ -580,45 +823,69 @@
     "location": "Culver City",
     "title": "Free Tasting: Morro Mezcal",
     "description": "Morro Mezcal crafts their small batch artisanal spirits using time-honored methods and traditions of mezcal production, using mature single origin agaves, an earthen hardwood-fueled oven, open air wooden fermentation vessels and small wood-fired copper still distillation. Their mezcals are distilled to proof using agaves grown in the mountains of El Gramal in Oaxaca giving depth, character and complexity.",
-    "schedule_label": "Friday 04:00pm – 07:00pm",
-    "month_label": "Apr",
-    "day": 11,
     "start_at": "2026-04-11T16:00:00-07:00",
     "end_at": "2026-04-11T19:00:00-07:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2022/12/Screenshot-2024-09-03-at-5.04.08%E2%80%AFPM.png"
+  },
+  {
+    "event_id": "fd86a7cfe6d17fbe",
+    "location": "Long Beach",
+    "title": "Free Tasting: Engine Organic Gin",
+    "description": "Join us for a free tasting with Engine Organic Gin, handmade in Italy!",
+    "start_at": "2026-04-11T16:00:00-07:00",
+    "end_at": "2026-04-11T19:00:00-07:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2025/04/Screenshot-2025-04-08-at-1.51.23%E2%80%AFPM.png"
   },
   {
     "event_id": "7a523299177d359d",
     "location": "Culver City",
     "title": "Food Pop-Up: Branch Patty",
     "description": "Branch Patty makes handcrafted Jamaican Patties and Coco Bread. They started in Brooklyn and now they're made in LA! They pair perfectly with wine and beer!",
-    "schedule_label": "Saturday 05:00pm – 08:00pm",
-    "month_label": "Apr",
-    "day": 12,
     "start_at": "2026-04-12T17:00:00-07:00",
     "end_at": "2026-04-12T20:00:00-07:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2025/04/Screenshot-2025-04-09-at-11.28.03%E2%80%AFAM.png"
+  },
+  {
+    "event_id": "e3d7e11f101564d8",
+    "location": "Long Beach",
+    "title": "Food Pop-Up: Antonio’s Paella",
+    "description": "Come eat some delicious Paella from Antonio's! Perfect to pair with a glass of wine or crispy pint!",
+    "start_at": "2026-04-19T17:00:00-07:00",
+    "end_at": "2026-04-19T20:00:00-07:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2025/04/281006102838916048.jpg"
+  },
+  {
+    "event_id": "ade0060ce4638c17",
+    "location": "Long Beach",
+    "title": "Free Tasting: Veranda Craft Cocktails",
+    "description": "Join us for a free tasting with Veranda canned cocktails!",
+    "start_at": "2026-04-23T16:00:00-07:00",
+    "end_at": "2026-04-23T20:00:00-07:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2024/08/Screenshot-2024-08-19-at-4.43.20%E2%80%AFPM.png"
   },
   {
     "event_id": "d15d72beac353c82",
     "location": "Culver City",
     "title": "Free Tasting: Lost Republic Whiskey + OVO Vodka + Bottle Logic",
     "description": "Join us for a complimentary tasting of OVO Vodka, Lost Republic whiskey & Bottle Logic beers!",
-    "schedule_label": "Friday 04:00pm – 07:00pm",
-    "month_label": "Apr",
-    "day": 24,
     "start_at": "2026-04-24T16:00:00-07:00",
     "end_at": "2026-04-24T19:00:00-07:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2023/02/IMG_9416.jpg"
+  },
+  {
+    "event_id": "b0801cf9c31cf43b",
+    "location": "Long Beach",
+    "title": "Free Tasting: 9 North Rum",
+    "description": "Join us for a free tasting with 9 North Rum! 9 North is an innovative super-premium rum brand that captivates the palates of sophisticated consumers.",
+    "start_at": "2026-04-24T16:00:00-07:00",
+    "end_at": "2026-04-24T19:00:00-07:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2025/03/Screenshot-2025-03-11-at-3.55.49%E2%80%AFPM.png"
   },
   {
     "event_id": "ceffbd8277c77558",
     "location": "Culver City",
     "title": "Free Tasting: Madwoman Espresso Martini",
     "description": "Join us for a free tasting of a delightful new entry in the world of espresso martinis!",
-    "schedule_label": "Saturday 01:00pm – 04:00pm",
-    "month_label": "Apr",
-    "day": 25,
     "start_at": "2026-04-25T13:00:00-07:00",
     "end_at": "2026-04-25T16:00:00-07:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2026/03/MadWoman-Espresso.png"
@@ -628,21 +895,24 @@
     "location": "Culver City",
     "title": "Free Tasting: La Bodega Tequila",
     "description": "Come sample this unpretentious \"tequila for the people.\"",
-    "schedule_label": "Saturday 04:00pm – 07:00pm",
-    "month_label": "Apr",
-    "day": 25,
     "start_at": "2026-04-25T16:00:00-07:00",
     "end_at": "2026-04-25T19:00:00-07:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2026/04/La-Bodega-Tequila.png"
+  },
+  {
+    "event_id": "38ed8640cb615244",
+    "location": "Long Beach",
+    "title": "Free Tasting: Vivy cocktails",
+    "description": "The no-glass cocktail in a sippable pouch that’s beach-friendly, pool-friendly and boat-friendly.",
+    "start_at": "2026-04-29T15:30:00-07:00",
+    "end_at": "2026-04-29T18:30:00-07:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2025/09/IMG_8817.jpg"
   },
   {
     "event_id": "bdbb04f676665165",
     "location": "Culver City",
     "title": "Free Tasting: Saltire Scotch",
     "description": "Come meet the global ambassador for Saltire Rare Malts and sample their incredible lineup of Scotches. There will also be small bite pairings to be sampled during the tasting.",
-    "schedule_label": "Wednesday 04:00pm – 07:00pm",
-    "month_label": "Apr",
-    "day": 29,
     "start_at": "2026-04-29T16:00:00-07:00",
     "end_at": "2026-04-29T19:00:00-07:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2026/04/Saltire.png"
@@ -652,9 +922,15 @@
     "location": "Culver City",
     "title": "Free Tasting: Banhez Mezcal, Libelula Tequila & Combier Liqueur",
     "description": "In the lead up to Cinco de Mayo, come sample three amazing products that will elevate your celebrations…plus free cocktail cards and Libelula cocktail shakers will be handed out.",
-    "schedule_label": "Thursday 04:00pm – 07:00pm",
-    "month_label": "Apr",
-    "day": 30,
+    "start_at": "2026-04-30T16:00:00-07:00",
+    "end_at": "2026-04-30T19:00:00-07:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2025/09/IMG_9076.jpg"
+  },
+  {
+    "event_id": "107f30b4fd0a5f03",
+    "location": "Long Beach",
+    "title": "Free Tasting: Banhez Mezcal, Libelula Tequila & Combier Liqueur",
+    "description": "In the lead up to Cinco de Mayo, come sample three amazing products that will elevate your celebrations…plus free cocktail cards and Libelula cocktail shakers will be handed out.",
     "start_at": "2026-04-30T16:00:00-07:00",
     "end_at": "2026-04-30T19:00:00-07:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2025/09/IMG_9076.jpg"
@@ -664,33 +940,42 @@
     "location": "Culver City",
     "title": "Free Tasting: Madre Mezcal & Tequila",
     "description": "Join us for a free tasting with Madre Mezcal!",
-    "schedule_label": "Friday 04:00pm – 07:00pm",
-    "month_label": "May",
-    "day": 1,
     "start_at": "2026-05-01T16:00:00-07:00",
     "end_at": "2026-05-01T19:00:00-07:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2023/12/Screen-Shot-2023-12-19-at-1.05.07-PM.png"
+  },
+  {
+    "event_id": "7d9eab5a732870d5",
+    "location": "Long Beach",
+    "title": "Free Tasting: Madre Mezcal & Tequila",
+    "description": "Madre is an artisanal mezcal, made by hand in the rolling hills of the Oaxacan Sierra. Come by and try their Ensamble, Espadín, and tequila!",
+    "start_at": "2026-05-01T16:00:00-07:00",
+    "end_at": "2026-05-01T19:00:00-07:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2023/03/IMG_9780.jpg"
   },
   {
     "event_id": "60277a0b066ecdd2",
     "location": "Culver City",
     "title": "Free Tasting: Nosotros Tequila & Mezcal",
     "description": "Nosotros is a small-batch agave spirits brand that marries the Pura Vida lifestyle of Costa Rica with the rebel spirit of Mexico, blending them under the California sun. Come on in and try this independent brand's award-winning Blanco, Reposado, and Mezcal!",
-    "schedule_label": "Saturday 01:00pm – 04:00pm",
-    "month_label": "May",
-    "day": 2,
     "start_at": "2026-05-02T13:00:00-07:00",
     "end_at": "2026-05-02T16:00:00-07:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2022/12/Screenshot-2024-08-06-at-6.57.56%E2%80%AFPM.png"
+  },
+  {
+    "event_id": "85db268e64faffba",
+    "location": "Long Beach",
+    "title": "Free Tasting: Soto Sake",
+    "description": "Come join us for a free sample of Soto Sake.  Soto means 'outside' in Japanese, and these junmai sakes are a celebration of nature's purest elements.",
+    "start_at": "2026-05-02T13:00:00-07:00",
+    "end_at": "2026-05-02T16:00:00-07:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2026/04/Soto-Sake.png"
   },
   {
     "event_id": "aa3d8aec6f918e2c",
     "location": "Culver City",
     "title": "Free Tasting: Tip Top Canned Cocktails",
     "description": "Join us for a free tasting with Tip Top canned cocktails!",
-    "schedule_label": "Saturday 04:00pm – 07:00pm",
-    "month_label": "May",
-    "day": 2,
     "start_at": "2026-05-02T16:00:00-07:00",
     "end_at": "2026-05-02T19:00:00-07:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2024/01/Screen-Shot-2024-01-11-at-2.10.45-PM.png"
@@ -700,45 +985,105 @@
     "location": "Culver City",
     "title": "Free Tasting: El Mero Mero Mezcal and El Pintor Tequila",
     "description": "Join us for a free tasting with El Mero Mero Mezcal and El Pintor tequila!",
-    "schedule_label": "Friday 04:00pm – 07:00pm",
-    "month_label": "May",
-    "day": 2,
     "start_at": "2026-05-02T16:00:00-07:00",
     "end_at": "2026-05-02T19:00:00-07:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2024/10/Screenshot-2024-10-29-at-12.16.42%E2%80%AFPM.png"
+  },
+  {
+    "event_id": "c3e7cff21ff5c7f1",
+    "location": "Long Beach",
+    "title": "Free Tasting: La Tierra De Acre Mezcal",
+    "description": "Come sample this fresh mezcal from the foothills of San Jose del Cabo.",
+    "start_at": "2026-05-02T16:00:00-07:00",
+    "end_at": "2026-05-02T19:00:00-07:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2026/04/La-Tierra-de-Acre-Mezcal.png"
+  },
+  {
+    "event_id": "f645a97a1104f9e3",
+    "location": "Long Beach",
+    "title": "Free Tasting: Fiero Tequila",
+    "description": "Join us for a free tasting with Fiero Tequila, the spiciest infused tequila! It's additive-free & naturally infused!",
+    "start_at": "2026-05-02T16:00:00-07:00",
+    "end_at": "2026-05-02T19:00:00-07:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2025/04/Screenshot-2025-04-29-at-1.24.57%E2%80%AFPM.png"
+  },
+  {
+    "event_id": "dadb5a33855aacb3",
+    "location": "Long Beach",
+    "title": "Free Tasting: Togroni's Negroni Cocktails",
+    "description": "Join us for a free tasting with Togroni's Negroni Cocktails!",
+    "start_at": "2026-05-09T16:00:00-07:00",
+    "end_at": "2026-05-09T18:00:00-07:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2024/06/Screenshot-2024-06-25-at-4.41.47%E2%80%AFPM.png"
   },
   {
     "event_id": "1a7b535d70fb83e7",
     "location": "Culver City",
     "title": "Free Tasting: Raicilla De Una",
     "description": "Raicilla is an agave spirit steeped in folklore and tradition. With over 400 years of history, it’s considered the grandfather of tequila, the great-grandfather of mezcal, and the purest expression of Mexico’s agave spirits.",
-    "schedule_label": "Saturday 01:00pm – 04:00pm",
-    "month_label": "May",
-    "day": 10,
     "start_at": "2026-05-10T13:00:00-07:00",
     "end_at": "2026-05-10T16:00:00-07:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2025/05/Screenshot-2025-05-06-at-11.58.50%E2%80%AFAM.png"
+  },
+  {
+    "event_id": "8728d2af3192076d",
+    "location": "Long Beach",
+    "title": "Bloom & Hue Flower Pop-Up for Mother's Day",
+    "description": "Treat your mom by stopping by to pick up a bouquet and wine! 💐 🍷",
+    "start_at": "2026-05-10T13:00:00-07:00",
+    "end_at": "2026-05-10T17:00:00-07:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2025/02/Screenshot-2025-05-06-at-11.52.52%E2%80%AFAM.png"
+  },
+  {
+    "event_id": "8aaf8ad93383559e",
+    "location": "Long Beach",
+    "title": "Free Tasting: Dulan Wine",
+    "description": "Join us for a free tasting with Dulan Wines! Old vine Zinfandel and Chenin Blanc from their family vineyard. These wines would make the perfect gift for mom!",
+    "start_at": "2026-05-10T13:00:00-07:00",
+    "end_at": "2026-05-10T16:00:00-07:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2023/12/Screen-Shot-2023-12-19-at-1.07.16-PM.png"
   },
   {
     "event_id": "03ce4142050ce5aa",
     "location": "Culver City",
     "title": "Good Buds Flower Pop-Up",
     "description": "Treat your mom by stopping by to pick up a bouquet and wine! 💐 🍷",
-    "schedule_label": "Saturday 04:00pm – 07:00pm",
-    "month_label": "May",
-    "day": 10,
     "start_at": "2026-05-10T16:00:00-07:00",
     "end_at": "2026-05-10T19:00:00-07:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2025/02/Screenshot-2025-02-10-at-3.57.34%E2%80%AFPM.png"
+  },
+  {
+    "event_id": "b9698d041aa1e979",
+    "location": "Long Beach",
+    "title": "Free Tasting: Neft Vodka",
+    "description": "Join us for a free tasting of Neft Vodka.",
+    "start_at": "2026-05-13T16:00:00-07:00",
+    "end_at": "2026-05-13T19:00:00-07:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2023/12/Screen-Shot-2023-12-19-at-1.00.44-PM.png"
+  },
+  {
+    "event_id": "1736250647391006",
+    "location": "Long Beach",
+    "title": "Hi-Lo Long Beach: King Trivia",
+    "description": "Join us at our Long Beach location every Wednesday night for trivia! If you're a pop-culture buff, this is the night for you!",
+    "start_at": "2026-05-13T19:00:00-07:00",
+    "end_at": "2026-05-13T21:00:00-07:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2023/10/HiLo-Returning-Post-3-2026-e1770771667892.jpg"
+  },
+  {
+    "event_id": "c05464f2b86c14d8",
+    "location": "Long Beach",
+    "title": "Free Tasting: Mommenpop Aperitif",
+    "description": "Join us for a free tasting with Free Mommenpop Aperitif!",
+    "start_at": "2026-05-14T15:30:00-07:00",
+    "end_at": "2026-05-14T18:30:00-07:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2024/12/Screenshot-2024-12-02-at-3.10.21%E2%80%AFPM.png"
   },
   {
     "event_id": "9f067e18061d6bce",
     "location": "Culver City",
     "title": "Free Tasting: Golden Eagle Vodka",
     "description": "Join us for a free tasting of Golden Eagle Vodka!",
-    "schedule_label": "Thursday 04:00pm – 07:00pm",
-    "month_label": "May",
-    "day": 14,
     "start_at": "2026-05-14T16:00:00-07:00",
     "end_at": "2026-05-14T19:00:00-07:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2024/05/Screenshot-2024-05-08-at-1.06.49%E2%80%AFPM.png"
@@ -748,9 +1093,6 @@
     "location": "Culver City",
     "title": "Free Tasting: Pinhook Bourbon & Rye",
     "description": "Join us for a tasting with Pinhook Kentucky straight bourbon whiskey.",
-    "schedule_label": "Thursday 04:00pm – 07:00pm",
-    "month_label": "May",
-    "day": 14,
     "start_at": "2026-05-14T16:00:00-07:00",
     "end_at": "2026-05-14T19:00:00-07:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2025/04/Screenshot-2025-04-14-at-4.44.20%E2%80%AFPM.png"
@@ -760,57 +1102,105 @@
     "location": "Culver City",
     "title": "Free Tasting: Zubrowka Vodka + LAIE Vermouth",
     "description": "Tim from JVS Imports will be sampling out Polish Zubrowka Bison Grass Vodka and the Spanish LAIE Red Vermouth!",
-    "schedule_label": "Wednesday 04:00pm – 07:00pm",
-    "month_label": "May",
-    "day": 14,
     "start_at": "2026-05-14T16:00:00-07:00",
     "end_at": "2026-05-14T19:00:00-07:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2025/05/Screenshot-2025-05-13-at-11.09.58%E2%80%AFAM.png"
+  },
+  {
+    "event_id": "f5449c1e994fa400",
+    "location": "Long Beach",
+    "title": "Free Tasting: Sylva N/A Aged Spirits",
+    "description": "Join us for a free tasting of this unique new entry into the n/a realm.  Sylva is the world's first maturation lab making aged non-alcoholic spirits from forest to glass.",
+    "start_at": "2026-05-14T16:00:00-07:00",
+    "end_at": "2026-05-14T19:00:00-07:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2026/04/S2_Sylva_cropped_1080x.webp"
+  },
+  {
+    "event_id": "634b8bc2ebbd0fe6",
+    "location": "Long Beach",
+    "title": "Free Tasting: Shelter Distilling",
+    "description": "Join us for a free tasting with Shelter Distilling!",
+    "start_at": "2026-05-14T16:00:00-07:00",
+    "end_at": "2026-05-14T19:00:00-07:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2024/11/Screenshot-2024-11-25-at-1.57.30%E2%80%AFPM.png"
   },
   {
     "event_id": "eca18559678e3341",
     "location": "Culver City",
     "title": "Free Tasting: Dizzy Donkey Tequila",
     "description": "Join us for a free tasting with Dizzy Donkey tequila!",
-    "schedule_label": "Thursday 04:00pm – 07:00pm",
-    "month_label": "May",
-    "day": 15,
     "start_at": "2026-05-15T16:00:00-07:00",
     "end_at": "2026-05-15T19:00:00-07:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2025/05/Screenshot-2025-05-13-at-11.16.36%E2%80%AFAM.png"
+  },
+  {
+    "event_id": "b5e44eda02218228",
+    "location": "Long Beach",
+    "title": "Free Tasting: Meet the Brewer – Ikasu Brewing",
+    "description": "Join us for a special event…Masahiro Kitano, the founder and brewmaster at Ikasu Brewing, will be in store sampling and talking about his beers!",
+    "start_at": "2026-05-15T16:00:00-07:00",
+    "end_at": "2026-05-15T19:00:00-07:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2026/05/Ikasu-Brewing.png"
   },
   {
     "event_id": "c90e7433cd49b7bb",
     "location": "Culver City",
     "title": "Food Pop-up: Camello Pita Poblano",
     "description": "Camello returns to Culver City with its delicious fusion of Mexican and Middle Eastern.",
-    "schedule_label": "Friday 05:00pm – 09:00pm",
-    "month_label": "May",
-    "day": 15,
     "start_at": "2026-05-15T17:00:00-07:00",
     "end_at": "2026-05-15T21:00:00-07:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2026/04/Camello-1.png"
+  },
+  {
+    "event_id": "6890a05db8c262f5",
+    "location": "Long Beach",
+    "title": "Food Pop-Up: WAVE Gourmet Burgers",
+    "description": "WAVE is bringing their legendary smash burgers and crave-worthy truffle fries to the party!",
+    "start_at": "2026-05-15T17:00:00-07:00",
+    "end_at": "2026-05-15T21:00:00-07:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2023/11/1C60CEB5-F51A-4D9F-8952-6E19D6EA4721.jpg"
+  },
+  {
+    "event_id": "e9819d425ee8428e",
+    "location": "Long Beach",
+    "title": "Free Tasting: Old G Gin",
+    "description": "Join us for a free tasting with Old G Gin, a London dry style gin made in the traditional method without preservatives!",
+    "start_at": "2026-05-16T13:00:00-07:00",
+    "end_at": "2026-05-16T19:00:00-07:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2024/09/Screenshot-2024-09-30-at-5.17.29%E2%80%AFPM.png"
   },
   {
     "event_id": "1b212d8f3364fdb1",
     "location": "Culver City",
     "title": "Free Tasting: Scotti's Original Springs Bourbon",
     "description": "Come enjoy a free tasting of this recently re-established classic bourbon.  California distilled – using locally sourced California-grown purple barley, rye, and corn – this bourbon is aged 3 years for a high-quality, smooth drink.",
-    "schedule_label": "Saturday 04:00pm – 07:00pm",
-    "month_label": "May",
-    "day": 16,
     "start_at": "2026-05-16T16:00:00-07:00",
     "end_at": "2026-05-16T19:00:00-07:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2026/05/Scottis-Original-Springs.png"
+  },
+  {
+    "event_id": "3dd86636923a3b53",
+    "location": "Long Beach",
+    "title": "Free Tasting: Kind Earth Vodka",
+    "description": "Join us for a free tasting of this delightful vodka.",
+    "start_at": "2026-05-16T16:00:00-07:00",
+    "end_at": "2026-05-16T19:00:00-07:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2026/05/Kind-Earth-Vodka.png"
+  },
+  {
+    "event_id": "679bf671bd3ff6ce",
+    "location": "Long Beach",
+    "title": "Free Tasting: Tesoro Azul Tequila",
+    "description": "Join us for a free tasting of this delicious tequila.",
+    "start_at": "2026-05-16T16:00:00-07:00",
+    "end_at": "2026-05-16T19:00:00-07:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2026/05/Tesoro-Tequila.png"
   },
   {
     "event_id": "c5d7a482668e05a3",
     "location": "Culver City",
     "title": "Free Tasting: Mommenpop Aperitif",
     "description": "Join us for a free tasting with Mommenpop Aperitif!",
-    "schedule_label": "Thursday 04:00pm – 07:00pm",
-    "month_label": "May",
-    "day": 22,
     "start_at": "2026-05-22T16:00:00-07:00",
     "end_at": "2026-05-22T19:00:00-07:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2024/12/Screenshot-2024-12-02-at-3.10.21%E2%80%AFPM.png"
@@ -820,11 +1210,17 @@
     "location": "Culver City",
     "title": "Free Tasting: Planet Wine",
     "description": "Join us for a free tasting with Planet Wine they'll be pouring the Tinto Amorio wines.",
-    "schedule_label": "Wednesday 04:00pm – 07:00pm",
-    "month_label": "May",
-    "day": 28,
     "start_at": "2026-05-28T16:00:00-07:00",
     "end_at": "2026-05-28T19:00:00-07:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2025/02/Screenshot-2025-02-22-at-12.42.59%E2%80%AFPM.png"
+  },
+  {
+    "event_id": "d41756f7844386bd",
+    "location": "Long Beach",
+    "title": "Free Tasting: Planet Wines",
+    "description": "Join us for a free tasting of some lovely wines from Planet Wines LA!",
+    "start_at": "2026-05-29T16:00:00-07:00",
+    "end_at": "2026-05-29T19:00:00-07:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2025/02/Screenshot-2025-02-22-at-12.42.59%E2%80%AFPM.png"
   },
   {
@@ -832,33 +1228,60 @@
     "location": "Culver City",
     "title": "Free Tasting: Iris Vodka Spritz",
     "description": "Join us for a free tasting with Iris Spirits!",
-    "schedule_label": "Friday 04:00pm – 07:00pm",
-    "month_label": "Jun",
-    "day": 6,
     "start_at": "2026-06-06T16:00:00-07:00",
     "end_at": "2026-06-06T19:00:00-07:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2025/06/Screenshot-2025-06-03-at-11.58.05%E2%80%AFAM.png"
+  },
+  {
+    "event_id": "ab1a032efa480933",
+    "location": "Long Beach",
+    "title": "Food Pop-Up: Loquat Oysters",
+    "description": "Stop by and get some freshly shucked oysters from Loquat Oysters! We'll also have a wine pairing available for purchase.",
+    "start_at": "2026-06-07T17:00:00-07:00",
+    "end_at": "2026-06-07T20:00:00-07:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2025/06/Screenshot-2025-06-03-at-11.52.31%E2%80%AFAM.png"
+  },
+  {
+    "event_id": "a54cc816979f1c15",
+    "location": "Long Beach",
+    "title": "Free Tasting: Common Space Brewery",
+    "description": "Join us for a free tasting with the award winning brewery Common Space!",
+    "start_at": "2026-06-11T16:00:00-07:00",
+    "end_at": "2026-06-11T19:00:00-07:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2025/04/Screenshot-2025-04-29-at-1.15.11%E2%80%AFPM.png"
+  },
+  {
+    "event_id": "92ca1706e58ecf76",
+    "location": "Long Beach",
+    "title": "Free Tasting:  Garber & Co. Wines",
+    "description": "Join us for a free tasting with Garber & Co. We'll be tasting a variety of wines from their selection.",
+    "start_at": "2026-06-12T19:00:00-07:00",
+    "end_at": "2026-06-12T20:00:00-07:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2023/12/Screen-Shot-2024-01-15-at-4.21.54-PM.png"
   },
   {
     "event_id": "556a37cfecfa13e8",
     "location": "Culver City",
     "title": "Free Tasting: Wismettac Sake and Shochu",
     "description": "Join us for a free tasting with Wismettac Sake and Shochu!",
-    "schedule_label": "Friday 04:00pm – 07:00pm",
-    "month_label": "Jun",
-    "day": 20,
     "start_at": "2026-06-20T16:00:00-07:00",
     "end_at": "2026-06-20T19:00:00-07:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2023/12/%C2%A9Project-M-Plus_Hi-Lo_Liquor_3-scaled.jpg"
+  },
+  {
+    "event_id": "14bea4d6a080f0b5",
+    "location": "Long Beach",
+    "title": "Free Tasting: Pizza Port",
+    "description": "Come by and try some brews from Southern California's Pizza Port Brewing Co!",
+    "start_at": "2026-06-20T16:00:00-07:00",
+    "end_at": "2026-06-20T19:00:00-07:00",
+    "image_url": null
   },
   {
     "event_id": "c8adc232b384bec7",
     "location": "Culver City",
     "title": "Free Tasting: Fall Brewing",
     "description": "Join us for a free tasting with Fall Brewing.",
-    "schedule_label": "Thursday 04:00pm – 07:00pm",
-    "month_label": "Jun",
-    "day": 26,
     "start_at": "2026-06-26T16:00:00-07:00",
     "end_at": "2026-06-26T19:00:00-07:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2023/02/Screenshot-2025-06-24-at-5.49.33%E2%80%AFPM.png"
@@ -868,33 +1291,51 @@
     "location": "Culver City",
     "title": "Free Tasting: Meet the Distiller of Lost Republic Whiskey",
     "description": "Join us for a free tasting with lost republic and meet the distiller!",
-    "schedule_label": "Thursday 04:00pm – 04:00pm",
-    "month_label": "Jun",
-    "day": 26,
     "start_at": "2026-06-26T16:00:00-07:00",
     "end_at": "2026-06-27T16:00:00-07:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2023/02/Screenshot-2024-09-18-at-12.40.52%E2%80%AFPM.png"
+  },
+  {
+    "event_id": "28a862eda4a8439c",
+    "location": "Long Beach",
+    "title": "La Mission Associates Mexican Wines",
+    "description": "La Mission Associates will be tasting some great wines from Baja California, Mexico!",
+    "start_at": "2026-06-26T16:00:00-07:00",
+    "end_at": "2026-06-26T19:00:00-07:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2025/06/Screenshot-2025-06-17-at-4.58.33%E2%80%AFPM.png"
   },
   {
     "event_id": "35ef5ba3e483fc4f",
     "location": "Culver City",
     "title": "Free Tasting: Yuzy Margaritas",
     "description": "Join us for a free tasting with Yuzy Margaritas",
-    "schedule_label": "Saturday 04:00pm – 07:00pm",
-    "month_label": "Jun",
-    "day": 28,
     "start_at": "2026-06-28T16:00:00-07:00",
     "end_at": "2026-06-28T19:00:00-07:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2024/06/Screenshot-2024-06-18-at-1.22.02%E2%80%AFPM.png"
+  },
+  {
+    "event_id": "7569a0a504a8854b",
+    "location": "Long Beach",
+    "title": "Free Tasting: Acronimo Spirits",
+    "description": "Join us for a free tasting with  Acronimo Spirits!",
+    "start_at": "2026-07-02T16:00:00-07:00",
+    "end_at": "2026-07-02T19:00:00-07:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2025/07/Screenshot-2025-07-01-at-5.33.37%E2%80%AFPM.png"
+  },
+  {
+    "event_id": "3f2bea3d12f1128c",
+    "location": "Long Beach",
+    "title": "Free Tasting: Los Sundays Tequila",
+    "description": "Join us for a free tasting with Los Sundays Tequila!",
+    "start_at": "2026-07-23T15:30:00-07:00",
+    "end_at": "2026-07-23T18:30:00-07:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2023/11/Screen-Shot-2023-11-08-at-3.38.04-PM.png"
   },
   {
     "event_id": "64dc5182f4f2f58b",
     "location": "Culver City",
     "title": "Free Tasting: Lo Siento Tequila",
     "description": "Lo Siento tequilas are sustainably farmed in the Jalisco Highlands using 100% Blue Weber Agave that is grown and distilled by family owned and operated distillery. Come try their tequilas as they resonate with both novices and experience tequila drinkers alike!",
-    "schedule_label": "Thursday 04:00pm – 07:00pm",
-    "month_label": "Jul",
-    "day": 24,
     "start_at": "2026-07-24T16:00:00-07:00",
     "end_at": "2026-07-24T19:00:00-07:00",
     "image_url": null
@@ -904,21 +1345,24 @@
     "location": "Culver City",
     "title": "Free Tasting: Applewood Gin & Unico Zelo Wines",
     "description": "Join us for a free tasting with Applewood Gin & Unico Zelo wines.",
-    "schedule_label": "Friday 04:00pm – 07:00pm",
-    "month_label": "Jul",
-    "day": 25,
     "start_at": "2026-07-25T16:00:00-07:00",
     "end_at": "2026-07-25T19:00:00-07:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2023/12/Screen-Shot-2024-01-15-at-4.21.54-PM.png"
+  },
+  {
+    "event_id": "4ae4472ff5665c36",
+    "location": "Long Beach",
+    "title": "Free Tasting: Rancho West Organic Beer",
+    "description": "Come sample Ranch West Organic Beer! Their a mission to shift the cultural change towards a beer that’s better for you and for the planet.",
+    "start_at": "2026-07-30T15:30:00-07:00",
+    "end_at": "2026-07-30T19:00:00-07:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2024/10/Screenshot-2024-10-24-at-12.03.29%E2%80%AFPM.png"
   },
   {
     "event_id": "4dab2c7494bc2c27",
     "location": "Culver City",
     "title": "Food Pop-Up: Challah Dad",
     "description": "Challah Dad will be selling their famous challah dogs!",
-    "schedule_label": "Friday 05:00pm – 08:00pm",
-    "month_label": "Aug",
-    "day": 1,
     "start_at": "2026-08-01T17:00:00-07:00",
     "end_at": "2026-08-01T20:00:00-07:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2025/07/Screenshot-2025-07-30-at-5.54.31-PM.png"
@@ -928,9 +1372,24 @@
     "location": "Culver City",
     "title": "Free Tasting: Beverly High Rye",
     "description": "Join us for a free tasting with Beverly High Rye!",
-    "schedule_label": "Thursday 04:00pm – 07:00pm",
-    "month_label": "Aug",
-    "day": 14,
+    "start_at": "2026-08-14T16:00:00-07:00",
+    "end_at": "2026-08-14T19:00:00-07:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2024/06/Screenshot-2024-06-10-at-3.58.38%E2%80%AFPM.png"
+  },
+  {
+    "event_id": "7d35f17849fac65b",
+    "location": "Long Beach",
+    "title": "Free Tasting: Duvel Beer",
+    "description": "Join us for a free tasting with Duvel, the iconic Belgian Golden Ale.",
+    "start_at": "2026-08-14T16:00:00-07:00",
+    "end_at": "2026-08-14T19:00:00-07:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2024/09/Screenshot-2024-09-09-at-3.53.30%E2%80%AFPM.png"
+  },
+  {
+    "event_id": "21691a8fda3e3d1c",
+    "location": "Long Beach",
+    "title": "Free Tasting: Beverly High Rye",
+    "description": "Join us for a free tasting with Beverly High Rye!",
     "start_at": "2026-08-14T16:00:00-07:00",
     "end_at": "2026-08-14T19:00:00-07:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2024/06/Screenshot-2024-06-10-at-3.58.38%E2%80%AFPM.png"
@@ -940,21 +1399,24 @@
     "location": "Culver City",
     "title": "Food Pop-Up: Pizza Melodia",
     "description": "Pizza Melodia will be popping up outside serving their mouth-watering, naturally leavened pizza pies! Come join!",
-    "schedule_label": "Friday 05:00pm – 09:00pm",
-    "month_label": "Aug",
-    "day": 15,
     "start_at": "2026-08-15T17:00:00-07:00",
     "end_at": "2026-08-15T21:00:00-07:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2025/08/IMG_8341.jpg"
+  },
+  {
+    "event_id": "1eae63bec0011c08",
+    "location": "Long Beach",
+    "title": "Food Pop-Up: Wave Gourmet Burger",
+    "description": "Join us at our Long Beach location for amazing smash burgers by Eat your Wave Burger! They have deliciously crispy burgers and their famous truffle fries!",
+    "start_at": "2026-08-15T17:00:00-07:00",
+    "end_at": "2026-08-15T21:00:00-07:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2023/10/Screen-Shot-2023-10-16-at-6.56.52-PM.png"
   },
   {
     "event_id": "f76c143114c2ac57",
     "location": "Culver City",
     "title": "Free Tasting: Golden Rule Spirits",
     "description": "Join us at our Culver City location for a free tasting with Golden Rule Spirits canned cocktails!",
-    "schedule_label": "Saturday 04:00pm – 07:00pm",
-    "month_label": "Aug",
-    "day": 16,
     "start_at": "2026-08-16T16:00:00-07:00",
     "end_at": "2026-08-16T19:00:00-07:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2023/11/Screen-Shot-2023-11-06-at-4.25.40-PM.png"
@@ -964,33 +1426,69 @@
     "location": "Culver City",
     "title": "Free Tasting: Terah Wines",
     "description": "Terah will be in tasting through some of her wines!",
-    "schedule_label": "Wednesday 04:00pm – 06:00pm",
-    "month_label": "Aug",
-    "day": 20,
     "start_at": "2026-08-20T16:00:00-07:00",
     "end_at": "2026-08-20T18:00:00-07:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2025/07/Screenshot-2025-07-30-at-5.27.02-PM.png"
+  },
+  {
+    "event_id": "cbac5c38eae4b868",
+    "location": "Long Beach",
+    "title": "Free Tasting: Anytime Spritz + Farmhouse Organic Spirits",
+    "description": "Anytime Spritz makes organic and regenerative spirits & cocktails. Crafted by queer women, powered by farmers and the first climate negative distillery.",
+    "start_at": "2026-08-21T16:00:00-07:00",
+    "end_at": "2026-08-21T19:00:00-07:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2025/04/Screenshot-2025-04-29-at-1.09.57%E2%80%AFPM.png"
+  },
+  {
+    "event_id": "bf6ac3b2c5161e10",
+    "location": "Long Beach",
+    "title": "Food Pop-Up: Wave Gourmet Burger",
+    "description": "Wave Gourmet Burger is the delicious brainchild of Daria and Alex who moved to SoCal not so long ago with a dream to establish the best burger restaurant. Back in their country, they had a famous burger joint and decided that it was time to show their unique approach to the world. And isn't a smash burger the best place to start?",
+    "start_at": "2026-08-22T17:00:00-07:00",
+    "end_at": "2026-08-22T21:00:00-07:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2023/11/1C60CEB5-F51A-4D9F-8952-6E19D6EA4721.jpg"
   },
   {
     "event_id": "060f4daab6719b1f",
     "location": "Culver City",
     "title": "Free Tasting: Wolves Whiskey",
     "description": "Join us for a free tasting with Wolves Whiskey! California's first luxury whiskey brand.",
-    "schedule_label": "Saturday 04:00pm – 07:00pm",
-    "month_label": "Aug",
-    "day": 23,
     "start_at": "2026-08-23T16:00:00-07:00",
     "end_at": "2026-08-23T19:00:00-07:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2025/01/Screenshot-2025-01-20-at-5.37.30%E2%80%AFPM.png"
+  },
+  {
+    "event_id": "500ef60d8354626a",
+    "location": "Long Beach",
+    "title": "Food Pop-Up: Rize Kitchen",
+    "description": "Rize kitchen will be out front selling their breakfast burritos and brunch items! Vegan and gluten free options available!",
+    "start_at": "2026-08-24T10:00:00-07:00",
+    "end_at": "2026-08-24T14:00:00-07:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2024/06/Screenshot-2024-06-25-at-4.48.18%E2%80%AFPM.png"
+  },
+  {
+    "event_id": "3dd8af1714db1cd2",
+    "location": "Long Beach",
+    "title": "Jumbo Time Wines x Hi-Lo Wine Collab Release Party",
+    "description": "We're so excited to announce we've collaborated with one of our favorite wine producers Jumbo Time Wines to bring you an amazing orange and chillable red!\r\nWe’ll be partying at ALL three locations pouring these delicious wines along with food vendors:\r\nLong Beach ~ Rize Kitchen and Tip Top Canned Cocktails \r\nCulver City ~ Lindfors Farms Pizza and Livewire Cocktails \r\nCosta Mesa ~ Dane's Donuts",
+    "start_at": "2026-08-29T16:00:00-07:00",
+    "end_at": "2026-08-30T08:00:00-07:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2024/08/Untitled-Instagram-Post.png"
+  },
+  {
+    "event_id": "f9a7120aef9e8f62",
+    "location": "Long Beach",
+    "title": "Free Tasting: Wilde Irish Gin",
+    "description": "Wilde Irish Gin is distilled in Ireland using select Irish ingredients. It is an exquisite blend of carefully selected ingredients that shine through in every sip. This premium gin is distilled by hand in small batches with two copper pot stills to ensure a level of quality that can only result from a master distiller's intuition. Come by and taste this standout gin!",
+    "start_at": "2026-08-30T15:00:00-07:00",
+    "end_at": "2026-08-30T18:00:00-07:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2022/08/Screenshot-2024-08-26-at-6.37.47%E2%80%AFPM.png"
   },
   {
     "event_id": "9731656e540e8c0b",
     "location": "Culver City",
     "title": "Pop up: LINK x LOU Permanent Jewerly",
     "description": "LINK x LOU will be doing permanent, welded 14k solid gold jewelry, custom-sized to fit your wrist, neck, ankle, or finger!",
-    "schedule_label": "Saturday 04:00pm – 07:00pm",
-    "month_label": "Aug",
-    "day": 30,
     "start_at": "2026-08-30T16:00:00-07:00",
     "end_at": "2026-08-30T19:00:00-07:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2025/08/IMG_8692.jpg"
@@ -1000,21 +1498,42 @@
     "location": "Culver City",
     "title": "Free Tasting: Acronimo Sotol & Gin",
     "description": "Join us for a free tasting with Acronimo Sotol & Gin!",
-    "schedule_label": "Saturday 04:00pm – 07:00pm",
-    "month_label": "Sep",
-    "day": 6,
     "start_at": "2026-09-06T16:00:00-07:00",
     "end_at": "2026-09-06T19:00:00-07:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2025/06/Screenshot-2025-06-10-at-3.58.57%E2%80%AFPM.png"
+  },
+  {
+    "event_id": "3470aa22a173740b",
+    "location": "Long Beach",
+    "title": "Free Tasting: Sapere Wines",
+    "description": "Join us for a free tasting of Sapere's sparkling rose!",
+    "start_at": "2026-09-06T16:00:00-07:00",
+    "end_at": "2026-09-06T19:00:00-07:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2024/09/Screenshot-2024-09-03-at-5.21.55%E2%80%AFPM.png"
+  },
+  {
+    "event_id": "b14a9728fd5e9926",
+    "location": "Long Beach",
+    "title": "Free Tasting: Ommegang and Boulevard Brewing",
+    "description": "Join us for a free tasting of Ommegang and Boulevard brewing!",
+    "start_at": "2026-09-06T16:00:00-07:00",
+    "end_at": "2026-09-06T19:00:00-07:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2023/10/HiLo_Jan_2019209-scaled.jpg"
+  },
+  {
+    "event_id": "a225a82ee8313987",
+    "location": "Long Beach",
+    "title": "Free Tasting: Paulaner Beer",
+    "description": "",
+    "start_at": "2026-09-10T15:30:00-07:00",
+    "end_at": "2026-09-10T18:30:00-07:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2025/09/IMG_8924.jpg"
   },
   {
     "event_id": "f5411d6223b8a533",
     "location": "Culver City",
     "title": "Free Tasting: Paulaner Beer",
     "description": "",
-    "schedule_label": "Wednesday 04:00pm – 07:00pm",
-    "month_label": "Sep",
-    "day": 10,
     "start_at": "2026-09-10T16:00:00-07:00",
     "end_at": "2026-09-10T19:00:00-07:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2025/09/IMG_8923.jpg"
@@ -1024,9 +1543,6 @@
     "location": "Culver City",
     "title": "Free Tasting: Meili Vodka",
     "description": "",
-    "schedule_label": "Wednesday 04:00pm – 07:00pm",
-    "month_label": "Sep",
-    "day": 10,
     "start_at": "2026-09-10T16:00:00-07:00",
     "end_at": "2026-09-10T19:00:00-07:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2025/09/IMG_8925.jpg"
@@ -1036,9 +1552,6 @@
     "location": "Culver City",
     "title": "Food Pop-Up: Kreung Kitchen",
     "description": "Grab some delicious food from Kreung Kitchen! They're an LA based Cambodian BBQ food pop-up serving grilled meats and tasty sides.",
-    "schedule_label": "Friday 06:00pm – 09:00pm",
-    "month_label": "Sep",
-    "day": 12,
     "start_at": "2026-09-12T18:00:00-07:00",
     "end_at": "2026-09-12T21:00:00-07:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2024/05/Screenshot-2024-05-08-at-1.09.19%E2%80%AFPM.png"
@@ -1048,45 +1561,69 @@
     "location": "Culver City",
     "title": "Food Pop-Up: Shuck Brothers Oysters",
     "description": "Join us for some oysters and good times! Shuck brothers will be serving freshly shucked oysters, Maine lobster rolls and rockfish ceviche! YUUMMMM",
-    "schedule_label": "Friday 04:00pm – 09:00pm",
-    "month_label": "Sep",
-    "day": 19,
     "start_at": "2026-09-19T16:00:00-07:00",
     "end_at": "2026-09-19T21:00:00-07:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2025/08/HiLoCulverB.png"
+  },
+  {
+    "event_id": "a098be2307842872",
+    "location": "Long Beach",
+    "title": "Free Tasting: BTL-SVC RTD Cocktails",
+    "description": "Stop on in and try BTL-SVC cocktails, which are high quality and are extremely well-balanced. All cocktails are free from any additives, preservatives, artificial color or flavors and all are gluten free. And, they only use the finest ingredients you can find behind a bar!",
+    "start_at": "2026-09-19T16:00:00-07:00",
+    "end_at": "2026-09-19T19:00:00-07:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2023/02/IMG_9075.jpg"
+  },
+  {
+    "event_id": "52de0a3e4c0669cb",
+    "location": "Long Beach",
+    "title": "Free Tasting: Agua Del Jaguar + Fernet Francisco + Freeland Spirits",
+    "description": "Join us for a unique lineup of spirits!",
+    "start_at": "2026-09-20T16:00:00-07:00",
+    "end_at": "2026-09-20T19:00:00-07:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2025/09/IMG_8819.jpg"
   },
   {
     "event_id": "03d626794f239f95",
     "location": "Culver City",
     "title": "Free Tasting: Alpamanta Wines",
     "description": "Alpamanta means love for the land. Join us for a complimentary tasting of their regenerative wines!",
-    "schedule_label": "Wednesday 04:00pm – 07:00pm",
-    "month_label": "Sep",
-    "day": 24,
     "start_at": "2026-09-24T16:00:00-07:00",
     "end_at": "2026-09-24T19:00:00-07:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2025/09/IMG_9159.jpg"
+  },
+  {
+    "event_id": "71d28f02b6922430",
+    "location": "Long Beach",
+    "title": "Free Tasting: Banhez Mezcal & Libelula Tequila",
+    "description": "Join us for a complementary tasting of artisanal Mezcal's & Tequila's!",
+    "start_at": "2026-09-24T16:00:00-07:00",
+    "end_at": "2026-09-24T19:00:00-07:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2025/09/IMG_9076.jpg"
   },
   {
     "event_id": "4117b2021d947f0c",
     "location": "Culver City",
     "title": "Free Tasting: Fremont Brewing & Lost Lake Cider",
     "description": "Join us for a free tasting with Fremont Brewing and Lost Lake Cider.",
-    "schedule_label": "Thursday 04:00pm – 07:00pm",
-    "month_label": "Sep",
-    "day": 25,
     "start_at": "2026-09-25T16:00:00-07:00",
     "end_at": "2026-09-25T19:00:00-07:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2023/12/%C2%A9Project-M-Plus_Hi-Lo_Liquor_3-scaled.jpg"
+  },
+  {
+    "event_id": "82ce907138f77dcb",
+    "location": "Long Beach",
+    "title": "Free Tasting: AllagashBrewing",
+    "description": "Join us for a free tasting of Allagash White and Haunted House!",
+    "start_at": "2026-09-25T16:00:00-07:00",
+    "end_at": "2026-09-25T17:00:00-07:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2023/10/Screen-Shot-2023-10-19-at-3.20.21-PM.png"
   },
   {
     "event_id": "1c581b43f5f70772",
     "location": "Culver City",
     "title": "Free Tasting: Capurro Pisco & Xila Mexican Aperitif",
     "description": "Join us for a complimentary tasting of women owned spirits: Capurro Peruvian Pisco & Xila Mexican Aperitif!",
-    "schedule_label": "Saturday 04:00pm – 07:00pm",
-    "month_label": "Sep",
-    "day": 27,
     "start_at": "2026-09-27T16:00:00-07:00",
     "end_at": "2026-09-27T19:00:00-07:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2024/03/IMG_9160.jpg"
@@ -1096,21 +1633,24 @@
     "location": "Culver City",
     "title": "Free Tasting: Coastal Stone Australian Whisky",
     "description": "Join us for a free tasting with Manly Spirits Coastal Stone Whiskey: Australian Whisky made from grain to glass in the Northern Beaches distillery.",
-    "schedule_label": "Wednesday 04:00pm – 07:00pm",
-    "month_label": "Oct",
-    "day": 8,
     "start_at": "2026-10-08T16:00:00-07:00",
     "end_at": "2026-10-08T19:00:00-07:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2025/05/Screenshot-2025-05-27-at-5.53.16%E2%80%AFPM.png"
+  },
+  {
+    "event_id": "a6eca4741d0216bf",
+    "location": "Long Beach",
+    "title": "Fall Market",
+    "description": "Join us for a fun and festive day in Long Beach on 10/12 ~ 2-6PM 🍁 Good times, pizza, local vendors, tattoos, and complimentary tastings 🍎\r\nCatedral Mezcal \r\nParch NA Agave Drinks\r\nHere! Here! Pizza\r\nSoy Latina Candles\r\nTarot by Reina La Flame \r\nQuick and Bitter Tattoos\r\nThrift & Sage",
+    "start_at": "2026-10-12T00:00:00-07:00",
+    "end_at": "2026-10-13T00:00:00-07:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2024/10/Screenshot-2024-10-08-at-4.37.05%E2%80%AFPM.png"
   },
   {
     "event_id": "b6a512a26fbcac03",
     "location": "Culver City",
     "title": "Free Tasting: Noot N/A",
     "description": "Join us for a complimentary tasting of Noot N/A mocktails!",
-    "schedule_label": "Wednesday 04:00pm – 07:00pm",
-    "month_label": "Oct",
-    "day": 15,
     "start_at": "2026-10-15T16:00:00-07:00",
     "end_at": "2026-10-15T19:00:00-07:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2025/10/IMG_9569.jpg"
@@ -1120,21 +1660,24 @@
     "location": "Culver City",
     "title": "Free Tasting: Crooked Owl Hard Tepache",
     "description": "Join us for a free tasting with Crooked Owl Hard Tepache",
-    "schedule_label": "Friday 04:00pm – 07:00pm",
-    "month_label": "Oct",
-    "day": 17,
     "start_at": "2026-10-17T16:00:00-07:00",
     "end_at": "2026-10-17T19:00:00-07:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2024/07/Screenshot-2024-07-15-at-2.12.15%E2%80%AFPM-1.png"
+  },
+  {
+    "event_id": "6ab446a00e545c96",
+    "location": "Long Beach",
+    "title": "Food Pop-Up: Smokmoc Yakitori",
+    "description": "Smokmoc Yakitori will be outside selling the bbq'd meats!",
+    "start_at": "2026-10-17T17:00:00-07:00",
+    "end_at": "2026-10-17T20:00:00-07:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2024/10/Screenshot-2024-10-16-at-3.21.36%E2%80%AFPM.png"
   },
   {
     "event_id": "235c26660abb5a89",
     "location": "Culver City",
     "title": "Free Tasting: BTL-SVC RTD Cocktails",
     "description": "Stop on in and try BTL-SVC cocktails, which are high quality and are extremely well-balanced. All cocktails are free from any additives, preservatives, artificial color or flavors and all are gluten free. And, they only use the finest ingredients you can find behind a bar!",
-    "schedule_label": "Wednesday 04:00pm – 07:00pm",
-    "month_label": "Oct",
-    "day": 22,
     "start_at": "2026-10-22T16:00:00-07:00",
     "end_at": "2026-10-22T19:00:00-07:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2023/02/IMG_9075.jpg"
@@ -1144,47 +1687,98 @@
     "location": "Culver City",
     "title": "Free Tasting: Noot N/A",
     "description": "Join us for a complimentary tasting of Noot N/A mocktails!",
-    "schedule_label": "Wednesday 04:00pm – 07:00am",
-    "month_label": "Oct",
-    "day": 22,
     "start_at": "2026-10-22T16:00:00-07:00",
     "end_at": "2026-10-23T07:00:00-07:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2025/10/IMG_9569.jpg"
+  },
+  {
+    "event_id": "a3e084c19b715303",
+    "location": "Long Beach",
+    "title": "Free Tasting: Radiant Brewing",
+    "description": "Radiant Beer Company out of Anaheim, CA will be in store tasting out their beers!",
+    "start_at": "2026-10-25T16:00:00-07:00",
+    "end_at": "2026-10-25T19:00:00-07:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2023/10/Screen-Shot-2023-10-19-at-3.36.15-PM.png"
   },
   {
     "event_id": "1edaa9f3283181b9",
     "location": "Culver City",
     "title": "Free Tasting: St. George Spirits",
     "description": "Join us for a complimentary tasting with St. George craft spirits!",
-    "schedule_label": "Wednesday 04:00pm – 07:00pm",
-    "month_label": "Oct",
-    "day": 29,
     "start_at": "2026-10-29T16:00:00-07:00",
     "end_at": "2026-10-29T19:00:00-07:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2025/10/IMG_9779.jpg"
+  },
+  {
+    "event_id": "2eb3c6ca7cdc7f8c",
+    "location": "Long Beach",
+    "title": "Free Tasting: Thirst Trap",
+    "description": "Join us for a free tasting with Thirst Trap, they're wine based canned cocktails!",
+    "start_at": "2026-11-06T15:30:00-08:00",
+    "end_at": "2026-11-06T18:30:00-08:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2024/09/Screenshot-2024-09-18-at-2.56.07%E2%80%AFPM.png"
   },
   {
     "event_id": "9c9738a12402833c",
     "location": "Culver City",
     "title": "Free Tasting: Bücha Hard Kombucha",
     "description": "Join us for a complimentary tasting with Bücha! A small batch kombucha made in San Diego from 100% organic whole fruit sourced from small California farms.",
-    "schedule_label": "Thursday 04:00pm – 07:00pm",
-    "month_label": "Nov",
-    "day": 6,
     "start_at": "2026-11-06T16:00:00-08:00",
     "end_at": "2026-11-06T19:00:00-08:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2025/11/IMG_9909.jpg"
+  },
+  {
+    "event_id": "c1be635594bb296f",
+    "location": "Long Beach",
+    "title": "Food Pop-Up: Yaya's Woodfired Pizza",
+    "description": "Yaya's Woodfired Pizza will have their awesome pizza truck outside serving up delicious pies!",
+    "start_at": "2026-11-06T17:00:00-08:00",
+    "end_at": "2026-11-06T20:00:00-08:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2025/02/Screenshot-2025-02-04-at-10.31.58%E2%80%AFAM.png"
+  },
+  {
+    "event_id": "426bcf2e1ee5e26d",
+    "location": "Long Beach",
+    "title": "Free Tasting: Bücha Hard Kombucha",
+    "description": "Join us for a complimentary tasting with Bücha! A small batch kombucha made in San Diego from 100% organic whole fruit sourced from small California farms.",
+    "start_at": "2026-11-07T16:00:00-08:00",
+    "end_at": "2026-11-07T19:00:00-08:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2025/11/IMG_9909.jpg"
+  },
+  {
+    "event_id": "364fdc91bfd0e572",
+    "location": "Long Beach",
+    "title": "Free Tasting: Topo Chico Hard Seltzer",
+    "description": "Makenzie from Topo Chico will be in store sampling guests on Topo Chico Hard Seltzer!",
+    "start_at": "2026-11-12T15:30:00-08:00",
+    "end_at": "2026-11-12T18:30:00-08:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2023/11/Screen-Shot-2023-11-06-at-4.30.04-PM.png"
   },
   {
     "event_id": "efe496c12b229074",
     "location": "Culver City",
     "title": "Free Tasting: Common Space Brewing",
     "description": "Join us for a free tasting with Common Space Brewery!",
-    "schedule_label": "Thursday 04:00pm – 07:00pm",
-    "month_label": "Nov",
-    "day": 13,
     "start_at": "2026-11-13T16:00:00-08:00",
     "end_at": "2026-11-13T19:00:00-08:00",
     "image_url": "https://hiloliquor.com/wp-content/uploads/2025/04/Screenshot-2025-04-29-at-1.15.11%E2%80%AFPM.png"
+  },
+  {
+    "event_id": "339ad06c09b21207",
+    "location": "Long Beach",
+    "title": "Free Tasting: Bardstown Whiskey",
+    "description": "Join us for a free tasting with Bardstown Whiskey!",
+    "start_at": "2026-11-13T16:00:00-08:00",
+    "end_at": "2026-11-13T19:00:00-08:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2024/12/Screenshot-2024-12-02-at-3.04.18%E2%80%AFPM.png"
+  },
+  {
+    "event_id": "61a92f57903539af",
+    "location": "Long Beach",
+    "title": "Silvergrin Vodka & Warbringer Bourbon",
+    "description": "Join us for a free tasting with Silvergrin Vodka & Warbringer Bourbon",
+    "start_at": "2026-11-15T16:00:00-08:00",
+    "end_at": "2026-11-15T19:00:00-08:00",
+    "image_url": "https://hiloliquor.com/wp-content/uploads/2023/12/%C2%A9Project-M-Plus_Hi-Lo_Liquor_3-scaled.jpg"
   }
 ]

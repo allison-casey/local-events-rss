@@ -136,9 +136,7 @@ def hilo_feed(
         upcoming_only=upcoming_only,
     )
     write_rss_feed(output, channel, items)
-    typer.echo(
-        f"Wrote {len(items)} item(s) for {location.value} to {output}."
-    )
+    typer.echo(f"Wrote {len(items)} item(s) for {location.value} to {output}.")
 
 
 def main() -> None:

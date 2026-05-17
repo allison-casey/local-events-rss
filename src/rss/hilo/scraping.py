@@ -88,26 +88,16 @@ def scrape_location_events(
     now = pendulum.now(timezone)
     return [
         _to_hilo_event(raw, now=now, timezone=timezone)
-        for raw in (_parse_event_element(element, location) for element in iter_location_event_elements(soup, location))
+        for raw in (
+            _parse_event_element(element, location)
+            for element in iter_location_event_elements(soup, location)
+        )
     ]
 
 
-def scrape_culver_city_events(
-    *,
-    url: str = DEFAULT_LOCATIONS_URL,
-    client: httpx.Client | None = None,
-    timezone: str = DEFAULT_TIMEZONE,
-) -> list[HiloEvent]:
-    """Fetch and parse all events for the Culver City location."""
-    return scrape_location_events(
-        HiloLocation.CULVER_CITY,
-        url=url,
-        client=client,
-        timezone=timezone,
-    )
-
-
-def build_event_id(location: HiloLocation, title: str, start_at: pendulum.DateTime) -> str:
+def build_event_id(
+    location: HiloLocation, title: str, start_at: pendulum.DateTime
+) -> str:
     """Build a stable event identifier for upserts."""
     payload = f"{location.value}|{title}|{start_at.to_iso8601_string()}"
     return hashlib.sha256(payload.encode()).hexdigest()[:16]
@@ -144,7 +134,7 @@ def _parse_event_element(element: Tag, location: HiloLocation) -> _RawEventField
     title = _text_from_selector(element, "p.text-3xl")
     description = _optional_text_from_selector(element, "p.my-2")
     image = element.find("img")
-    image_url = image.get("src") if image else None
+    image_url = str(image.get("src")) if image else None
     if isinstance(image_url, str) and not image_url.strip():
         image_url = None
     return _RawEventFields(
@@ -204,17 +194,16 @@ def _to_hilo_event(
         timezone=timezone,
     )
     event_id = build_event_id(raw.location, raw.title, start_at)
-    return HiloEvent(
-        event_id=event_id,
-        location=raw.location,
-        title=raw.title,
-        description=raw.description,
-        schedule_label=raw.schedule_label,
-        month_label=raw.month_label,
-        day=raw.day,
-        start_at=start_at,
-        end_at=end_at,
-        image_url=raw.image_url,
+    return HiloEvent.model_validate(
+        {
+            "event_id": event_id,
+            "location": raw.location,
+            "title": raw.title,
+            "description": raw.description,
+            "start_at": start_at,
+            "end_at": end_at,
+            "image_url": raw.image_url,
+        }
     )
 
 
@@ -288,14 +277,3 @@ def _parse_time_on_date(
     if not isinstance(parsed, pendulum.DateTime):
         raise ValueError(f"Could not parse time: {time_text!r}")
     return parsed
-
-
-def filter_events(
-    events: Iterable[HiloEvent],
-    *,
-    location: HiloLocation | None = None,
-) -> list[HiloEvent]:
-    """Return events optionally filtered by location."""
-    if location is None:
-        return list(events)
-    return [event for event in events if event.location is location]

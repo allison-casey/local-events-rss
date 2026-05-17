@@ -2,13 +2,12 @@
 
 from __future__ import annotations
 
+from abc import ABC
+from abc import abstractmethod
 from collections.abc import Callable, Iterable, Sequence
 from datetime import datetime
-from typing import Protocol, TypeVar
 
 from pydantic import BaseModel, ConfigDict, Field, HttpUrl
-
-T = TypeVar("T", contravariant=True)
 
 
 class FeedEnclosure(BaseModel):
@@ -49,13 +48,13 @@ class FeedChannel(BaseModel):
     ttl_minutes: int | None = Field(default=None, ge=1)
 
 
-class FeedItemMapper(Protocol[T]):
-    """Map a source-specific record to a generic ``FeedItem``."""
+class RssEvent(ABC, BaseModel):
+    @abstractmethod
+    def to_feed_item(self) -> FeedItem:
+        pass
 
-    def __call__(self, source: T, /) -> FeedItem: ...
 
-
-def map_to_feed_items(
+def map_to_feed_items[T](
     sources: Iterable[T],
     mapper: Callable[[T], FeedItem],
 ) -> list[FeedItem]:
