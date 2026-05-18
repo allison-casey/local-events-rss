@@ -149,11 +149,15 @@ class HiloChannel(RssChannel[HiloEvent]):
         timezone: str = DEFAULT_TIMEZONE,
     ) -> list[HiloEvent]:
         """Return channel events, optionally omitting events that have ended."""
-        if not upcoming_only:
-            return list(self.events)
         now = pendulum.now(timezone)
+        window_end = now.add(weeks=1)
+        if not upcoming_only:
+            return [event for event in self.events if event.start_at <= window_end]
+
         return [
-            event for event in self.events if pendulum.instance(event.end_at) >= now
+            event
+            for event in self.events
+            if event.end_at >= now and event.start_at <= window_end
         ]
 
     def to_feed_channel(
