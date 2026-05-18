@@ -1,0 +1,38 @@
+name: Update RSS Feeds
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # daily
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          persist-credentials: true
+
+      - name: Install the latest version of uv
+        uses: astral-sh/setup-uv
+
+      - name: Install dependencies
+        run: uv sync
+
+      - name: Scrape all websites
+        run: uv run rss sync
+
+      - name: Generate RSS feeds
+        run: uv run rss feed
+
+      - name: Commit and push
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git add data/
+          git add feeds/
+          git commit -m "Update RSS feeds" || echo "No changes to commit"
+          git push
