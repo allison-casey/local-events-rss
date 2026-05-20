@@ -5,7 +5,7 @@
     <link>feeds/all.xml</link>
     <description>Combined events from all local feed sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 May 2026 04:09:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 04:10:27 +0000</lastBuildDate>
     <item>
       <title>Food Pop-up: Camello Pita Poblano</title>
       <link>https://hiloliquor.com/locations/#Culver%20City</link>
@@ -82,6 +82,17 @@
       <guid isPermaLink="false">9c4041cfb0a52096</guid>
       <category>Long Beach</category>
       <enclosure url="https://hiloliquor.com/wp-content/uploads/2025/11/Ovo-Vodka.png" type="image/png" />
+    </item>
+    <item>
+      <title>Free Tasting: Livewire Canned Cocktails</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; May 22 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;
+&lt;p&gt;LiveWire creates award-winning cocktails made by award-winning bartenders. The company&amp;#x27;s mission is to help further highlight the immensely talented bartenders that create brilliant drinks &amp;amp; nights, around the world. LiveWire bartender-collaborators design unique cocktails, using the finest spirits in the world, natural flavors and extracts, and choose the artists that design the art on the packaging to help their vision come alive. Come check out this bold new brand with a free tasting of their exciting ready-to-drink canned cocktails!&lt;/p&gt;</description>
+      <pubDate>Fri, 22 May 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">17b19ebd92e1e3a1</guid>
+      <category>Long Beach</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2022/08/Screenshot-2026-02-06-at-2.46.30-PM.png" type="image/png" />
     </item>
     <item>
       <title>Free Tasting: Pinhook Bourbon &amp; Rye</title>

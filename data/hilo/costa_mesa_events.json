@@ -881,6 +881,24 @@
       "start_at": "2026-11-15T16:00:00-08:00",
       "end_at": "2026-11-15T19:00:00-08:00",
       "image_url": "https://hiloliquor.com/wp-content/uploads/2025/11/IMG_0066.jpg"
+    },
+    {
+      "event_id": "84f3acc1653d81b9",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Silvergrin Vodka & Warbringer Bourbon",
+      "description": "Join us for a free tasting with Silvergrin Vodka & Warbringer Bourbon!",
+      "start_at": "2026-11-17T15:00:00-08:00",
+      "end_at": "2026-11-17T18:00:00-08:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2023/10/hilo_cm_43-scaled.jpg"
+    },
+    {
+      "event_id": "440f80153ea5953b",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Empirical Spirits",
+      "description": "Stop by and try spirits and RTDs from Empirical Spirits, a flavor-first company that takes the highest-quality ingredients and turns them into delicious experiences.",
+      "start_at": "2026-11-17T17:00:00-08:00",
+      "end_at": "2026-11-17T19:00:00-08:00",
+      "image_url": null
     }
   ],
   "location": "Costa Mesa",
