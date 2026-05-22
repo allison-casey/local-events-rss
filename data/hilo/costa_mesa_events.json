@@ -899,6 +899,15 @@
       "start_at": "2026-11-17T17:00:00-08:00",
       "end_at": "2026-11-17T19:00:00-08:00",
       "image_url": null
+    },
+    {
+      "event_id": "01011640e31a71b0",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Rally Gin",
+      "description": "Rally Gin is a California black and woman owned spirit company. Rally Gin is handcrafted and micro-distilled in small batches and is produced using 12 premium botanicals and Italian spices. Their distilling kettle is vapor-infused, giving a precise gin flavor profile. Come by and experience the difference in Rally Gin!",
+      "start_at": "2026-11-19T13:00:00-08:00",
+      "end_at": "2026-11-19T16:00:00-08:00",
+      "image_url": null
     }
   ],
   "location": "Costa Mesa",
