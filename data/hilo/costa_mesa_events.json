@@ -908,6 +908,15 @@
       "start_at": "2026-11-19T13:00:00-08:00",
       "end_at": "2026-11-19T16:00:00-08:00",
       "image_url": null
+    },
+    {
+      "event_id": "510c86491eeb6f22",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: El Segundo",
+      "description": "Formed in 2011, El Segundo is an independent craft brewery focusing on fresh, hoppy West Coast IPAs and other crisp flavors.",
+      "start_at": "2026-11-20T16:00:00-08:00",
+      "end_at": "2026-11-20T19:00:00-08:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2023/11/Screen-Shot-2023-11-28-at-2.57.25-PM.png"
     }
   ],
   "location": "Costa Mesa",
