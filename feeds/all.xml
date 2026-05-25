@@ -5,7 +5,51 @@
     <link>feeds/all.xml</link>
     <description>Combined events from all local feed sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 May 2026 04:12:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 04:23:55 +0000</lastBuildDate>
+    <item>
+      <title>Food Pop-Up: Slang Burgers</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; May 29 5:00 PM - 8:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Join us at our Culver City location for smash burgers by our friends, Slang Burgers! Come early, they sell fast!&lt;/p&gt;</description>
+      <pubDate>Fri, 29 May 2026 17:00:00 -0700</pubDate>
+      <guid isPermaLink="false">01e5eaa8df1357b1</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2023/11/Screen-Shot-2023-11-28-at-2.36.34-PM.png" type="image/png" />
+    </item>
+    <item>
+      <title>Food Pop-Up: WAVE Gourmet Burgers</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; May 29 5:00 PM - 9:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;
+&lt;p&gt;WAVE is bringing their legendary smash burgers and crave-worthy truffle fries to the party!&lt;/p&gt;</description>
+      <pubDate>Fri, 29 May 2026 17:00:00 -0700</pubDate>
+      <guid isPermaLink="false">ca72bf9fd7b6bd10</guid>
+      <category>Long Beach</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2023/11/1C60CEB5-F51A-4D9F-8952-6E19D6EA4721.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Free Tasting: Sipwell Canned Wine</title>
+      <link>https://hiloliquor.com/locations/#Costa%20Mesa</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; May 29 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Costa Mesa&lt;/p&gt;
+&lt;p&gt;Sipwell Wine Company is premium California wine with a can-do spirit. A female-founded and Black-owned company, they make award-winning canned wine that’s a little bit of a renegade. Sipwell sparkling wines are naturally can-conditioned, are fermented dry, meaning they have 0g sugar, and are sourced from organic or sustainably farmed grapes in California&amp;#x27;s Central Coast. These single-serve aluminum cans are infinitely recyclable, portable, and perfect for celebrating life&amp;#x27;s little moments.&lt;/p&gt;</description>
+      <pubDate>Fri, 29 May 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">21a5b0bc1b182e41</guid>
+      <category>Costa Mesa</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2024/05/Screenshot-2024-07-08-at-6.19.54%E2%80%AFPM.png" type="image/png" />
+    </item>
+    <item>
+      <title>Free Tasting: Anytime Spritz + Farmhouse Organic Spirits</title>
+      <link>https://hiloliquor.com/locations/#Costa%20Mesa</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; May 29 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Costa Mesa&lt;/p&gt;
+&lt;p&gt;Anytime Spritz makes organic and regenerative spirits &amp;amp; cocktails. Crafted by queer women, powered by farmers and the first climate negative distillery.&lt;/p&gt;</description>
+      <pubDate>Fri, 29 May 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">21284681c3fed499</guid>
+      <category>Costa Mesa</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2025/04/Screenshot-2025-04-29-at-1.09.57%E2%80%AFPM.png" type="image/png" />
+    </item>
     <item>
       <title>Free Tasting: Planet Wines</title>
       <link>https://hiloliquor.com/locations/#Long%20Beach</link>
@@ -18,6 +62,17 @@
       <enclosure url="https://hiloliquor.com/wp-content/uploads/2025/02/Screenshot-2025-02-22-at-12.42.59%E2%80%AFPM.png" type="image/png" />
     </item>
     <item>
+      <title>Free Tasting: Pinhook Bourbon &amp; Rye</title>
+      <link>https://hiloliquor.com/locations/#Costa%20Mesa</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; May 28 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Costa Mesa&lt;/p&gt;
+&lt;p&gt;Join us for a tasting with Pinhook Kentucky straight bourbon whiskey.&lt;/p&gt;</description>
+      <pubDate>Thu, 28 May 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">07c9d8867da86ceb</guid>
+      <category>Costa Mesa</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2025/04/Screenshot-2025-04-14-at-4.44.20%E2%80%AFPM.png" type="image/png" />
+    </item>
+    <item>
       <title>Free Tasting: Planet Wine</title>
       <link>https://hiloliquor.com/locations/#Culver%20City</link>
       <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; May 28 4:00 PM - 7:00 PM&lt;/p&gt;
@@ -27,6 +82,28 @@
       <guid isPermaLink="false">1233c055604b24b9</guid>
       <category>Culver City</category>
       <enclosure url="https://hiloliquor.com/wp-content/uploads/2025/02/Screenshot-2025-02-22-at-12.42.59%E2%80%AFPM.png" type="image/png" />
+    </item>
+    <item>
+      <title>Free Tasting: Off Hours Bourbon &amp; Rye</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; May 28 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Join us for a free tasting with Off Hours Bourbon &amp;amp; Rye!&lt;/p&gt;</description>
+      <pubDate>Thu, 28 May 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">ad5fc1a6fec8d397</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2023/11/Screen-Shot-2023-11-20-at-7.32.28-PM.png" type="image/png" />
+    </item>
+    <item>
+      <title>Hi-Lo Long Beach: King Trivia</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; May 27 7:00 PM - 9:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;
+&lt;p&gt;Join us at our Long Beach location every Wednesday night for trivia! If you&amp;#x27;re a pop-culture buff, this is the night for you!&lt;/p&gt;</description>
+      <pubDate>Wed, 27 May 2026 19:00:00 -0700</pubDate>
+      <guid isPermaLink="false">8d3db613daa4ac93</guid>
+      <category>Long Beach</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2023/10/HiLo-Returning-Post-3-2026-e1770771667892.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Food Pop-up: Camello Pita Poblano</title>

@@ -658,6 +658,24 @@
       "image_url": "https://hiloliquor.com/wp-content/uploads/2025/02/Screenshot-2025-02-22-at-12.42.59%E2%80%AFPM.png"
     },
     {
+      "event_id": "ad5fc1a6fec8d397",
+      "location": "Culver City",
+      "title": "Free Tasting: Off Hours Bourbon & Rye",
+      "description": "Join us for a free tasting with Off Hours Bourbon & Rye!",
+      "start_at": "2026-05-28T16:00:00-07:00",
+      "end_at": "2026-05-28T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2023/11/Screen-Shot-2023-11-20-at-7.32.28-PM.png"
+    },
+    {
+      "event_id": "01e5eaa8df1357b1",
+      "location": "Culver City",
+      "title": "Food Pop-Up: Slang Burgers",
+      "description": "Join us at our Culver City location for smash burgers by our friends, Slang Burgers! Come early, they sell fast!",
+      "start_at": "2026-05-29T17:00:00-07:00",
+      "end_at": "2026-05-29T20:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2023/11/Screen-Shot-2023-11-28-at-2.36.34-PM.png"
+    },
+    {
       "event_id": "8fafa654c7b9a91d",
       "location": "Culver City",
       "title": "Free Tasting: Iris Vodka Spritz",

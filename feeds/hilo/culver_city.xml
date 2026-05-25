@@ -5,8 +5,19 @@
     <link>https://hiloliquor.com/locations/#Culver%20City</link>
     <description>Upcoming tastings, pop-ups, and events at Hi-Lo Liquor Market (Culver City).</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 May 2026 21:12:32 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 21:23:55 -0700</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Food Pop-Up: Slang Burgers</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; May 29 5:00 PM - 8:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Join us at our Culver City location for smash burgers by our friends, Slang Burgers! Come early, they sell fast!&lt;/p&gt;</description>
+      <pubDate>Fri, 29 May 2026 17:00:00 -0700</pubDate>
+      <guid isPermaLink="false">01e5eaa8df1357b1</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2023/11/Screen-Shot-2023-11-28-at-2.36.34-PM.png" type="image/png" />
+    </item>
     <item>
       <title>Free Tasting: Planet Wine</title>
       <link>https://hiloliquor.com/locations/#Culver%20City</link>
@@ -17,6 +28,17 @@
       <guid isPermaLink="false">1233c055604b24b9</guid>
       <category>Culver City</category>
       <enclosure url="https://hiloliquor.com/wp-content/uploads/2025/02/Screenshot-2025-02-22-at-12.42.59%E2%80%AFPM.png" type="image/png" />
+    </item>
+    <item>
+      <title>Free Tasting: Off Hours Bourbon &amp; Rye</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; May 28 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Join us for a free tasting with Off Hours Bourbon &amp;amp; Rye!&lt;/p&gt;</description>
+      <pubDate>Thu, 28 May 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">ad5fc1a6fec8d397</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2023/11/Screen-Shot-2023-11-20-at-7.32.28-PM.png" type="image/png" />
     </item>
     <item>
       <title>Food Pop-up: Camello Pita Poblano</title>

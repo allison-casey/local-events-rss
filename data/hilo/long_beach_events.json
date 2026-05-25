@@ -604,6 +604,15 @@
       "image_url": "https://hiloliquor.com/wp-content/uploads/2023/11/1C60CEB5-F51A-4D9F-8952-6E19D6EA4721.jpg"
     },
     {
+      "event_id": "8d3db613daa4ac93",
+      "location": "Long Beach",
+      "title": "Hi-Lo Long Beach: King Trivia",
+      "description": "Join us at our Long Beach location every Wednesday night for trivia! If you're a pop-culture buff, this is the night for you!",
+      "start_at": "2026-05-27T19:00:00-07:00",
+      "end_at": "2026-05-27T21:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2023/10/HiLo-Returning-Post-3-2026-e1770771667892.jpg"
+    },
+    {
       "event_id": "d41756f7844386bd",
       "location": "Long Beach",
       "title": "Free Tasting: Planet Wines",
@@ -611,6 +620,15 @@
       "start_at": "2026-05-29T16:00:00-07:00",
       "end_at": "2026-05-29T19:00:00-07:00",
       "image_url": "https://hiloliquor.com/wp-content/uploads/2025/02/Screenshot-2025-02-22-at-12.42.59%E2%80%AFPM.png"
+    },
+    {
+      "event_id": "ca72bf9fd7b6bd10",
+      "location": "Long Beach",
+      "title": "Food Pop-Up: WAVE Gourmet Burgers",
+      "description": "WAVE is bringing their legendary smash burgers and crave-worthy truffle fries to the party!",
+      "start_at": "2026-05-29T17:00:00-07:00",
+      "end_at": "2026-05-29T21:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2023/11/1C60CEB5-F51A-4D9F-8952-6E19D6EA4721.jpg"
     },
     {
       "event_id": "ab1a032efa480933",
@@ -683,6 +701,33 @@
       "start_at": "2026-07-30T15:30:00-07:00",
       "end_at": "2026-07-30T19:00:00-07:00",
       "image_url": "https://hiloliquor.com/wp-content/uploads/2024/10/Screenshot-2024-10-24-at-12.03.29%E2%80%AFPM.png"
+    },
+    {
+      "event_id": "f18a7565c1f93f1e",
+      "location": "Long Beach",
+      "title": "Free Tasting: Unico Zelo Wines",
+      "description": "Join us as for a free tasting of some of our favorite natural Aussie wines from Unico Zelo!",
+      "start_at": "2026-08-01T17:00:00-07:00",
+      "end_at": "2026-08-01T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2024/07/Screenshot-2024-07-30-at-11.52.57%E2%80%AFAM.png"
+    },
+    {
+      "event_id": "db5dfe2ccbdfae46",
+      "location": "Long Beach",
+      "title": "Food Pop-Up: Tacos Tekila",
+      "description": "Tacos Tekila will be serving their mouth watering tacos and quesadillas. You can choose from Carne Asada, Al Pastor, Chorizo, or Pollo!",
+      "start_at": "2026-08-03T17:00:00-07:00",
+      "end_at": "2026-08-03T21:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2023/10/Screen-Shot-2023-10-17-at-4.26.50-PM.png"
+    },
+    {
+      "event_id": "19bd019aa002b4b2",
+      "location": "Long Beach",
+      "title": "Food Pop-up: No Bad Days Deli",
+      "description": "No Bad Days Deli will be serving up Cuban sandwiches during Trivia night!",
+      "start_at": "2026-08-07T17:00:00-07:00",
+      "end_at": "2026-08-07T20:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2023/12/Screen-Shot-2024-01-15-at-4.21.54-PM.png"
     },
     {
       "event_id": "efab6760dd02960a",
@@ -917,6 +962,15 @@
       "start_at": "2026-11-20T16:00:00-08:00",
       "end_at": "2026-11-20T19:00:00-08:00",
       "image_url": "https://hiloliquor.com/wp-content/uploads/2025/11/IMG_0284.jpg"
+    },
+    {
+      "event_id": "f15759b3d8763891",
+      "location": "Long Beach",
+      "title": "Food Pop-up: Three Pigs LBC",
+      "description": "Come by to enjoy Three Pigs LBC Japanese street food + yakitori!",
+      "start_at": "2026-11-22T12:00:00-08:00",
+      "end_at": "2026-11-22T16:00:00-08:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2025/08/IMG_8691.jpg"
     }
   ],
   "location": "Long Beach",
