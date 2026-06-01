@@ -568,6 +568,15 @@
       "image_url": "https://hiloliquor.com/wp-content/uploads/2025/04/Screenshot-2025-04-29-at-1.09.57%E2%80%AFPM.png"
     },
     {
+      "event_id": "ddbd521c7f577327",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Slowdays Gin",
+      "description": "Join us for a free tasting with Slowdays gin!",
+      "start_at": "2026-06-05T16:00:00-07:00",
+      "end_at": "2026-06-05T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2024/07/Screenshot-2024-07-15-at-3.15.53%E2%80%AFPM.png"
+    },
+    {
       "event_id": "67106591caece466",
       "location": "Costa Mesa",
       "title": "Free Tasting: Tasting-Lodestar Whiskey",
@@ -962,6 +971,15 @@
       "start_at": "2026-11-26T09:00:00-08:00",
       "end_at": "2026-11-26T21:00:00-08:00",
       "image_url": null
+    },
+    {
+      "event_id": "6f6935c17676d8fe",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Bardstown Whiskey",
+      "description": "",
+      "start_at": "2026-11-29T16:00:00-08:00",
+      "end_at": "2026-11-29T19:00:00-08:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2025/11/IMG_0064.jpg"
     }
   ],
   "location": "Costa Mesa",

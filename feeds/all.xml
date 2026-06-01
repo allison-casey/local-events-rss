@@ -5,7 +5,18 @@
     <link>feeds/all.xml</link>
     <description>Combined events from all local feed sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 May 2026 04:25:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 04:56:24 +0000</lastBuildDate>
+    <item>
+      <title>Food Pop-Up: Loquat Oysters</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Jun 7 5:00 PM - 8:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;
+&lt;p&gt;Stop by and get some freshly shucked oysters from Loquat Oysters! We&amp;#x27;ll also have a wine pairing available for purchase.&lt;/p&gt;</description>
+      <pubDate>Sun, 07 Jun 2026 17:00:00 -0700</pubDate>
+      <guid isPermaLink="false">ab1a032efa480933</guid>
+      <category>Long Beach</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2025/06/Screenshot-2025-06-03-at-11.52.31%E2%80%AFAM.png" type="image/png" />
+    </item>
     <item>
       <title>Free Tasting: Iris Vodka Spritz</title>
       <link>https://hiloliquor.com/locations/#Culver%20City</link>
@@ -16,6 +27,116 @@
       <guid isPermaLink="false">8fafa654c7b9a91d</guid>
       <category>Culver City</category>
       <enclosure url="https://hiloliquor.com/wp-content/uploads/2025/06/Screenshot-2025-06-03-at-11.58.05%E2%80%AFAM.png" type="image/png" />
+    </item>
+    <item>
+      <title>Free Tasting: Nosotros Tequila  &amp; Mezcal</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Jun 6 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;
+&lt;p&gt;Nosotros is a small-batch agave spirits brand that marries the Pura Vida lifestyle of Costa Rica with the rebel spirit of Mexico, blending them under the California sun. Come on in and try this independent brand&amp;#x27;s award-winning Blanco, Reposado, and Mezcal!&lt;/p&gt;</description>
+      <pubDate>Sat, 06 Jun 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">88c904849919d634</guid>
+      <category>Long Beach</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2022/12/Screenshot-2024-08-06-at-6.57.56%E2%80%AFPM.png" type="image/png" />
+    </item>
+    <item>
+      <title>Free Tasting: Nosotros Tequila &amp; Mezcal</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Jun 6 1:00 PM - 4:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Nosotros is a small-batch agave spirits brand that marries the Pura Vida lifestyle of Costa Rica with the rebel spirit of Mexico, blending them under the California sun. Come on in and try this independent brand&amp;#x27;s award-winning Blanco, Reposado, and Mezcal!&lt;/p&gt;</description>
+      <pubDate>Sat, 06 Jun 2026 13:00:00 -0700</pubDate>
+      <guid isPermaLink="false">476a8866dc1fe826</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2022/12/Screenshot-2024-08-06-at-6.57.56%E2%80%AFPM.png" type="image/png" />
+    </item>
+    <item>
+      <title>Food Pop-Up: WAVE Gourmet Burgers</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Jun 5 5:00 PM - 9:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;
+&lt;p&gt;WAVE is bringing their legendary smash burgers and crave-worthy truffle fries to the party!&lt;/p&gt;</description>
+      <pubDate>Fri, 05 Jun 2026 17:00:00 -0700</pubDate>
+      <guid isPermaLink="false">6ed3da2c2f00c4da</guid>
+      <category>Long Beach</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2023/11/1C60CEB5-F51A-4D9F-8952-6E19D6EA4721.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Free Tasting: Slowdays Gin</title>
+      <link>https://hiloliquor.com/locations/#Costa%20Mesa</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Jun 5 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Costa Mesa&lt;/p&gt;
+&lt;p&gt;Join us for a free tasting with Slowdays gin!&lt;/p&gt;</description>
+      <pubDate>Fri, 05 Jun 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">ddbd521c7f577327</guid>
+      <category>Costa Mesa</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2024/07/Screenshot-2024-07-15-at-3.15.53%E2%80%AFPM.png" type="image/png" />
+    </item>
+    <item>
+      <title>Free Tasting: Veranda Craft Cocktails</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Jun 5 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Join us for a free tasting with Veranda canned cocktails!&lt;/p&gt;</description>
+      <pubDate>Fri, 05 Jun 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">5a960bd127556f51</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2024/08/Screenshot-2024-08-19-at-4.43.20%E2%80%AFPM.png" type="image/png" />
+    </item>
+    <item>
+      <title>Free Tasting: Kin A Peel Liqueur</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Jun 4 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Come try this deliciously whimsical entry into the liqueur world.  KIN A-Peel Banana Liqueur is an irresistible fusion of our white whiskey with lusciously over-ripe bananas. Crafted to perfection, this banana liqueur promises an A-Peeling experience for both your cocktail creations and culinary adventures.&lt;/p&gt;</description>
+      <pubDate>Thu, 04 Jun 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">d3be2057cce9af18</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2026/05/Kin-A-Peel.png" type="image/png" />
+    </item>
+    <item>
+      <title>Free Tasting: Suncliffe Gin</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Jun 4 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Come join us for a free tasting of this aromatic gin made with juniper berries from the twisted trees of Sedona, AZ.&lt;/p&gt;</description>
+      <pubDate>Thu, 04 Jun 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">060701fed9aad8a2</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2026/04/Suncliffe-Gin.png" type="image/png" />
+    </item>
+    <item>
+      <title>Hi-Lo Long Beach: King Trivia</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Jun 3 7:00 PM - 9:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;
+&lt;p&gt;Join us at our Long Beach location every Wednesday night for trivia! If you&amp;#x27;re a pop-culture buff, this is the night for you!&lt;/p&gt;</description>
+      <pubDate>Wed, 03 Jun 2026 19:00:00 -0700</pubDate>
+      <guid isPermaLink="false">be6c2072ceb1282b</guid>
+      <category>Long Beach</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2023/10/HiLo-Returning-Post-3-2026-e1770771667892.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Free Tasting: Moth RTD</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Jun 3 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Come sample this latest entry into the RTD market all the way from London, England!  Designed for wherever your day takes you, from trackies to tuxedoes, these small but mighty cocktails are crafted with the finest spirits and 100% real ingredients.  What&amp;#x27;s your pleasure guv?&lt;/p&gt;</description>
+      <pubDate>Wed, 03 Jun 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">12c13b845459ad88</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2026/05/Moth-RTD.png" type="image/png" />
+    </item>
+    <item>
+      <title>Free Tasting: BTL SVC</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Jun 3 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;
+&lt;p&gt;BTL SVC provides award-winning, hand-crafted, premium cocktails, conveniently served anytime and anywhere.&lt;/p&gt;</description>
+      <pubDate>Wed, 03 Jun 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">4f29aa855a7f9e20</guid>
+      <category>Long Beach</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2024/01/Screen-Shot-2024-01-22-at-5.52.58-PM.png" type="image/png" />
     </item>
     <item>
       <title>Food Pop-Up: Slang Burgers</title>

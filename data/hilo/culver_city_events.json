@@ -676,6 +676,51 @@
       "image_url": "https://hiloliquor.com/wp-content/uploads/2023/11/Screen-Shot-2023-11-28-at-2.36.34-PM.png"
     },
     {
+      "event_id": "12c13b845459ad88",
+      "location": "Culver City",
+      "title": "Free Tasting: Moth RTD",
+      "description": "Come sample this latest entry into the RTD market all the way from London, England!  Designed for wherever your day takes you, from trackies to tuxedoes, these small but mighty cocktails are crafted with the finest spirits and 100% real ingredients.  What's your pleasure guv?",
+      "start_at": "2026-06-03T16:00:00-07:00",
+      "end_at": "2026-06-03T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2026/05/Moth-RTD.png"
+    },
+    {
+      "event_id": "d3be2057cce9af18",
+      "location": "Culver City",
+      "title": "Free Tasting: Kin A Peel Liqueur",
+      "description": "Come try this deliciously whimsical entry into the liqueur world.  KIN A-Peel Banana Liqueur is an irresistible fusion of our white whiskey with lusciously over-ripe bananas. Crafted to perfection, this banana liqueur promises an A-Peeling experience for both your cocktail creations and culinary adventures.",
+      "start_at": "2026-06-04T16:00:00-07:00",
+      "end_at": "2026-06-04T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2026/05/Kin-A-Peel.png"
+    },
+    {
+      "event_id": "060701fed9aad8a2",
+      "location": "Culver City",
+      "title": "Free Tasting: Suncliffe Gin",
+      "description": "Come join us for a free tasting of this aromatic gin made with juniper berries from the twisted trees of Sedona, AZ.",
+      "start_at": "2026-06-04T16:00:00-07:00",
+      "end_at": "2026-06-04T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2026/04/Suncliffe-Gin.png"
+    },
+    {
+      "event_id": "5a960bd127556f51",
+      "location": "Culver City",
+      "title": "Free Tasting: Veranda Craft Cocktails",
+      "description": "Join us for a free tasting with Veranda canned cocktails!",
+      "start_at": "2026-06-05T16:00:00-07:00",
+      "end_at": "2026-06-05T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2024/08/Screenshot-2024-08-19-at-4.43.20%E2%80%AFPM.png"
+    },
+    {
+      "event_id": "476a8866dc1fe826",
+      "location": "Culver City",
+      "title": "Free Tasting: Nosotros Tequila & Mezcal",
+      "description": "Nosotros is a small-batch agave spirits brand that marries the Pura Vida lifestyle of Costa Rica with the rebel spirit of Mexico, blending them under the California sun. Come on in and try this independent brand's award-winning Blanco, Reposado, and Mezcal!",
+      "start_at": "2026-06-06T13:00:00-07:00",
+      "end_at": "2026-06-06T16:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2022/12/Screenshot-2024-08-06-at-6.57.56%E2%80%AFPM.png"
+    },
+    {
       "event_id": "8fafa654c7b9a91d",
       "location": "Culver City",
       "title": "Free Tasting: Iris Vodka Spritz",
@@ -953,6 +998,15 @@
       "start_at": "2026-11-20T16:00:00-08:00",
       "end_at": "2026-11-20T19:00:00-08:00",
       "image_url": "https://hiloliquor.com/wp-content/uploads/2025/11/IMG_0283.jpg"
+    },
+    {
+      "event_id": "ba8bc3bd5b365930",
+      "location": "Culver City",
+      "title": "Free Tasting: Craft Spirits Coop",
+      "description": "Join us for a free tasting with Craft Spirits Coop lineup!",
+      "start_at": "2026-11-29T13:00:00-08:00",
+      "end_at": "2026-11-29T16:00:00-08:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2024/03/IMG_9160.jpg"
     }
   ],
   "location": "Culver City",

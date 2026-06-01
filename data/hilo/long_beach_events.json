@@ -631,6 +631,42 @@
       "image_url": "https://hiloliquor.com/wp-content/uploads/2023/11/1C60CEB5-F51A-4D9F-8952-6E19D6EA4721.jpg"
     },
     {
+      "event_id": "4f29aa855a7f9e20",
+      "location": "Long Beach",
+      "title": "Free Tasting: BTL SVC",
+      "description": "BTL SVC provides award-winning, hand-crafted, premium cocktails, conveniently served anytime and anywhere.",
+      "start_at": "2026-06-03T16:00:00-07:00",
+      "end_at": "2026-06-03T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2024/01/Screen-Shot-2024-01-22-at-5.52.58-PM.png"
+    },
+    {
+      "event_id": "be6c2072ceb1282b",
+      "location": "Long Beach",
+      "title": "Hi-Lo Long Beach: King Trivia",
+      "description": "Join us at our Long Beach location every Wednesday night for trivia! If you're a pop-culture buff, this is the night for you!",
+      "start_at": "2026-06-03T19:00:00-07:00",
+      "end_at": "2026-06-03T21:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2023/10/HiLo-Returning-Post-3-2026-e1770771667892.jpg"
+    },
+    {
+      "event_id": "6ed3da2c2f00c4da",
+      "location": "Long Beach",
+      "title": "Food Pop-Up: WAVE Gourmet Burgers",
+      "description": "WAVE is bringing their legendary smash burgers and crave-worthy truffle fries to the party!",
+      "start_at": "2026-06-05T17:00:00-07:00",
+      "end_at": "2026-06-05T21:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2023/11/1C60CEB5-F51A-4D9F-8952-6E19D6EA4721.jpg"
+    },
+    {
+      "event_id": "88c904849919d634",
+      "location": "Long Beach",
+      "title": "Free Tasting: Nosotros Tequila  & Mezcal",
+      "description": "Nosotros is a small-batch agave spirits brand that marries the Pura Vida lifestyle of Costa Rica with the rebel spirit of Mexico, blending them under the California sun. Come on in and try this independent brand's award-winning Blanco, Reposado, and Mezcal!",
+      "start_at": "2026-06-06T16:00:00-07:00",
+      "end_at": "2026-06-06T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2022/12/Screenshot-2024-08-06-at-6.57.56%E2%80%AFPM.png"
+    },
+    {
       "event_id": "ab1a032efa480933",
       "location": "Long Beach",
       "title": "Food Pop-Up: Loquat Oysters",
