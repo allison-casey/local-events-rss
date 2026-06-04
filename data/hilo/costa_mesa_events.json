@@ -980,6 +980,15 @@
       "start_at": "2026-11-29T16:00:00-08:00",
       "end_at": "2026-11-29T19:00:00-08:00",
       "image_url": "https://hiloliquor.com/wp-content/uploads/2025/11/IMG_0064.jpg"
+    },
+    {
+      "event_id": "2ee44b14114a31ee",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Lost Irish Whiskey",
+      "description": "Lost Irish is an Irish Whiskey made from casks collected from six continents. Their triple distilled spirit combines all three styles of Irish Whiskey which balances flavor and complexity – the grain lends sweetness, the malt adds fruitiness, and the pot still contributes spice and cream. Stop by and try this smooth and delicious Irish Whiskey!",
+      "start_at": "2026-12-02T17:00:00-08:00",
+      "end_at": "2026-12-02T19:00:00-08:00",
+      "image_url": null
     }
   ],
   "location": "Costa Mesa",
