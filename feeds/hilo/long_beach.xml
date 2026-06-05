@@ -5,8 +5,19 @@
     <link>https://hiloliquor.com/locations/#Long%20Beach</link>
     <description>Upcoming tastings, pop-ups, and events at Hi-Lo Liquor Market (Long Beach).</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Jun 2026 21:46:41 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 21:21:32 -0700</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Free Tasting: Common Space Brewery</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Jun 11 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;
+&lt;p&gt;Join us for a free tasting with the award winning brewery Common Space!&lt;/p&gt;</description>
+      <pubDate>Thu, 11 Jun 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">a54cc816979f1c15</guid>
+      <category>Long Beach</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2025/04/Screenshot-2025-04-29-at-1.15.11%E2%80%AFPM.png" type="image/png" />
+    </item>
     <item>
       <title>Food Pop-Up: Loquat Oysters</title>
       <link>https://hiloliquor.com/locations/#Long%20Beach</link>
