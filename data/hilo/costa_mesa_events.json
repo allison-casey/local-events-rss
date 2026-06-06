@@ -989,6 +989,15 @@
       "start_at": "2026-12-02T17:00:00-08:00",
       "end_at": "2026-12-02T19:00:00-08:00",
       "image_url": null
+    },
+    {
+      "event_id": "b106cf445bfd4be7",
+      "location": "Costa Mesa",
+      "title": "Hi-Lo Pop Up at Smorgasburg LA",
+      "description": "Smorgasburg LA has officially kicked off their Sunday Holiday Market for the season. Stop by the Hi-Lo booth this Sunday, Dec 4th! Located at ROW DTLA on 777 Alameda St.",
+      "start_at": "2026-12-04T10:00:00-08:00",
+      "end_at": "2026-12-04T16:00:00-08:00",
+      "image_url": null
     }
   ],
   "location": "Costa Mesa",
