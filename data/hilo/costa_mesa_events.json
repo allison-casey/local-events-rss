@@ -998,6 +998,24 @@
       "start_at": "2026-12-04T10:00:00-08:00",
       "end_at": "2026-12-04T16:00:00-08:00",
       "image_url": null
+    },
+    {
+      "event_id": "d209589e323ab5c8",
+      "location": "Costa Mesa",
+      "title": "Holiday Sip & Shop",
+      "description": "Join us for a festive day at all Locations 2-6PM. We've got complimentary tastings and local vendors lined up for a festive day of shopping! We're here to make gift giving season extra special!",
+      "start_at": "2026-12-06T14:00:00-08:00",
+      "end_at": "2026-12-06T18:00:00-08:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2025/12/Beige-Minimalist-Aesthetic-Holiday-Sale-Instagram-Post.png.png"
+    },
+    {
+      "event_id": "c47365c69370c476",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: CNS Imports Tasting",
+      "description": "Join us for a free tasting CNS Imports, we'll be tasting through some Japanese whiskeys!",
+      "start_at": "2026-12-06T16:00:00-08:00",
+      "end_at": "2026-12-06T19:00:00-08:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2023/12/%C2%A9Project-M-Plus_Hi-Lo_Liquor_3-scaled.jpg"
     }
   ],
   "location": "Costa Mesa",
