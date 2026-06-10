@@ -730,6 +730,15 @@
       "image_url": "https://hiloliquor.com/wp-content/uploads/2025/06/Screenshot-2025-06-03-at-11.58.05%E2%80%AFAM.png"
     },
     {
+      "event_id": "85d882cc7b9e4c1d",
+      "location": "Culver City",
+      "title": "Free Tasting: Golden Eagle Vodka",
+      "description": "Join us for a free tasting of Golden Eagle Vodka!",
+      "start_at": "2026-06-12T16:00:00-07:00",
+      "end_at": "2026-06-12T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2024/05/Screenshot-2024-05-08-at-1.06.49%E2%80%AFPM.png"
+    },
+    {
       "event_id": "556a37cfecfa13e8",
       "location": "Culver City",
       "title": "Free Tasting: Wismettac Sake and Shochu",
@@ -872,6 +881,15 @@
       "start_at": "2026-09-10T16:00:00-07:00",
       "end_at": "2026-09-10T19:00:00-07:00",
       "image_url": "https://hiloliquor.com/wp-content/uploads/2025/09/IMG_8925.jpg"
+    },
+    {
+      "event_id": "2e891e8244856edc",
+      "location": "Culver City",
+      "title": "Food Pop-Up: Kreung Kitchen",
+      "description": "Grab some delicious food from Kreung Kitchen! They're an LA based Cambodian BBQ food pop-up serving grilled meats and tasty sides.",
+      "start_at": "2026-09-12T17:00:00-07:00",
+      "end_at": "2026-09-12T21:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2024/05/Screenshot-2024-05-08-at-1.09.19%E2%80%AFPM.png"
     },
     {
       "event_id": "bad367814fb67d17",

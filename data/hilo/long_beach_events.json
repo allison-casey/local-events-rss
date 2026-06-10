@@ -676,6 +676,33 @@
       "image_url": "https://hiloliquor.com/wp-content/uploads/2025/06/Screenshot-2025-06-03-at-11.52.31%E2%80%AFAM.png"
     },
     {
+      "event_id": "f218e8f0d847cf1a",
+      "location": "Long Beach",
+      "title": "Free Tasting: Pure Project Brewing",
+      "description": "Come enjoy a complimentary tasting from Pure Project Brewing!",
+      "start_at": "2026-06-10T16:00:00-07:00",
+      "end_at": "2026-06-10T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2026/06/IMG_4371.jpg"
+    },
+    {
+      "event_id": "d844e0dfe0f00410",
+      "location": "Long Beach",
+      "title": "Food Pop-Up: Italian Street Bites",
+      "description": "Join us on Wednesday's along with trivia with Italian Street Bites!",
+      "start_at": "2026-06-10T17:00:00-07:00",
+      "end_at": "2026-06-10T20:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2026/06/IMG_4372.jpg"
+    },
+    {
+      "event_id": "3ae30cc2d1c3b844",
+      "location": "Long Beach",
+      "title": "Hi-Lo Long Beach: King Trivia",
+      "description": "Join us at our Long Beach location every Wednesday night for trivia! If you're a pop-culture buff, this is the night for you!",
+      "start_at": "2026-06-10T19:00:00-07:00",
+      "end_at": "2026-06-10T21:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2023/10/HiLo-Returning-Post-3-2026-e1770771667892.jpg"
+    },
+    {
       "event_id": "a54cc816979f1c15",
       "location": "Long Beach",
       "title": "Free Tasting: Common Space Brewery",
@@ -685,6 +712,33 @@
       "image_url": "https://hiloliquor.com/wp-content/uploads/2025/04/Screenshot-2025-04-29-at-1.15.11%E2%80%AFPM.png"
     },
     {
+      "event_id": "95a74ad63004031e",
+      "location": "Long Beach",
+      "title": "Free Tasting: Hinterhaus Distilling",
+      "description": "Free Tasting with Hinterhaus Distilling!",
+      "start_at": "2026-06-12T16:00:00-07:00",
+      "end_at": "2026-06-12T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2026/06/IMG_4373.jpg"
+    },
+    {
+      "event_id": "145be6a5b4147187",
+      "location": "Long Beach",
+      "title": "Free Tasting: Neft Vodka",
+      "description": "Join us for a free tasting of Neft Vodka.",
+      "start_at": "2026-06-12T16:00:00-07:00",
+      "end_at": "2026-06-12T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2023/12/Screen-Shot-2023-12-19-at-1.00.44-PM.png"
+    },
+    {
+      "event_id": "3b933fb633d8da99",
+      "location": "Long Beach",
+      "title": "Food Pop-Up: WAVE Gourmet Burgers",
+      "description": "WAVE is bringing their legendary smash burgers and crave-worthy truffle fries to the party!",
+      "start_at": "2026-06-12T17:00:00-07:00",
+      "end_at": "2026-06-12T21:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2023/11/1C60CEB5-F51A-4D9F-8952-6E19D6EA4721.jpg"
+    },
+    {
       "event_id": "92ca1706e58ecf76",
       "location": "Long Beach",
       "title": "Free Tasting:  Garber & Co. Wines",
@@ -692,6 +746,15 @@
       "start_at": "2026-06-12T19:00:00-07:00",
       "end_at": "2026-06-12T20:00:00-07:00",
       "image_url": "https://hiloliquor.com/wp-content/uploads/2023/12/Screen-Shot-2024-01-15-at-4.21.54-PM.png"
+    },
+    {
+      "event_id": "d9396a51bf008b65",
+      "location": "Long Beach",
+      "title": "Free Tasting: Hinterhaus Distilling",
+      "description": "Free Tasting with Hinterhaus Distilling!",
+      "start_at": "2026-06-13T16:00:00-07:00",
+      "end_at": "2026-06-13T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2026/06/IMG_4373.jpg"
     },
     {
       "event_id": "14bea4d6a080f0b5",

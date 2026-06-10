@@ -5,7 +5,7 @@
     <link>feeds/all.xml</link>
     <description>Combined events from all local feed sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Jun 2026 04:07:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 04:18:31 +0000</lastBuildDate>
     <item>
       <title>Free Tasting: Tasting-Lodestar Whiskey</title>
       <link>https://hiloliquor.com/locations/#Costa%20Mesa</link>
@@ -16,6 +16,17 @@
       <guid isPermaLink="false">67106591caece466</guid>
       <category>Costa Mesa</category>
       <enclosure url="https://hiloliquor.com/wp-content/uploads/2024/03/Screen-Shot-2024-03-21-at-2.49.04-PM.png" type="image/png" />
+    </item>
+    <item>
+      <title>Free Tasting: Hinterhaus Distilling</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Jun 13 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;
+&lt;p&gt;Free Tasting with Hinterhaus Distilling!&lt;/p&gt;</description>
+      <pubDate>Sat, 13 Jun 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">d9396a51bf008b65</guid>
+      <category>Long Beach</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2026/06/IMG_4373.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Free Tasting:  Garber &amp; Co. Wines</title>
@@ -29,6 +40,50 @@
       <enclosure url="https://hiloliquor.com/wp-content/uploads/2023/12/Screen-Shot-2024-01-15-at-4.21.54-PM.png" type="image/png" />
     </item>
     <item>
+      <title>Food Pop-Up: WAVE Gourmet Burgers</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Jun 12 5:00 PM - 9:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;
+&lt;p&gt;WAVE is bringing their legendary smash burgers and crave-worthy truffle fries to the party!&lt;/p&gt;</description>
+      <pubDate>Fri, 12 Jun 2026 17:00:00 -0700</pubDate>
+      <guid isPermaLink="false">3b933fb633d8da99</guid>
+      <category>Long Beach</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2023/11/1C60CEB5-F51A-4D9F-8952-6E19D6EA4721.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Free Tasting: Golden Eagle Vodka</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Jun 12 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Join us for a free tasting of Golden Eagle Vodka!&lt;/p&gt;</description>
+      <pubDate>Fri, 12 Jun 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">85d882cc7b9e4c1d</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2024/05/Screenshot-2024-05-08-at-1.06.49%E2%80%AFPM.png" type="image/png" />
+    </item>
+    <item>
+      <title>Free Tasting: Hinterhaus Distilling</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Jun 12 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;
+&lt;p&gt;Free Tasting with Hinterhaus Distilling!&lt;/p&gt;</description>
+      <pubDate>Fri, 12 Jun 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">95a74ad63004031e</guid>
+      <category>Long Beach</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2026/06/IMG_4373.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Free Tasting: Neft Vodka</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Jun 12 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;
+&lt;p&gt;Join us for a free tasting of Neft Vodka.&lt;/p&gt;</description>
+      <pubDate>Fri, 12 Jun 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">145be6a5b4147187</guid>
+      <category>Long Beach</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2023/12/Screen-Shot-2023-12-19-at-1.00.44-PM.png" type="image/png" />
+    </item>
+    <item>
       <title>Free Tasting: Common Space Brewery</title>
       <link>https://hiloliquor.com/locations/#Long%20Beach</link>
       <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Jun 11 4:00 PM - 7:00 PM&lt;/p&gt;
@@ -38,6 +93,39 @@
       <guid isPermaLink="false">a54cc816979f1c15</guid>
       <category>Long Beach</category>
       <enclosure url="https://hiloliquor.com/wp-content/uploads/2025/04/Screenshot-2025-04-29-at-1.15.11%E2%80%AFPM.png" type="image/png" />
+    </item>
+    <item>
+      <title>Hi-Lo Long Beach: King Trivia</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Jun 10 7:00 PM - 9:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;
+&lt;p&gt;Join us at our Long Beach location every Wednesday night for trivia! If you&amp;#x27;re a pop-culture buff, this is the night for you!&lt;/p&gt;</description>
+      <pubDate>Wed, 10 Jun 2026 19:00:00 -0700</pubDate>
+      <guid isPermaLink="false">3ae30cc2d1c3b844</guid>
+      <category>Long Beach</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2023/10/HiLo-Returning-Post-3-2026-e1770771667892.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Food Pop-Up: Italian Street Bites</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Jun 10 5:00 PM - 8:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;
+&lt;p&gt;Join us on Wednesday&amp;#x27;s along with trivia with Italian Street Bites!&lt;/p&gt;</description>
+      <pubDate>Wed, 10 Jun 2026 17:00:00 -0700</pubDate>
+      <guid isPermaLink="false">d844e0dfe0f00410</guid>
+      <category>Long Beach</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2026/06/IMG_4372.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Free Tasting: Pure Project Brewing</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Jun 10 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;
+&lt;p&gt;Come enjoy a complimentary tasting from Pure Project Brewing!&lt;/p&gt;</description>
+      <pubDate>Wed, 10 Jun 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">f218e8f0d847cf1a</guid>
+      <category>Long Beach</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2026/06/IMG_4371.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Food Pop-Up: Loquat Oysters</title>
