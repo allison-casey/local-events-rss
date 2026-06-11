@@ -1016,6 +1016,15 @@
       "start_at": "2026-12-06T16:00:00-08:00",
       "end_at": "2026-12-06T19:00:00-08:00",
       "image_url": "https://hiloliquor.com/wp-content/uploads/2023/12/%C2%A9Project-M-Plus_Hi-Lo_Liquor_3-scaled.jpg"
+    },
+    {
+      "event_id": "2afdb0e20cb06f71",
+      "location": "Costa Mesa",
+      "title": "Hi-Lo Sip n' Shop",
+      "description": "Save the date!!!! December 9th all 3 shops will be hosting a Sip n’ Shop! We’ll have tons of brands sampling out their products for you to try! Come shop presents for your friends and family, sip on tasty bevs, and eat some delicious food!",
+      "start_at": "2026-12-09T16:00:00-08:00",
+      "end_at": "2026-12-09T20:00:00-08:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2023/12/%C2%A9Project-M-Plus_Hi-Lo_Liquor_3-scaled.jpg"
     }
   ],
   "location": "Costa Mesa",
