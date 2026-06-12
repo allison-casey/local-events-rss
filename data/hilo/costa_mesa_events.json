@@ -1025,6 +1025,15 @@
       "start_at": "2026-12-09T16:00:00-08:00",
       "end_at": "2026-12-09T20:00:00-08:00",
       "image_url": "https://hiloliquor.com/wp-content/uploads/2023/12/%C2%A9Project-M-Plus_Hi-Lo_Liquor_3-scaled.jpg"
+    },
+    {
+      "event_id": "6ec69b034eab5661",
+      "location": "Costa Mesa",
+      "title": "Sip & Shop",
+      "description": "Join us this Saturday at all three Hi-Lo locations! Shop small and get festive with us. Complimentary gift wrapping & libations!",
+      "start_at": "2026-12-10T12:00:00-08:00",
+      "end_at": "2026-12-10T17:00:00-08:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2022/12/Hi-Lo-Dec-2022-Sip-n-Shop.png"
     }
   ],
   "location": "Costa Mesa",
