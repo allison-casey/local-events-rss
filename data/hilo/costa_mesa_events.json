@@ -1034,6 +1034,15 @@
       "start_at": "2026-12-10T12:00:00-08:00",
       "end_at": "2026-12-10T17:00:00-08:00",
       "image_url": "https://hiloliquor.com/wp-content/uploads/2022/12/Hi-Lo-Dec-2022-Sip-n-Shop.png"
+    },
+    {
+      "event_id": "a8f1305779161d9f",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Straightaway Cocktails",
+      "description": "Made in Portland, OR, Straightaway cocktails are meticulously crafted using only real juice and the highest quality ingredients. Stop by and try these award-winning RTD cocktails – which make for perfect stocking stuffers and gifts for your cocktail-loving friends and family!",
+      "start_at": "2026-12-11T14:00:00-08:00",
+      "end_at": "2026-12-11T17:00:00-08:00",
+      "image_url": null
     }
   ],
   "location": "Costa Mesa",

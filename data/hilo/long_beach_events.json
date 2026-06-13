@@ -1106,6 +1106,24 @@
       "start_at": "2026-12-10T15:30:00-08:00",
       "end_at": "2026-12-10T18:30:00-08:00",
       "image_url": "https://hiloliquor.com/wp-content/uploads/2025/12/Screenshot-2025-12-09-at-10.45.00-AM.png"
+    },
+    {
+      "event_id": "6fcb481eef218957",
+      "location": "Long Beach",
+      "title": "Free Tasting: St. Agrestis Phony Drinks & Kin Whiskey",
+      "description": "Join us for a complimentary tasting of St. Agrestis Phony Drinks & Kin Whiskey!",
+      "start_at": "2026-12-11T16:00:00-08:00",
+      "end_at": "2026-12-11T19:00:00-08:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2025/12/IMG_0606.jpg"
+    },
+    {
+      "event_id": "ef5e4417a946976a",
+      "location": "Long Beach",
+      "title": "Free Tasting: Simple Shots",
+      "description": "Come sample the spirit based juice shot. Simple ingredients, all natural, made with real fruit.",
+      "start_at": "2026-12-11T16:00:00-08:00",
+      "end_at": "2026-12-11T19:00:00-08:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2024/05/Screenshot-2024-05-15-at-3.45.58%E2%80%AFPM.png"
     }
   ],
   "location": "Long Beach",
