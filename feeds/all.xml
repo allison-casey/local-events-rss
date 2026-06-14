@@ -5,7 +5,50 @@
     <link>feeds/all.xml</link>
     <description>Combined events from all local feed sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Jun 2026 04:22:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 04:49:44 +0000</lastBuildDate>
+    <item>
+      <title>Free Tasting: Fallen Grape</title>
+      <link>https://hiloliquor.com/locations/#Costa%20Mesa</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Jun 20 5:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Costa Mesa&lt;/p&gt;
+&lt;p&gt;Join us for a free tasting with Fallen Grape Wine Co. We&amp;#x27;ll be sampling the chilled red and orange wine.&lt;/p&gt;</description>
+      <pubDate>Sat, 20 Jun 2026 17:00:00 -0700</pubDate>
+      <guid isPermaLink="false">29fbcd57fa880383</guid>
+      <category>Costa Mesa</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2024/06/Screenshot-2024-06-17-at-4.32.44%E2%80%AFPM.png" type="image/png" />
+    </item>
+    <item>
+      <title>Free Tasting: Burgeon Beer Co</title>
+      <link>https://hiloliquor.com/locations/#Costa%20Mesa</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Jun 20 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Costa Mesa&lt;/p&gt;
+&lt;p&gt;Join us for a free tasting with Burgeon Beer Co!&lt;/p&gt;</description>
+      <pubDate>Sat, 20 Jun 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">f3b6f3bf4f67b784</guid>
+      <category>Costa Mesa</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2025/06/Screenshot-2025-06-17-at-5.07.26%E2%80%AFPM.png" type="image/png" />
+    </item>
+    <item>
+      <title>Free Tasting: Wismettac Sake and Shochu</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Jun 20 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Join us for a free tasting with Wismettac Sake and Shochu!&lt;/p&gt;</description>
+      <pubDate>Sat, 20 Jun 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">556a37cfecfa13e8</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2023/12/%C2%A9Project-M-Plus_Hi-Lo_Liquor_3-scaled.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Free Tasting: Pizza Port</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Jun 20 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;
+&lt;p&gt;Come by and try some brews from Southern California&amp;#x27;s Pizza Port Brewing Co!&lt;/p&gt;</description>
+      <pubDate>Sat, 20 Jun 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">14bea4d6a080f0b5</guid>
+      <category>Long Beach</category>
+    </item>
     <item>
       <title>Free Tasting: Catedral Mezcal</title>
       <link>https://hiloliquor.com/locations/#Costa%20Mesa</link>
