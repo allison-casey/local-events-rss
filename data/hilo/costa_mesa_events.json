@@ -1052,6 +1052,24 @@
       "start_at": "2026-12-12T16:00:00-08:00",
       "end_at": "2026-12-12T19:00:00-08:00",
       "image_url": "https://hiloliquor.com/wp-content/uploads/2023/12/Screenshot-2024-12-02-at-3.15.36%E2%80%AFPM.png"
+    },
+    {
+      "event_id": "d7e18968fe927a31",
+      "location": "Costa Mesa",
+      "title": "Off Hours Whiskey Takeover",
+      "description": "Join us for a festive day of Off Hours whiskey at all locations with a curated experience, including: a complimentary festive drink and gifts with purchase.  \r\n\r\n\r\n• Culver City: SMPL Artisan Cheesecakes will be popping-up with yummy, fresh cheesecakes\r\n• Long Beach: Slowlines Art will be popping-up \r\n• Costa Mesa: Made by Mabel Ceramics will be popping-up",
+      "start_at": "2026-12-13T14:00:00-08:00",
+      "end_at": "2026-12-13T18:00:00-08:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2024/12/Screenshot-2024-12-16-at-7.53.43%E2%80%AFPM.png"
+    },
+    {
+      "event_id": "42abc5445a44235d",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Cara a Cara Mezcal",
+      "description": "Join us for a free tasting with Cara a Cara Mezcal!",
+      "start_at": "2026-12-13T16:00:00-08:00",
+      "end_at": "2026-12-13T19:00:00-08:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2024/12/Screenshot-2024-12-09-at-6.58.13%E2%80%AFPM.png"
     }
   ],
   "location": "Costa Mesa",
