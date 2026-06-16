@@ -1070,6 +1070,15 @@
       "start_at": "2026-12-13T16:00:00-08:00",
       "end_at": "2026-12-13T19:00:00-08:00",
       "image_url": "https://hiloliquor.com/wp-content/uploads/2024/12/Screenshot-2024-12-09-at-6.58.13%E2%80%AFPM.png"
+    },
+    {
+      "event_id": "4647722fa5869529",
+      "location": "Costa Mesa",
+      "title": "Sip n' Shop",
+      "description": "Join us at all three locations to Sip & Shop on 12/14 | 2-6PM 🎁 We’ve got a festive day filled with complimentary tastings, local vendors, gift with purchase, gift wrapping and more!!",
+      "start_at": "2026-12-14T14:00:00-08:00",
+      "end_at": "2026-12-14T18:00:00-08:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2024/12/Screenshot-2024-12-09-at-7.03.13%E2%80%AFPM.png"
     }
   ],
   "location": "Costa Mesa",
