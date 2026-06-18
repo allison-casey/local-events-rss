@@ -757,6 +757,51 @@
       "image_url": "https://hiloliquor.com/wp-content/uploads/2026/06/IMG_4373.jpg"
     },
     {
+      "event_id": "2fa132668fb285a0",
+      "location": "Long Beach",
+      "title": "Free Tasting: Tip Top Canned Cocktails",
+      "description": "Join us for a free tasting with Tip Top canned cocktails!",
+      "start_at": "2026-06-17T16:00:00-07:00",
+      "end_at": "2026-06-17T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2024/01/Screen-Shot-2024-01-11-at-2.10.45-PM.png"
+    },
+    {
+      "event_id": "f9b113a655bd8af0",
+      "location": "Long Beach",
+      "title": "Hi-Lo Long Beach: King Trivia",
+      "description": "Join us at our Long Beach location every Wednesday night for trivia! If you're a pop-culture buff, this is the night for you!",
+      "start_at": "2026-06-17T19:00:00-07:00",
+      "end_at": "2026-06-17T21:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2023/10/HiLo-Returning-Post-3-2026-e1770771667892.jpg"
+    },
+    {
+      "event_id": "408932c1d27228f5",
+      "location": "Long Beach",
+      "title": "Free Tasting: Golden Eagle Vodka",
+      "description": "Join us for a free tasting with Golden Eagle Vodka!",
+      "start_at": "2026-06-18T16:00:00-07:00",
+      "end_at": "2026-06-18T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2024/05/Screenshot-2024-05-08-at-1.06.49%E2%80%AFPM.png"
+    },
+    {
+      "event_id": "7bf86e75a5f87e7a",
+      "location": "Long Beach",
+      "title": "Free Tasting: Neft Vodka",
+      "description": "Join us for a free tasting of Neft Vodka.",
+      "start_at": "2026-06-19T16:00:00-07:00",
+      "end_at": "2026-06-19T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2023/12/Screen-Shot-2023-12-19-at-1.00.44-PM.png"
+    },
+    {
+      "event_id": "899678683c538569",
+      "location": "Long Beach",
+      "title": "Food Pop-Up: WAVE Gourmet Burgers",
+      "description": "WAVE is bringing their legendary smash burgers and crave-worthy truffle fries to the party!",
+      "start_at": "2026-06-19T17:00:00-07:00",
+      "end_at": "2026-06-19T21:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2023/11/1C60CEB5-F51A-4D9F-8952-6E19D6EA4721.jpg"
+    },
+    {
       "event_id": "14bea4d6a080f0b5",
       "location": "Long Beach",
       "title": "Free Tasting: Pizza Port",

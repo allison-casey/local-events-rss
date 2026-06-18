@@ -595,6 +595,15 @@
       "image_url": "https://hiloliquor.com/wp-content/uploads/2023/12/Screen-Shot-2023-12-19-at-1.24.30-PM.png"
     },
     {
+      "event_id": "8531f2d5b4955d82",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Teddy Tears",
+      "description": "Enjoy a complimentary tasting to Teddy Tears crafted canned cocktails!",
+      "start_at": "2026-06-18T16:00:00-07:00",
+      "end_at": "2026-06-18T19:00:00-07:00",
+      "image_url": null
+    },
+    {
       "event_id": "f3b6f3bf4f67b784",
       "location": "Costa Mesa",
       "title": "Free Tasting: Burgeon Beer Co",
@@ -1079,6 +1088,15 @@
       "start_at": "2026-12-14T14:00:00-08:00",
       "end_at": "2026-12-14T18:00:00-08:00",
       "image_url": "https://hiloliquor.com/wp-content/uploads/2024/12/Screenshot-2024-12-09-at-7.03.13%E2%80%AFPM.png"
+    },
+    {
+      "event_id": "a2f9f31002db9848",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Ciao Pappy",
+      "description": "Ciao Pappy is a local company that uses amazing, fresh ingredients for the their tomato sauces. Come by and try their delicious sauces, which are perfect for pasta, pizza, meatballs, and more!",
+      "start_at": "2026-12-16T14:00:00-08:00",
+      "end_at": "2026-12-16T16:00:00-08:00",
+      "image_url": null
     }
   ],
   "location": "Costa Mesa",

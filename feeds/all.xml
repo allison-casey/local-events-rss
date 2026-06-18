@@ -5,7 +5,7 @@
     <link>feeds/all.xml</link>
     <description>Combined events from all local feed sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Jun 2026 04:50:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 04:43:09 +0000</lastBuildDate>
     <item>
       <title>Free Tasting: Fallen Grape</title>
       <link>https://hiloliquor.com/locations/#Costa%20Mesa</link>
@@ -50,6 +50,39 @@
       <category>Long Beach</category>
     </item>
     <item>
+      <title>Food Pop-Up: WAVE Gourmet Burgers</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Jun 19 5:00 PM - 9:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;
+&lt;p&gt;WAVE is bringing their legendary smash burgers and crave-worthy truffle fries to the party!&lt;/p&gt;</description>
+      <pubDate>Fri, 19 Jun 2026 17:00:00 -0700</pubDate>
+      <guid isPermaLink="false">899678683c538569</guid>
+      <category>Long Beach</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2023/11/1C60CEB5-F51A-4D9F-8952-6E19D6EA4721.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Free Tasting: Anytime Spritz + Farmhouse Organic Spirits</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Jun 19 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Anytime Spritz makes organic and regenerative spirits &amp;amp; cocktails. Crafted by queer women, powered by farmers and the first climate negative distillery.&lt;/p&gt;</description>
+      <pubDate>Fri, 19 Jun 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">f83b19ecc5b4aafe</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2025/04/Screenshot-2025-04-29-at-1.09.57%E2%80%AFPM.png" type="image/png" />
+    </item>
+    <item>
+      <title>Free Tasting: Neft Vodka</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Jun 19 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;
+&lt;p&gt;Join us for a free tasting of Neft Vodka.&lt;/p&gt;</description>
+      <pubDate>Fri, 19 Jun 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">7bf86e75a5f87e7a</guid>
+      <category>Long Beach</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2023/12/Screen-Shot-2023-12-19-at-1.00.44-PM.png" type="image/png" />
+    </item>
+    <item>
       <title>Free Tasting: Catedral Mezcal</title>
       <link>https://hiloliquor.com/locations/#Costa%20Mesa</link>
       <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Jun 18 4:00 PM - 7:00 PM&lt;/p&gt;
@@ -59,6 +92,71 @@
       <guid isPermaLink="false">021198b6f5ec7a65</guid>
       <category>Costa Mesa</category>
       <enclosure url="https://hiloliquor.com/wp-content/uploads/2023/12/Screen-Shot-2023-12-19-at-1.24.30-PM.png" type="image/png" />
+    </item>
+    <item>
+      <title>Free Tasting: Teddy Tears</title>
+      <link>https://hiloliquor.com/locations/#Costa%20Mesa</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Jun 18 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Costa Mesa&lt;/p&gt;
+&lt;p&gt;Enjoy a complimentary tasting to Teddy Tears crafted canned cocktails!&lt;/p&gt;</description>
+      <pubDate>Thu, 18 Jun 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">8531f2d5b4955d82</guid>
+      <category>Costa Mesa</category>
+    </item>
+    <item>
+      <title>Free Tasting: Golden Eagle Vodka</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Jun 18 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Join us for a free tasting of Golden Eagle Vodka!&lt;/p&gt;</description>
+      <pubDate>Thu, 18 Jun 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">ee3a8411e8aad7ae</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2024/05/Screenshot-2024-05-08-at-1.06.49%E2%80%AFPM.png" type="image/png" />
+    </item>
+    <item>
+      <title>Free Tasting: Golden Eagle Vodka</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Jun 18 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;
+&lt;p&gt;Join us for a free tasting with Golden Eagle Vodka!&lt;/p&gt;</description>
+      <pubDate>Thu, 18 Jun 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">408932c1d27228f5</guid>
+      <category>Long Beach</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2024/05/Screenshot-2024-05-08-at-1.06.49%E2%80%AFPM.png" type="image/png" />
+    </item>
+    <item>
+      <title>Hi-Lo Long Beach: King Trivia</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Jun 17 7:00 PM - 9:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;
+&lt;p&gt;Join us at our Long Beach location every Wednesday night for trivia! If you&amp;#x27;re a pop-culture buff, this is the night for you!&lt;/p&gt;</description>
+      <pubDate>Wed, 17 Jun 2026 19:00:00 -0700</pubDate>
+      <guid isPermaLink="false">f9b113a655bd8af0</guid>
+      <category>Long Beach</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2023/10/HiLo-Returning-Post-3-2026-e1770771667892.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Free Tasting: BTL SVC</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Jun 17 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;BTL SVC provides award-winning, hand-crafted, premium cocktails, conveniently served anytime and anywhere.&lt;/p&gt;</description>
+      <pubDate>Wed, 17 Jun 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">f1f8cf147b1c5374</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2024/01/Screen-Shot-2024-01-22-at-5.52.58-PM.png" type="image/png" />
+    </item>
+    <item>
+      <title>Free Tasting: Tip Top Canned Cocktails</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Jun 17 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;
+&lt;p&gt;Join us for a free tasting with Tip Top canned cocktails!&lt;/p&gt;</description>
+      <pubDate>Wed, 17 Jun 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">2fa132668fb285a0</guid>
+      <category>Long Beach</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2024/01/Screen-Shot-2024-01-11-at-2.10.45-PM.png" type="image/png" />
     </item>
     <item>
       <title>Free Tasting: Tasting-Lodestar Whiskey</title>

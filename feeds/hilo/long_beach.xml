@@ -5,7 +5,7 @@
     <link>https://hiloliquor.com/locations/#Long%20Beach</link>
     <description>Upcoming tastings, pop-ups, and events at Hi-Lo Liquor Market (Long Beach).</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Jun 2026 21:50:23 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 21:43:09 -0700</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>Free Tasting: Pizza Port</title>
@@ -16,6 +16,61 @@
       <pubDate>Sat, 20 Jun 2026 16:00:00 -0700</pubDate>
       <guid isPermaLink="false">14bea4d6a080f0b5</guid>
       <category>Long Beach</category>
+    </item>
+    <item>
+      <title>Food Pop-Up: WAVE Gourmet Burgers</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Jun 19 5:00 PM - 9:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;
+&lt;p&gt;WAVE is bringing their legendary smash burgers and crave-worthy truffle fries to the party!&lt;/p&gt;</description>
+      <pubDate>Fri, 19 Jun 2026 17:00:00 -0700</pubDate>
+      <guid isPermaLink="false">899678683c538569</guid>
+      <category>Long Beach</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2023/11/1C60CEB5-F51A-4D9F-8952-6E19D6EA4721.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Free Tasting: Neft Vodka</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Jun 19 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;
+&lt;p&gt;Join us for a free tasting of Neft Vodka.&lt;/p&gt;</description>
+      <pubDate>Fri, 19 Jun 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">7bf86e75a5f87e7a</guid>
+      <category>Long Beach</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2023/12/Screen-Shot-2023-12-19-at-1.00.44-PM.png" type="image/png" />
+    </item>
+    <item>
+      <title>Free Tasting: Golden Eagle Vodka</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Jun 18 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;
+&lt;p&gt;Join us for a free tasting with Golden Eagle Vodka!&lt;/p&gt;</description>
+      <pubDate>Thu, 18 Jun 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">408932c1d27228f5</guid>
+      <category>Long Beach</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2024/05/Screenshot-2024-05-08-at-1.06.49%E2%80%AFPM.png" type="image/png" />
+    </item>
+    <item>
+      <title>Hi-Lo Long Beach: King Trivia</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Jun 17 7:00 PM - 9:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;
+&lt;p&gt;Join us at our Long Beach location every Wednesday night for trivia! If you&amp;#x27;re a pop-culture buff, this is the night for you!&lt;/p&gt;</description>
+      <pubDate>Wed, 17 Jun 2026 19:00:00 -0700</pubDate>
+      <guid isPermaLink="false">f9b113a655bd8af0</guid>
+      <category>Long Beach</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2023/10/HiLo-Returning-Post-3-2026-e1770771667892.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Free Tasting: Tip Top Canned Cocktails</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Jun 17 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;
+&lt;p&gt;Join us for a free tasting with Tip Top canned cocktails!&lt;/p&gt;</description>
+      <pubDate>Wed, 17 Jun 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">2fa132668fb285a0</guid>
+      <category>Long Beach</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2024/01/Screen-Shot-2024-01-11-at-2.10.45-PM.png" type="image/png" />
     </item>
     <item>
       <title>Free Tasting: Hinterhaus Distilling</title>

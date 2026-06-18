@@ -739,6 +739,33 @@
       "image_url": "https://hiloliquor.com/wp-content/uploads/2024/05/Screenshot-2024-05-08-at-1.06.49%E2%80%AFPM.png"
     },
     {
+      "event_id": "f1f8cf147b1c5374",
+      "location": "Culver City",
+      "title": "Free Tasting: BTL SVC",
+      "description": "BTL SVC provides award-winning, hand-crafted, premium cocktails, conveniently served anytime and anywhere.",
+      "start_at": "2026-06-17T16:00:00-07:00",
+      "end_at": "2026-06-17T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2024/01/Screen-Shot-2024-01-22-at-5.52.58-PM.png"
+    },
+    {
+      "event_id": "ee3a8411e8aad7ae",
+      "location": "Culver City",
+      "title": "Free Tasting: Golden Eagle Vodka",
+      "description": "Join us for a free tasting of Golden Eagle Vodka!",
+      "start_at": "2026-06-18T16:00:00-07:00",
+      "end_at": "2026-06-18T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2024/05/Screenshot-2024-05-08-at-1.06.49%E2%80%AFPM.png"
+    },
+    {
+      "event_id": "f83b19ecc5b4aafe",
+      "location": "Culver City",
+      "title": "Free Tasting: Anytime Spritz + Farmhouse Organic Spirits",
+      "description": "Anytime Spritz makes organic and regenerative spirits & cocktails. Crafted by queer women, powered by farmers and the first climate negative distillery.",
+      "start_at": "2026-06-19T16:00:00-07:00",
+      "end_at": "2026-06-19T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2025/04/Screenshot-2025-04-29-at-1.09.57%E2%80%AFPM.png"
+    },
+    {
       "event_id": "556a37cfecfa13e8",
       "location": "Culver City",
       "title": "Free Tasting: Wismettac Sake and Shochu",
