@@ -1097,6 +1097,15 @@
       "start_at": "2026-12-16T14:00:00-08:00",
       "end_at": "2026-12-16T16:00:00-08:00",
       "image_url": null
+    },
+    {
+      "event_id": "b0d1fc9b4710ed2f",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Morro Mezcal",
+      "description": "Morro Mezcal crafts their small batch artisanal spirits using time-honored methods and traditions of mezcal production, using mature single origin agaves, an earthen hardwood-fueled oven, open air wooden fermentation vessels and small wood-fired copper still distillation. Their mezcals are distilled to proof using agaves grown in the mountains of El Gramal in Oaxaca giving depth, character and complexity.",
+      "start_at": "2026-12-17T17:00:00-08:00",
+      "end_at": "2026-12-17T19:00:00-08:00",
+      "image_url": null
     }
   ],
   "location": "Costa Mesa",
