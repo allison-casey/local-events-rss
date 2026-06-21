@@ -1187,6 +1187,33 @@
       "start_at": "2026-12-14T14:00:00-08:00",
       "end_at": "2026-12-14T18:00:00-08:00",
       "image_url": "https://hiloliquor.com/wp-content/uploads/2024/12/Screenshot-2024-12-09-at-7.03.13%E2%80%AFPM.png"
+    },
+    {
+      "event_id": "c0e112bce7af1e75",
+      "location": "Long Beach",
+      "title": "Free Tasting: Aplos NA Spirits",
+      "description": "Aplos specializes in hemp infused NA spirit alternatives. Join us for a free sample of their delicious products!",
+      "start_at": "2026-12-19T15:30:00-08:00",
+      "end_at": "2026-12-19T18:30:00-08:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2024/01/Screen-Shot-2024-01-11-at-1.20.51-PM.png"
+    },
+    {
+      "event_id": "fceecd7d5688e091",
+      "location": "Long Beach",
+      "title": "Free Tasting: Green River Whiskey",
+      "description": "Join us for a free tasting with Green River Whiskey!",
+      "start_at": "2026-12-19T16:00:00-08:00",
+      "end_at": "2026-12-19T19:00:00-08:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2024/12/Screenshot-2024-12-09-at-7.00.54%E2%80%AFPM.png"
+    },
+    {
+      "event_id": "2b6c9d9440a179ae",
+      "location": "Long Beach",
+      "title": "Free Tasting: Laurel Canyon Spirits",
+      "description": "Join us for a free tasting with Laurel Canyon Spirits! We'll be trying their Cold Black Hjerte Coffee Liqueur.",
+      "start_at": "2026-12-19T16:00:00-08:00",
+      "end_at": "2026-12-19T19:00:00-08:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2024/12/Screenshot-2024-12-16-at-7.50.35%E2%80%AFPM.png"
     }
   ],
   "location": "Long Beach",

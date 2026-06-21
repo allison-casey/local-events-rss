@@ -1106,6 +1106,24 @@
       "start_at": "2026-12-17T17:00:00-08:00",
       "end_at": "2026-12-17T19:00:00-08:00",
       "image_url": null
+    },
+    {
+      "event_id": "f72a5ff3e529bfef",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Mezcal 33 – POSTPONED",
+      "description": "Join us to taste Mezcal 33 and discover the magic of what this master number represents, reflected through the perfection and passion we pour into every drop of their mezcals.",
+      "start_at": "2026-12-19T16:00:00-08:00",
+      "end_at": "2026-12-19T19:00:00-08:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2025/08/IMG_8342.jpg"
+    },
+    {
+      "event_id": "a11b23f4892e4c03",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Green River Whiskey",
+      "description": "Join us for a free tasting with Green River Whiskey!",
+      "start_at": "2026-12-19T16:00:00-08:00",
+      "end_at": "2026-12-19T19:00:00-08:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2024/12/Screenshot-2024-12-09-at-7.00.54%E2%80%AFPM.png"
     }
   ],
   "location": "Costa Mesa",
