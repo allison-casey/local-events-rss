@@ -811,6 +811,24 @@
       "image_url": null
     },
     {
+      "event_id": "dbe8ce8f62116a2e",
+      "location": "Long Beach",
+      "title": "Food Pop-Up: Italian Street Bites",
+      "description": "Join us on Wednesday's along with trivia with Italian Street Bites!",
+      "start_at": "2026-06-24T17:00:00-07:00",
+      "end_at": "2026-06-24T20:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2026/06/IMG_4372.jpg"
+    },
+    {
+      "event_id": "e5658f5d30c64372",
+      "location": "Long Beach",
+      "title": "Hi-Lo Long Beach: King Trivia",
+      "description": "Join us at our Long Beach location every Wednesday night for trivia! If you're a pop-culture buff, this is the night for you!",
+      "start_at": "2026-06-24T19:00:00-07:00",
+      "end_at": "2026-06-24T21:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2023/10/HiLo-Returning-Post-3-2026-e1770771667892.jpg"
+    },
+    {
       "event_id": "28a862eda4a8439c",
       "location": "Long Beach",
       "title": "La Mission Associates Mexican Wines",
@@ -818,6 +836,33 @@
       "start_at": "2026-06-26T16:00:00-07:00",
       "end_at": "2026-06-26T19:00:00-07:00",
       "image_url": "https://hiloliquor.com/wp-content/uploads/2025/06/Screenshot-2025-06-17-at-4.58.33%E2%80%AFPM.png"
+    },
+    {
+      "event_id": "23d7b85d6d0586a1",
+      "location": "Long Beach",
+      "title": "Free Tasting: Salt Point Canned Cocktails",
+      "description": "Salt Point has been crafting premium canned cocktails with all-natural ingredients along the coast of Northern California since 2013. Right here to be exact: 38.0834° N, 122.7633° W. Everyone at Salt Point is committed to quality ingredients and the finest of spirits. Though things can get a little foggy around there, they're clear about this: less is more. That’s why they keep the ingredients to a minimum and prefer to sail by the stars. So whether you’re hanging with old friends or interesting strangers, Salt Point invites you to kick back and raise a can. Come on in and give Salt Point a try with this free tasting of their premium canned drinks!",
+      "start_at": "2026-06-26T16:00:00-07:00",
+      "end_at": "2026-06-26T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2022/06/IMG_0605.jpg"
+    },
+    {
+      "event_id": "8be1b94d19c107cd",
+      "location": "Long Beach",
+      "title": "Food Pop-Up: WAVE Gourmet Burgers",
+      "description": "WAVE is bringing their legendary smash burgers and crave-worthy truffle fries to the party!",
+      "start_at": "2026-06-26T17:00:00-07:00",
+      "end_at": "2026-06-26T21:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2023/11/1C60CEB5-F51A-4D9F-8952-6E19D6EA4721.jpg"
+    },
+    {
+      "event_id": "3f1ef66efe9a12c4",
+      "location": "Long Beach",
+      "title": "Free Tasting: Scotti's Original Springs Whiskey",
+      "description": "Join us for a complimentary tasting with Scotti's Original Springs Whiskey!",
+      "start_at": "2026-06-27T16:00:00-07:00",
+      "end_at": "2026-06-27T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2026/06/IMG_4770.jpg"
     },
     {
       "event_id": "7569a0a504a8854b",

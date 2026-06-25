@@ -775,6 +775,15 @@
       "image_url": "https://hiloliquor.com/wp-content/uploads/2023/12/%C2%A9Project-M-Plus_Hi-Lo_Liquor_3-scaled.jpg"
     },
     {
+      "event_id": "9e3420738adccb22",
+      "location": "Culver City",
+      "title": "Free Tasting: Salt Point Canned Cocktails",
+      "description": "Come kick back and raise a can with Salt Point premium canned cocktails!",
+      "start_at": "2026-06-25T16:00:00-07:00",
+      "end_at": "2026-06-25T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2022/06/IMG_0605.jpg"
+    },
+    {
       "event_id": "c8adc232b384bec7",
       "location": "Culver City",
       "title": "Free Tasting: Fall Brewing",
@@ -791,6 +800,33 @@
       "start_at": "2026-06-26T16:00:00-07:00",
       "end_at": "2026-06-27T16:00:00-07:00",
       "image_url": "https://hiloliquor.com/wp-content/uploads/2023/02/Screenshot-2024-09-18-at-12.40.52%E2%80%AFPM.png"
+    },
+    {
+      "event_id": "f8cabc912cfcbfa5",
+      "location": "Culver City",
+      "title": "Free Tasting: Yebiga Rakija",
+      "description": "Come sample this unique and delicious Serbian Plum Brandy.  Yebiga Rakija is an exceptional , handcrafted and 100% natural Sljivovica, a fruit brandy from central central Serbia.",
+      "start_at": "2026-06-26T16:00:00-07:00",
+      "end_at": "2026-06-26T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2025/03/Screenshot-2025-03-03-at-9.36.26%E2%80%AFPM.png"
+    },
+    {
+      "event_id": "07a244bbe4edd66e",
+      "location": "Culver City",
+      "title": "Culver City: Matcha Bear Pop-up!",
+      "description": "Matcha Bear is popping up this Saturday! Come by to try their delicious matcha drinks to kick off your Saturday!",
+      "start_at": "2026-06-27T10:30:00-07:00",
+      "end_at": "2026-06-27T13:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2026/06/IMG_4772.jpg"
+    },
+    {
+      "event_id": "54390b2f3f88a87d",
+      "location": "Culver City",
+      "title": "Free Tasting: LA Sin Hielo Whiskey",
+      "description": "Join us for a complimentary with Sin Hielo Whiskey! Made here in LA!",
+      "start_at": "2026-06-27T16:00:00-07:00",
+      "end_at": "2026-06-27T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2026/06/IMG_4771.jpg"
     },
     {
       "event_id": "35ef5ba3e483fc4f",

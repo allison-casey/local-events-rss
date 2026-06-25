@@ -622,6 +622,42 @@
       "image_url": "https://hiloliquor.com/wp-content/uploads/2024/06/Screenshot-2024-06-17-at-4.32.44%E2%80%AFPM.png"
     },
     {
+      "event_id": "2185a936628e26cc",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: BTL SVC",
+      "description": "BTL SVC provides award-winning, hand-crafted, premium cocktails, conveniently served anytime and anywhere.",
+      "start_at": "2026-06-25T16:00:00-07:00",
+      "end_at": "2026-06-25T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2024/01/Screen-Shot-2024-01-22-at-5.52.58-PM.png"
+    },
+    {
+      "event_id": "6015899cb9857a74",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Neft Vodka",
+      "description": "Join us for a free tasting of Neft Vodka.",
+      "start_at": "2026-06-26T16:00:00-07:00",
+      "end_at": "2026-06-26T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2023/12/Screen-Shot-2023-12-19-at-1.00.44-PM.png"
+    },
+    {
+      "event_id": "a7f9f6243e83ddbd",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Scotti's Original Springs Whiskey",
+      "description": "Join us for a complimentary tasting of Scotti's Whiskey!",
+      "start_at": "2026-06-26T16:00:00-07:00",
+      "end_at": "2026-06-26T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2026/06/IMG_4770.jpg"
+    },
+    {
+      "event_id": "748fe7f0f9ce8889",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Salt Point Canned Cocktails",
+      "description": "Salt Point has been crafting premium canned cocktails with all-natural ingredients along the coast of Northern California since 2013. Right here to be exact: 38.0834° N, 122.7633° W. Everyone at Salt Point is committed to quality ingredients and the finest of spirits. Though things can get a little foggy around there, they're clear about this: less is more. That’s why they keep the ingredients to a minimum and prefer to sail by the stars. So whether you’re hanging with old friends or interesting strangers, Salt Point invites you to kick back and raise a can. Come on in and give Salt Point a try with this free tasting of their premium canned drinks!",
+      "start_at": "2026-06-28T16:00:00-07:00",
+      "end_at": "2026-06-28T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2022/06/IMG_0605.jpg"
+    },
+    {
       "event_id": "fd543c3fba4ef523",
       "location": "Costa Mesa",
       "title": "Free Tasting: Mijenta Tequila",
