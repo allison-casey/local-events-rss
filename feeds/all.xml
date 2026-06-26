@@ -5,7 +5,18 @@
     <link>feeds/all.xml</link>
     <description>Combined events from all local feed sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Jun 2026 04:08:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 04:15:17 +0000</lastBuildDate>
+    <item>
+      <title>Free Tasting: Acronimo Spirits</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Jul 2 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;
+&lt;p&gt;Join us for a free tasting with  Acronimo Spirits!&lt;/p&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">7569a0a504a8854b</guid>
+      <category>Long Beach</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2025/07/Screenshot-2025-07-01-at-5.33.37%E2%80%AFPM.png" type="image/png" />
+    </item>
     <item>
       <title>Free Tasting: Salt Point Canned Cocktails</title>
       <link>https://hiloliquor.com/locations/#Costa%20Mesa</link>
