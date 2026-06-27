@@ -1160,6 +1160,15 @@
       "start_at": "2026-12-19T16:00:00-08:00",
       "end_at": "2026-12-19T19:00:00-08:00",
       "image_url": "https://hiloliquor.com/wp-content/uploads/2024/12/Screenshot-2024-12-09-at-7.00.54%E2%80%AFPM.png"
+    },
+    {
+      "event_id": "2de064dcfea0acfe",
+      "location": "Costa Mesa",
+      "title": "Store Closed – MERRY CHRISTMAS!",
+      "description": "We'll be closed for Christmas Day but open again on December 26th at our normal hours.  Enjoy your holiday!",
+      "start_at": "2026-12-25T00:00:00-08:00",
+      "end_at": "2026-12-25T23:00:00-08:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2025/12/069749708a2308650e6569378b19f448-2.jpg"
     }
   ],
   "location": "Costa Mesa",
