@@ -1268,6 +1268,15 @@
       "start_at": "2026-12-25T00:00:00-08:00",
       "end_at": "2026-12-25T23:00:00-08:00",
       "image_url": "https://hiloliquor.com/wp-content/uploads/2025/12/069749708a2308650e6569378b19f448-2.jpg"
+    },
+    {
+      "event_id": "20dd96cba16bfefe",
+      "location": "Long Beach",
+      "title": "Free Tasting: Soju-Holics",
+      "description": "Join us for a free tasting with Soju-Holics!",
+      "start_at": "2026-12-27T16:00:00-08:00",
+      "end_at": "2026-12-27T19:00:00-08:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2024/12/Screenshot-2024-12-27-at-2.49.47%E2%80%AFPM.png"
     }
   ],
   "location": "Long Beach",
