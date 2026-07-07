@@ -1169,6 +1169,15 @@
       "start_at": "2026-12-25T00:00:00-08:00",
       "end_at": "2026-12-25T23:00:00-08:00",
       "image_url": "https://hiloliquor.com/wp-content/uploads/2025/12/069749708a2308650e6569378b19f448-2.jpg"
+    },
+    {
+      "event_id": "967e35ac6c26b48f",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Hoplark N/A Beer",
+      "description": "Hoplark is non-alcoholic craft brews, teas and waters hopped and crafted like beer. All of the hoppy flavor without the calories, sugar or alcohol. Stop on in and try their N/A beers!",
+      "start_at": "2027-01-04T16:00:00-08:00",
+      "end_at": "2027-01-04T19:00:00-08:00",
+      "image_url": null
     }
   ],
   "location": "Costa Mesa",
