@@ -667,6 +667,24 @@
       "image_url": "https://hiloliquor.com/wp-content/uploads/2025/07/Screenshot-2025-07-01-at-5.30.40%E2%80%AFPM.png"
     },
     {
+      "event_id": "d09e1ceaed9e09fd",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Perro Verde Mezcal",
+      "description": "Join us for a free tasting with Perro Verde Mezcal!",
+      "start_at": "2026-07-09T16:00:00-07:00",
+      "end_at": "2026-07-09T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2024/09/Screenshot-2024-09-18-at-2.53.44%E2%80%AFPM.png"
+    },
+    {
+      "event_id": "cdafcf7a2274cf0b",
+      "location": "Costa Mesa",
+      "title": "Costa Mesa: Summer Soirée Market",
+      "description": "Join us for a market in Costa Mesa! Tons of fun complimentary tastings and records spinning!",
+      "start_at": "2026-07-11T14:00:00-07:00",
+      "end_at": "2026-07-11T18:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2026/07/Orange-and-Red-Illustrated-Summer-Party-Invitation-1.png"
+    },
+    {
       "event_id": "5bce855851681136",
       "location": "Costa Mesa",
       "title": "Pop-Up: \"Sunday Market\"",

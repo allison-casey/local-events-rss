@@ -5,7 +5,7 @@
     <link>feeds/all.xml</link>
     <description>Combined events from all local feed sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Jul 2026 03:59:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 03:25:55 +0000</lastBuildDate>
     <item>
       <title>Pop-Up: "Sunday Market"</title>
       <link>https://hiloliquor.com/locations/#Costa%20Mesa</link>
@@ -28,6 +28,105 @@ Free tastings with:
       <guid isPermaLink="false">5bce855851681136</guid>
       <category>Costa Mesa</category>
       <enclosure url="https://hiloliquor.com/wp-content/uploads/2024/07/Screenshot-2024-07-08-at-6.26.02%E2%80%AFPM.png" type="image/png" />
+    </item>
+    <item>
+      <title>Free Tasting: Jumbo Time Wines</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Jul 11 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Enjoy a complimentary tasting with Jumbo Time Wines!&lt;/p&gt;</description>
+      <pubDate>Sat, 11 Jul 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">a45317454d6bde26</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2024/08/IMG_5340.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Costa Mesa: Summer Soirée Market</title>
+      <link>https://hiloliquor.com/locations/#Costa%20Mesa</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Jul 11 2:00 PM - 6:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Costa Mesa&lt;/p&gt;
+&lt;p&gt;Join us for a market in Costa Mesa! Tons of fun complimentary tastings and records spinning!&lt;/p&gt;</description>
+      <pubDate>Sat, 11 Jul 2026 14:00:00 -0700</pubDate>
+      <guid isPermaLink="false">cdafcf7a2274cf0b</guid>
+      <category>Costa Mesa</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2026/07/Orange-and-Red-Illustrated-Summer-Party-Invitation-1.png" type="image/png" />
+    </item>
+    <item>
+      <title>Food Pop-Up: WAVE Gourmet Burgers</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Jul 10 5:00 PM - 9:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;
+&lt;p&gt;WAVE is bringing their legendary smash burgers and crave-worthy truffle fries to the party!&lt;/p&gt;</description>
+      <pubDate>Fri, 10 Jul 2026 17:00:00 -0700</pubDate>
+      <guid isPermaLink="false">158c6f1563f27144</guid>
+      <category>Long Beach</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2023/11/1C60CEB5-F51A-4D9F-8952-6E19D6EA4721.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Free Tasting: Hinterhaus Distilling + Lost Republic Whiskey</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Jul 10 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Free Tasting with Hinterhaus Distilling!&lt;/p&gt;</description>
+      <pubDate>Fri, 10 Jul 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">b82815bcf5caaae1</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2026/06/IMG_4373.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Free Tasting: Slowdays Gin</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Jul 10 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Join us for a free tasting with Slowdays gin!&lt;/p&gt;</description>
+      <pubDate>Fri, 10 Jul 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">f83ca8838b3b547f</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2024/07/Screenshot-2024-07-15-at-3.15.53%E2%80%AFPM.png" type="image/png" />
+    </item>
+    <item>
+      <title>Food Pop-Up: SoLA PoBoys</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Jul 9 5:00 PM - 8:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Come on by to enjoy SoLA PoBoys!!&lt;/p&gt;</description>
+      <pubDate>Thu, 09 Jul 2026 17:00:00 -0700</pubDate>
+      <guid isPermaLink="false">7f2f9b92eb71e944</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2026/07/IMG_5339.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Free Tasting: Perro Verde Mezcal</title>
+      <link>https://hiloliquor.com/locations/#Costa%20Mesa</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Jul 9 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Costa Mesa&lt;/p&gt;
+&lt;p&gt;Join us for a free tasting with Perro Verde Mezcal!&lt;/p&gt;</description>
+      <pubDate>Thu, 09 Jul 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">d09e1ceaed9e09fd</guid>
+      <category>Costa Mesa</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2024/09/Screenshot-2024-09-18-at-2.53.44%E2%80%AFPM.png" type="image/png" />
+    </item>
+    <item>
+      <title>Hi-Lo Long Beach: King Trivia</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Jul 8 7:00 PM - 9:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;
+&lt;p&gt;Join us at our Long Beach location every Wednesday night for trivia! If you&amp;#x27;re a pop-culture buff, this is the night for you!&lt;/p&gt;</description>
+      <pubDate>Wed, 08 Jul 2026 19:00:00 -0700</pubDate>
+      <guid isPermaLink="false">ec907780690b5081</guid>
+      <category>Long Beach</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2023/10/HiLo-Returning-Post-3-2026-e1770771667892.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Food Pop-Up: Italian Street Bites</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Jul 8 5:00 PM - 8:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;
+&lt;p&gt;Join us on Wednesday&amp;#x27;s along with trivia with Italian Street Bites!&lt;/p&gt;</description>
+      <pubDate>Wed, 08 Jul 2026 17:00:00 -0700</pubDate>
+      <guid isPermaLink="false">557bec8964e67d15</guid>
+      <category>Long Beach</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2026/06/IMG_4372.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Free Tasting: Mijenta Tequila</title>
