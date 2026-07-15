@@ -874,6 +874,51 @@
       "image_url": "https://hiloliquor.com/wp-content/uploads/2024/08/IMG_5340.jpg"
     },
     {
+      "event_id": "b884762c0fd03d1b",
+      "location": "Culver City",
+      "title": "Free Tasting: January Spirits + Rejon Tequila & Reposado",
+      "description": "Complimentary tasting with January Spirits + Rejon Tequila & Reposado!",
+      "start_at": "2026-07-15T16:00:00-07:00",
+      "end_at": "2026-07-15T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2026/07/IMG_5604.jpg"
+    },
+    {
+      "event_id": "c43cd243f4214d1a",
+      "location": "Culver City",
+      "title": "Free Tasting: Perro Verde Mezcal",
+      "description": "Join us for a free tasting with Perro Verde Mezcal!",
+      "start_at": "2026-07-16T16:00:00-07:00",
+      "end_at": "2026-07-16T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2024/09/Screenshot-2024-09-18-at-2.53.44%E2%80%AFPM.png"
+    },
+    {
+      "event_id": "40919d3ba2467e79",
+      "location": "Culver City",
+      "title": "Free Tasting: Little Sun Calimocho RTDs!",
+      "description": "Complimentary tasting with Little Sun Calimocho RTDs!",
+      "start_at": "2026-07-17T16:00:00-07:00",
+      "end_at": "2026-07-17T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2026/07/IMG_5603.jpg"
+    },
+    {
+      "event_id": "70d88f3d061933f0",
+      "location": "Culver City",
+      "title": "Food Pop-Up: Slang Burgers",
+      "description": "Join us at our Culver City location for smash burgers by our friends, Slang Burgers! Come early, they sell fast!",
+      "start_at": "2026-07-17T17:00:00-07:00",
+      "end_at": "2026-07-17T20:30:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2023/11/Screen-Shot-2023-11-28-at-2.36.34-PM.png"
+    },
+    {
+      "event_id": "7d893060c27e97a4",
+      "location": "Culver City",
+      "title": "Free Tasting: Nosotros Tequila  & Mezcal",
+      "description": "Nosotros is a small-batch agave spirits brand that marries the Pura Vida lifestyle of Costa Rica with the rebel spirit of Mexico, blending them under the California sun. Come on in and try this independent brand's award-winning Blanco, Reposado, and Mezcal!",
+      "start_at": "2026-07-18T13:00:00-07:00",
+      "end_at": "2026-07-18T16:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2022/12/Screenshot-2024-08-06-at-6.57.56%E2%80%AFPM.png"
+    },
+    {
       "event_id": "64dc5182f4f2f58b",
       "location": "Culver City",
       "title": "Free Tasting: Lo Siento Tequila",

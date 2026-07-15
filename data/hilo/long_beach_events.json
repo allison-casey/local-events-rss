@@ -901,6 +901,60 @@
       "image_url": "https://hiloliquor.com/wp-content/uploads/2023/11/1C60CEB5-F51A-4D9F-8952-6E19D6EA4721.jpg"
     },
     {
+      "event_id": "944309ba2e0160cd",
+      "location": "Long Beach",
+      "title": "Free Tasting: Madre Mezcal & Tequila",
+      "description": "Madre is an artisanal mezcal, made by hand in the rolling hills of the Oaxacan Sierra. Come by and try their Ensamble, Espadín, and tequila!",
+      "start_at": "2026-07-15T16:00:00-07:00",
+      "end_at": "2026-07-15T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2023/03/IMG_9780.jpg"
+    },
+    {
+      "event_id": "353807048ec88f32",
+      "location": "Long Beach",
+      "title": "Hi-Lo Long Beach: King Trivia",
+      "description": "Join us at our Long Beach location every Wednesday night for trivia! If you're a pop-culture buff, this is the night for you!",
+      "start_at": "2026-07-15T19:00:00-07:00",
+      "end_at": "2026-07-15T21:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2023/10/HiLo-Returning-Post-3-2026-e1770771667892.jpg"
+    },
+    {
+      "event_id": "1b69670761f0ecb8",
+      "location": "Long Beach",
+      "title": "Free Tasting: Scotti's Original Springs Whiskey",
+      "description": "Join us for a complimentary tasting with Scotti's Original Springs Whiskey!",
+      "start_at": "2026-07-17T16:00:00-07:00",
+      "end_at": "2026-07-17T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2026/06/IMG_4770.jpg"
+    },
+    {
+      "event_id": "a5e0e05130c5fb43",
+      "location": "Long Beach",
+      "title": "Free Tasting: Nosotros Tequila & Mezcal",
+      "description": "Nosotros is a small-batch agave spirits brand that marries the Pura Vida lifestyle of Costa Rica with the rebel spirit of Mexico, blending them under the California sun. Come on in and try this independent brand's award-winning Blanco, Reposado, and Mezcal!",
+      "start_at": "2026-07-17T16:00:00-07:00",
+      "end_at": "2026-07-17T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2022/12/Screenshot-2024-08-06-at-6.57.56%E2%80%AFPM.png"
+    },
+    {
+      "event_id": "d12055e6dc50e867",
+      "location": "Long Beach",
+      "title": "Food Pop-Up: WAVE Gourmet Burgers",
+      "description": "WAVE is bringing their legendary smash burgers and crave-worthy truffle fries to the party!",
+      "start_at": "2026-07-17T17:00:00-07:00",
+      "end_at": "2026-07-17T21:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2023/11/1C60CEB5-F51A-4D9F-8952-6E19D6EA4721.jpg"
+    },
+    {
+      "event_id": "6c4573fd299c84db",
+      "location": "Long Beach",
+      "title": "Free Tasting: Little Sun Calimocho RTDs!",
+      "description": "Complimentary tasting with Little Sun Calimocho RTDs!",
+      "start_at": "2026-07-18T13:00:00-07:00",
+      "end_at": "2026-07-18T16:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2026/07/IMG_5603.jpg"
+    },
+    {
       "event_id": "3f2bea3d12f1128c",
       "location": "Long Beach",
       "title": "Free Tasting: Los Sundays Tequila",

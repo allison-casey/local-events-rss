@@ -694,6 +694,24 @@
       "image_url": "https://hiloliquor.com/wp-content/uploads/2024/07/Screenshot-2024-07-08-at-6.26.02%E2%80%AFPM.png"
     },
     {
+      "event_id": "c6bcdf9e1aba1f14",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Golden Eagle Vodka",
+      "description": "Join us for a free tasting of Golden Eagle Vodka!",
+      "start_at": "2026-07-17T16:00:00-07:00",
+      "end_at": "2026-07-17T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2024/05/Screenshot-2024-05-08-at-1.06.49%E2%80%AFPM.png"
+    },
+    {
+      "event_id": "9214bef30c2fdf0f",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Scotti's Original Springs Whiskey",
+      "description": "Come on by to enjoy a Complimentary tasting with Scotti's Original Spring Whiskey!",
+      "start_at": "2026-07-18T16:00:00-07:00",
+      "end_at": "2026-07-18T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2026/06/IMG_4770.jpg"
+    },
+    {
       "event_id": "ca688f14e8fe1bc9",
       "location": "Costa Mesa",
       "title": "Free Tasting Orin Swift",
