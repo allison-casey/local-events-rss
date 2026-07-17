@@ -5,7 +5,18 @@
     <link>feeds/all.xml</link>
     <description>Combined events from all local feed sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Jul 2026 03:16:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 03:19:34 +0000</lastBuildDate>
+    <item>
+      <title>Free Tasting: Los Sundays Tequila</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Jul 23 3:30 PM - 6:30 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;
+&lt;p&gt;Join us for a free tasting with Los Sundays Tequila!&lt;/p&gt;</description>
+      <pubDate>Thu, 23 Jul 2026 15:30:00 -0700</pubDate>
+      <guid isPermaLink="false">3f2bea3d12f1128c</guid>
+      <category>Long Beach</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2023/11/Screen-Shot-2023-11-08-at-3.38.04-PM.png" type="image/png" />
+    </item>
     <item>
       <title>Free Tasting: Scotti's Original Springs Whiskey</title>
       <link>https://hiloliquor.com/locations/#Costa%20Mesa</link>
