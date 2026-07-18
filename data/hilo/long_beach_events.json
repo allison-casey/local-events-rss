@@ -1358,6 +1358,15 @@
       "start_at": "2026-12-27T16:00:00-08:00",
       "end_at": "2026-12-27T19:00:00-08:00",
       "image_url": "https://hiloliquor.com/wp-content/uploads/2024/12/Screenshot-2024-12-27-at-2.49.47%E2%80%AFPM.png"
+    },
+    {
+      "event_id": "98b045598f8d4f1d",
+      "location": "Long Beach",
+      "title": "Free Tasting: Manly Spirits",
+      "description": "Come try a sample of Manly Spirits pink martini or NA pink martini!",
+      "start_at": "2027-01-15T16:00:00-08:00",
+      "end_at": "2027-01-15T19:00:00-08:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2025/01/Screenshot-2025-01-07-at-2.18.28%E2%80%AFPM.png"
     }
   ],
   "location": "Long Beach",
