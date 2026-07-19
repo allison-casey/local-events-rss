@@ -5,7 +5,18 @@
     <link>feeds/all.xml</link>
     <description>Combined events from all local feed sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Jul 2026 02:56:08 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 03:28:53 +0000</lastBuildDate>
+    <item>
+      <title>Free Tasting: Applewood Gin &amp; Unico Zelo Wines</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Jul 25 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Join us for a free tasting with Applewood Gin &amp;amp; Unico Zelo wines.&lt;/p&gt;</description>
+      <pubDate>Sat, 25 Jul 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">c500e5f14c75b927</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2023/12/Screen-Shot-2024-01-15-at-4.21.54-PM.png" type="image/png" />
+    </item>
     <item>
       <title>Free Tasting: Lo Siento Tequila</title>
       <link>https://hiloliquor.com/locations/#Culver%20City</link>
