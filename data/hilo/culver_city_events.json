@@ -919,6 +919,24 @@
       "image_url": "https://hiloliquor.com/wp-content/uploads/2022/12/Screenshot-2024-08-06-at-6.57.56%E2%80%AFPM.png"
     },
     {
+      "event_id": "56909eec6374edea",
+      "location": "Culver City",
+      "title": "Free Tasting: Makugan Rum",
+      "description": "Join us for a complimentary tasting of Makugan Rum!",
+      "start_at": "2026-07-22T16:00:00-07:00",
+      "end_at": "2026-07-22T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2026/07/IMG_5884.jpg"
+    },
+    {
+      "event_id": "e6a191adc1acd47c",
+      "location": "Culver City",
+      "title": "Free Tasting: Madre Mezcal & Tequila",
+      "description": "Madre is an artisanal mezcal, made by hand in the rolling hills of the Oaxacan Sierra. Come by and try their Ensamble, Espadín, and tequila!",
+      "start_at": "2026-07-23T16:00:00-07:00",
+      "end_at": "2026-07-23T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2023/03/IMG_9780.jpg"
+    },
+    {
       "event_id": "64dc5182f4f2f58b",
       "location": "Culver City",
       "title": "Free Tasting: Lo Siento Tequila",
@@ -928,6 +946,15 @@
       "image_url": null
     },
     {
+      "event_id": "c95e9b748a871197",
+      "location": "Culver City",
+      "title": "Food Pop-up: Heaven & Rth Purpose KCHN",
+      "description": "Join us with Heaven & Rth Purpose KCHN! Fresh, clean and functional whole foods! Featuring her delicious tacos!!",
+      "start_at": "2026-07-24T17:00:00-07:00",
+      "end_at": "2026-07-24T20:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2026/07/IMG_5885.jpg"
+    },
+    {
       "event_id": "c500e5f14c75b927",
       "location": "Culver City",
       "title": "Free Tasting: Applewood Gin & Unico Zelo Wines",
@@ -935,6 +962,24 @@
       "start_at": "2026-07-25T16:00:00-07:00",
       "end_at": "2026-07-25T19:00:00-07:00",
       "image_url": "https://hiloliquor.com/wp-content/uploads/2023/12/Screen-Shot-2024-01-15-at-4.21.54-PM.png"
+    },
+    {
+      "event_id": "c8effde5f6cdfd76",
+      "location": "Culver City",
+      "title": "Free Tasting: Craft Spirits Coop",
+      "description": "Join us for a free tasting with Craft Spirits Coop lineup!",
+      "start_at": "2026-07-25T16:00:00-07:00",
+      "end_at": "2026-07-25T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2024/03/IMG_9160.jpg"
+    },
+    {
+      "event_id": "564e85d42b8c9c73",
+      "location": "Culver City",
+      "title": "Food Pop-Up: SoLA PoBoys",
+      "description": "Come on by to enjoy SoLA PoBoys!!",
+      "start_at": "2026-07-25T17:00:00-07:00",
+      "end_at": "2026-07-25T20:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2026/07/IMG_5339.jpg"
     },
     {
       "event_id": "4dab2c7494bc2c27",

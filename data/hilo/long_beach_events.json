@@ -955,6 +955,33 @@
       "image_url": "https://hiloliquor.com/wp-content/uploads/2026/07/IMG_5603.jpg"
     },
     {
+      "event_id": "6dedbd8da48b0b6c",
+      "location": "Long Beach",
+      "title": "Free Tasting: Teddy Tears",
+      "description": "Enjoy a complimentary tasting to Teddy Tears crafted canned cocktails!",
+      "start_at": "2026-07-22T16:00:00-07:00",
+      "end_at": "2026-07-22T19:00:00-07:00",
+      "image_url": null
+    },
+    {
+      "event_id": "edc1e74ff757d0f5",
+      "location": "Long Beach",
+      "title": "Food Pop-Up: Italian Street Bites",
+      "description": "Join us on Wednesday's along with trivia with Italian Street Bites!",
+      "start_at": "2026-07-22T17:00:00-07:00",
+      "end_at": "2026-07-22T20:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2026/06/IMG_4372.jpg"
+    },
+    {
+      "event_id": "41033e940d6a2472",
+      "location": "Long Beach",
+      "title": "Hi-Lo Long Beach: King Trivia",
+      "description": "Join us at our Long Beach location every Wednesday night for trivia! If you're a pop-culture buff, this is the night for you!",
+      "start_at": "2026-07-22T19:00:00-07:00",
+      "end_at": "2026-07-22T21:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2023/10/HiLo-Returning-Post-3-2026-e1770771667892.jpg"
+    },
+    {
       "event_id": "3f2bea3d12f1128c",
       "location": "Long Beach",
       "title": "Free Tasting: Los Sundays Tequila",
@@ -962,6 +989,42 @@
       "start_at": "2026-07-23T15:30:00-07:00",
       "end_at": "2026-07-23T18:30:00-07:00",
       "image_url": "https://hiloliquor.com/wp-content/uploads/2023/11/Screen-Shot-2023-11-08-at-3.38.04-PM.png"
+    },
+    {
+      "event_id": "322b9d8c68e3b69b",
+      "location": "Long Beach",
+      "title": "Free Tasting: Salt Point Canned Cocktails",
+      "description": "Come kick back and raise a can with Salt Point premium canned cocktails!",
+      "start_at": "2026-07-23T16:00:00-07:00",
+      "end_at": "2026-07-23T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2022/06/IMG_0605.jpg"
+    },
+    {
+      "event_id": "1d034ae76d293a3b",
+      "location": "Long Beach",
+      "title": "Free Tasting: Morro Mezcal",
+      "description": "Join us at our Long Beach location for a free tasting with Morro Mezcal.",
+      "start_at": "2026-07-24T16:00:00-07:00",
+      "end_at": "2026-07-24T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2023/10/Screen-Shot-2023-10-19-at-3.28.21-PM-e1699309589640.png"
+    },
+    {
+      "event_id": "0445bada9304624c",
+      "location": "Long Beach",
+      "title": "Free Tasting: Golden Eagle Vodka",
+      "description": "Join us for a free tasting of Golden Eagle Vodka!",
+      "start_at": "2026-07-24T16:00:00-07:00",
+      "end_at": "2026-07-24T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2024/05/Screenshot-2024-05-08-at-1.06.49%E2%80%AFPM.png"
+    },
+    {
+      "event_id": "04e63ace57ad342e",
+      "location": "Long Beach",
+      "title": "Food Pop-Up: WAVE Gourmet Burgers",
+      "description": "WAVE is bringing their legendary smash burgers and crave-worthy truffle fries to the party!",
+      "start_at": "2026-07-24T17:00:00-07:00",
+      "end_at": "2026-07-24T21:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2023/11/1C60CEB5-F51A-4D9F-8952-6E19D6EA4721.jpg"
     },
     {
       "event_id": "4ae4472ff5665c36",

@@ -712,6 +712,33 @@
       "image_url": "https://hiloliquor.com/wp-content/uploads/2026/06/IMG_4770.jpg"
     },
     {
+      "event_id": "fecbbf006c5aa41e",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: BTL SVC",
+      "description": "BTL SVC provides award-winning, hand-crafted, premium cocktails, conveniently served anytime and anywhere.",
+      "start_at": "2026-07-23T16:00:00-07:00",
+      "end_at": "2026-07-23T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2024/01/Screen-Shot-2024-01-22-at-5.52.58-PM.png"
+    },
+    {
+      "event_id": "52668501bb2391e9",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Mario's Hard Espresso",
+      "description": "Join us for a free tasting with Mario's Hard Espresso!",
+      "start_at": "2026-07-25T16:00:00-07:00",
+      "end_at": "2026-07-25T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2024/10/Screenshot-2024-10-24-at-12.09.37%E2%80%AFPM.png"
+    },
+    {
+      "event_id": "466786d5edb236e4",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Little Sun Calimocho RTDs!",
+      "description": "Complimentary tasting with Little Sun Calimocho RTDs!",
+      "start_at": "2026-07-25T16:00:00-07:00",
+      "end_at": "2026-07-25T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2026/07/IMG_5603.jpg"
+    },
+    {
       "event_id": "ca688f14e8fe1bc9",
       "location": "Costa Mesa",
       "title": "Free Tasting Orin Swift",
