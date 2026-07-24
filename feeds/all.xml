@@ -5,7 +5,18 @@
     <link>feeds/all.xml</link>
     <description>Combined events from all local feed sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2026 03:27:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 03:21:38 +0000</lastBuildDate>
+    <item>
+      <title>Free Tasting: Rancho West Organic Beer</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Jul 30 3:30 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;
+&lt;p&gt;Come sample Ranch West Organic Beer! Their a mission to shift the cultural change towards a beer that’s better for you and for the planet.&lt;/p&gt;</description>
+      <pubDate>Thu, 30 Jul 2026 15:30:00 -0700</pubDate>
+      <guid isPermaLink="false">4ae4472ff5665c36</guid>
+      <category>Long Beach</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2024/10/Screenshot-2024-10-24-at-12.03.29%E2%80%AFPM.png" type="image/png" />
+    </item>
     <item>
       <title>Food Pop-Up: SoLA PoBoys</title>
       <link>https://hiloliquor.com/locations/#Culver%20City</link>
