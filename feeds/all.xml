@@ -5,7 +5,29 @@
     <link>feeds/all.xml</link>
     <description>Combined events from all local feed sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Jul 2026 03:19:53 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 03:33:49 +0000</lastBuildDate>
+    <item>
+      <title>Food Pop-Up: Challah Dad</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Aug 1 5:00 PM - 8:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Challah Dad will be selling their famous challah dogs!&lt;/p&gt;</description>
+      <pubDate>Sat, 01 Aug 2026 17:00:00 -0700</pubDate>
+      <guid isPermaLink="false">4dab2c7494bc2c27</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2025/07/Screenshot-2025-07-30-at-5.54.31-PM.png" type="image/png" />
+    </item>
+    <item>
+      <title>Free Tasting: Unico Zelo Wines</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Aug 1 5:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;
+&lt;p&gt;Join us as for a free tasting of some of our favorite natural Aussie wines from Unico Zelo!&lt;/p&gt;</description>
+      <pubDate>Sat, 01 Aug 2026 17:00:00 -0700</pubDate>
+      <guid isPermaLink="false">f18a7565c1f93f1e</guid>
+      <category>Long Beach</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2024/07/Screenshot-2024-07-30-at-11.52.57%E2%80%AFAM.png" type="image/png" />
+    </item>
     <item>
       <title>Free Tasting Orin Swift</title>
       <link>https://hiloliquor.com/locations/#Costa%20Mesa</link>

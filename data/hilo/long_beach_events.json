@@ -1439,6 +1439,15 @@
       "start_at": "2027-01-22T15:30:00-08:00",
       "end_at": "2027-01-22T18:30:00-08:00",
       "image_url": "https://hiloliquor.com/wp-content/uploads/2024/12/Screenshot-2024-12-16-at-7.45.08%E2%80%AFPM.png"
+    },
+    {
+      "event_id": "5e575dd9fd5ced4c",
+      "location": "Long Beach",
+      "title": "Free Tasting: Tost",
+      "description": "Join us for a free tasting with Tost, an NA tea based drink.",
+      "start_at": "2027-01-23T16:00:00-08:00",
+      "end_at": "2027-01-23T19:00:00-08:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2024/02/Screen-Shot-2024-02-26-at-7.22.47-PM.png"
     }
   ],
   "location": "Long Beach",
