@@ -1027,6 +1027,33 @@
       "image_url": "https://hiloliquor.com/wp-content/uploads/2023/11/1C60CEB5-F51A-4D9F-8952-6E19D6EA4721.jpg"
     },
     {
+      "event_id": "b2475d835ef74ae6",
+      "location": "Long Beach",
+      "title": "Free Tasting: January Spirits + Rejon Tequila & Reposado",
+      "description": "Complimentary tasting with January Spirits + Rejon Tequila & Reposado!",
+      "start_at": "2026-07-29T16:00:00-07:00",
+      "end_at": "2026-07-29T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2026/07/IMG_6135.jpg"
+    },
+    {
+      "event_id": "55f60aa27e60b601",
+      "location": "Long Beach",
+      "title": "Food Pop-Up: Italian Street Bites",
+      "description": "Join us on Wednesday's along with trivia with Italian Street Bites!",
+      "start_at": "2026-07-29T17:00:00-07:00",
+      "end_at": "2026-07-29T20:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2026/06/IMG_4372.jpg"
+    },
+    {
+      "event_id": "bf5e23ed506f46d0",
+      "location": "Long Beach",
+      "title": "Hi-Lo Long Beach: King Trivia",
+      "description": "Join us at our Long Beach location every Wednesday night for trivia! If you're a pop-culture buff, this is the night for you!",
+      "start_at": "2026-07-29T19:00:00-07:00",
+      "end_at": "2026-07-29T21:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2023/10/HiLo-Returning-Post-3-2026-e1770771667892.jpg"
+    },
+    {
       "event_id": "4ae4472ff5665c36",
       "location": "Long Beach",
       "title": "Free Tasting: Rancho West Organic Beer",
@@ -1034,6 +1061,24 @@
       "start_at": "2026-07-30T15:30:00-07:00",
       "end_at": "2026-07-30T19:00:00-07:00",
       "image_url": "https://hiloliquor.com/wp-content/uploads/2024/10/Screenshot-2024-10-24-at-12.03.29%E2%80%AFPM.png"
+    },
+    {
+      "event_id": "c9bbc69de21e384f",
+      "location": "Long Beach",
+      "title": "Free Tasting: BTL SVC",
+      "description": "BTL SVC provides award-winning, hand-crafted, premium cocktails, conveniently served anytime and anywhere.",
+      "start_at": "2026-07-30T16:00:00-07:00",
+      "end_at": "2026-07-30T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2024/01/Screen-Shot-2024-01-22-at-5.52.58-PM.png"
+    },
+    {
+      "event_id": "87f1364f57a57c21",
+      "location": "Long Beach",
+      "title": "Food Pop-Up: WAVE Gourmet Burgers",
+      "description": "WAVE is bringing their legendary smash burgers and crave-worthy truffle fries to the party!",
+      "start_at": "2026-07-31T17:00:00-07:00",
+      "end_at": "2026-07-31T21:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2023/11/1C60CEB5-F51A-4D9F-8952-6E19D6EA4721.jpg"
     },
     {
       "event_id": "f18a7565c1f93f1e",
