@@ -1099,6 +1099,24 @@
       "image_url": "https://hiloliquor.com/wp-content/uploads/2023/10/Screen-Shot-2023-10-17-at-4.26.50-PM.png"
     },
     {
+      "event_id": "d05f1e0767d1a290",
+      "location": "Long Beach",
+      "title": "Hi-Lo Long Beach: King Trivia",
+      "description": "Join us at our Long Beach location every Wednesday night for trivia! If you're a pop-culture buff, this is the night for you!",
+      "start_at": "2026-08-05T19:00:00-07:00",
+      "end_at": "2026-08-05T21:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2023/10/HiLo-Returning-Post-3-2026-e1770771667892.jpg"
+    },
+    {
+      "event_id": "e92e2151f5b904c3",
+      "location": "Long Beach",
+      "title": "Free Tasting: Wilbur Wine Coolers",
+      "description": "Join us for a complimentary tasting with Wilbur Wine Coolers!",
+      "start_at": "2026-08-07T16:00:00-07:00",
+      "end_at": "2026-08-07T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2026/08/IMG_6356.jpg"
+    },
+    {
       "event_id": "19bd019aa002b4b2",
       "location": "Long Beach",
       "title": "Food Pop-up: No Bad Days Deli",
@@ -1106,6 +1124,15 @@
       "start_at": "2026-08-07T17:00:00-07:00",
       "end_at": "2026-08-07T20:00:00-07:00",
       "image_url": "https://hiloliquor.com/wp-content/uploads/2023/12/Screen-Shot-2024-01-15-at-4.21.54-PM.png"
+    },
+    {
+      "event_id": "98352eacff9aed64",
+      "location": "Long Beach",
+      "title": "Food Pop-Up: WAVE Gourmet Burgers",
+      "description": "WAVE is bringing their legendary smash burgers and crave-worthy truffle fries to the party!",
+      "start_at": "2026-08-07T17:00:00-07:00",
+      "end_at": "2026-08-07T21:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2023/11/1C60CEB5-F51A-4D9F-8952-6E19D6EA4721.jpg"
     },
     {
       "event_id": "efab6760dd02960a",

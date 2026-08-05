@@ -5,7 +5,7 @@
     <link>feeds/all.xml</link>
     <description>Combined events from all local feed sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Aug 2026 03:17:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 03:12:18 +0000</lastBuildDate>
     <item>
       <title>Free Tasting: Agua Mágica</title>
       <link>https://hiloliquor.com/locations/#Long%20Beach</link>
@@ -18,6 +18,38 @@
       <enclosure url="https://hiloliquor.com/wp-content/uploads/2024/05/Screenshot-2024-05-15-at-3.33.00%E2%80%AFPM.png" type="image/png" />
     </item>
     <item>
+      <title>Food Pop-Up: Little Dynamite Pizza</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Aug 8 5:00 PM - 9:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Serving up pizza sliced by Little Dynamite! Inquire at The Counter~&lt;/p&gt;</description>
+      <pubDate>Sat, 08 Aug 2026 17:00:00 -0700</pubDate>
+      <guid isPermaLink="false">578e6c3abacdaa82</guid>
+      <category>Culver City</category>
+    </item>
+    <item>
+      <title>Free Tasting: Slowdays Gin</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Aug 8 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Join us for a complimentary tasting with Slowdays Gin! Local goodness!&lt;/p&gt;</description>
+      <pubDate>Sat, 08 Aug 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">f43752b405b31225</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2024/07/Screenshot-2024-07-15-at-3.15.53%E2%80%AFPM.png" type="image/png" />
+    </item>
+    <item>
+      <title>Food Pop-Up: Calamaki Greek Food</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Aug 7 5:00 PM - 8:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Pop by to enjoy delicious Greek Food by Calamaki!&lt;/p&gt;</description>
+      <pubDate>Fri, 07 Aug 2026 17:00:00 -0700</pubDate>
+      <guid isPermaLink="false">0deb8177852980af</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2026/08/IMG_6355.jpg" type="image/jpeg" />
+    </item>
+    <item>
       <title>Food Pop-up: No Bad Days Deli</title>
       <link>https://hiloliquor.com/locations/#Long%20Beach</link>
       <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Aug 7 5:00 PM - 8:00 PM&lt;/p&gt;
@@ -27,6 +59,61 @@
       <guid isPermaLink="false">19bd019aa002b4b2</guid>
       <category>Long Beach</category>
       <enclosure url="https://hiloliquor.com/wp-content/uploads/2023/12/Screen-Shot-2024-01-15-at-4.21.54-PM.png" type="image/png" />
+    </item>
+    <item>
+      <title>Food Pop-Up: WAVE Gourmet Burgers</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Aug 7 5:00 PM - 9:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;
+&lt;p&gt;WAVE is bringing their legendary smash burgers and crave-worthy truffle fries to the party!&lt;/p&gt;</description>
+      <pubDate>Fri, 07 Aug 2026 17:00:00 -0700</pubDate>
+      <guid isPermaLink="false">98352eacff9aed64</guid>
+      <category>Long Beach</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2023/11/1C60CEB5-F51A-4D9F-8952-6E19D6EA4721.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Free Tasting: Sake High</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Aug 7 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Sake High! is premium junmai sake brewed in Kyoto, Japan using classic techniques and local ingredients. Come by and try the refreshing sake, which comes in single cans and bottles.&lt;/p&gt;</description>
+      <pubDate>Fri, 07 Aug 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">d65efa2db295d217</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2023/03/Screen-Shot-2024-01-23-at-3.30.35-PM.png" type="image/png" />
+    </item>
+    <item>
+      <title>Free Tasting: Wilbur Wine Coolers</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Aug 7 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;
+&lt;p&gt;Join us for a complimentary tasting with Wilbur Wine Coolers!&lt;/p&gt;</description>
+      <pubDate>Fri, 07 Aug 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">e92e2151f5b904c3</guid>
+      <category>Long Beach</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2026/08/IMG_6356.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Free Tasting: Golden Eagle Vodka</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Aug 6 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Join us for a free tasting of Golden Eagle Vodka!&lt;/p&gt;</description>
+      <pubDate>Thu, 06 Aug 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">ab732bad4649f4ef</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2024/05/Screenshot-2024-05-08-at-1.06.49%E2%80%AFPM.png" type="image/png" />
+    </item>
+    <item>
+      <title>Hi-Lo Long Beach: King Trivia</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Aug 5 7:00 PM - 9:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;
+&lt;p&gt;Join us at our Long Beach location every Wednesday night for trivia! If you&amp;#x27;re a pop-culture buff, this is the night for you!&lt;/p&gt;</description>
+      <pubDate>Wed, 05 Aug 2026 19:00:00 -0700</pubDate>
+      <guid isPermaLink="false">d05f1e0767d1a290</guid>
+      <category>Long Beach</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2023/10/HiLo-Returning-Post-3-2026-e1770771667892.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Food Pop-Up: Tacos Tekila</title>

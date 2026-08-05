@@ -1027,6 +1027,51 @@
       "image_url": "https://hiloliquor.com/wp-content/uploads/2025/07/Screenshot-2025-07-30-at-5.54.31-PM.png"
     },
     {
+      "event_id": "ab732bad4649f4ef",
+      "location": "Culver City",
+      "title": "Free Tasting: Golden Eagle Vodka",
+      "description": "Join us for a free tasting of Golden Eagle Vodka!",
+      "start_at": "2026-08-06T16:00:00-07:00",
+      "end_at": "2026-08-06T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2024/05/Screenshot-2024-05-08-at-1.06.49%E2%80%AFPM.png"
+    },
+    {
+      "event_id": "d65efa2db295d217",
+      "location": "Culver City",
+      "title": "Free Tasting: Sake High",
+      "description": "Sake High! is premium junmai sake brewed in Kyoto, Japan using classic techniques and local ingredients. Come by and try the refreshing sake, which comes in single cans and bottles.",
+      "start_at": "2026-08-07T16:00:00-07:00",
+      "end_at": "2026-08-07T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2023/03/Screen-Shot-2024-01-23-at-3.30.35-PM.png"
+    },
+    {
+      "event_id": "0deb8177852980af",
+      "location": "Culver City",
+      "title": "Food Pop-Up: Calamaki Greek Food",
+      "description": "Pop by to enjoy delicious Greek Food by Calamaki!",
+      "start_at": "2026-08-07T17:00:00-07:00",
+      "end_at": "2026-08-07T20:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2026/08/IMG_6355.jpg"
+    },
+    {
+      "event_id": "f43752b405b31225",
+      "location": "Culver City",
+      "title": "Free Tasting: Slowdays Gin",
+      "description": "Join us for a complimentary tasting with Slowdays Gin! Local goodness!",
+      "start_at": "2026-08-08T16:00:00-07:00",
+      "end_at": "2026-08-08T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2024/07/Screenshot-2024-07-15-at-3.15.53%E2%80%AFPM.png"
+    },
+    {
+      "event_id": "578e6c3abacdaa82",
+      "location": "Culver City",
+      "title": "Food Pop-Up: Little Dynamite Pizza",
+      "description": "Serving up pizza sliced by Little Dynamite! Inquire at The Counter~",
+      "start_at": "2026-08-08T17:00:00-07:00",
+      "end_at": "2026-08-08T21:00:00-07:00",
+      "image_url": null
+    },
+    {
       "event_id": "e66b6d1c464e6707",
       "location": "Culver City",
       "title": "Free Tasting: Beverly High Rye",
@@ -1043,6 +1088,15 @@
       "start_at": "2026-08-15T17:00:00-07:00",
       "end_at": "2026-08-15T21:00:00-07:00",
       "image_url": "https://hiloliquor.com/wp-content/uploads/2025/08/IMG_8341.jpg"
+    },
+    {
+      "event_id": "d7620c1e26ca8aa4",
+      "location": "Culver City",
+      "title": "Free Tasting: Golden Rule Canned Cocktails",
+      "description": "Join us at our Culver City location for a free tasting with Golden Rule Spirits canned cocktails!",
+      "start_at": "2026-08-16T13:00:00-07:00",
+      "end_at": "2026-08-16T16:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2023/11/Screen-Shot-2023-11-06-at-4.25.40-PM.png"
     },
     {
       "event_id": "f76c143114c2ac57",
