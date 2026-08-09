@@ -1385,6 +1385,15 @@
       "start_at": "2027-02-05T16:00:00-08:00",
       "end_at": "2027-02-05T19:00:00-08:00",
       "image_url": "https://hiloliquor.com/wp-content/uploads/2025/11/IMG_0282.jpg"
+    },
+    {
+      "event_id": "bb4b73701b9129fd",
+      "location": "Culver City",
+      "title": "Free Tasting: Ford's Gin & Negronis",
+      "description": "Join us for a free tasting with Ford's Gin, \"The Cocktail Gin.\"  Complimentary samples of Ford's Gin negronis will also be on offer!",
+      "start_at": "2027-02-06T15:00:00-08:00",
+      "end_at": "2027-02-06T18:00:00-08:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2026/02/Fords-Gin.png"
     }
   ],
   "location": "Culver City",
