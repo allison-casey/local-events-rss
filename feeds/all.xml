@@ -5,7 +5,7 @@
     <link>feeds/all.xml</link>
     <description>Combined events from all local feed sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Aug 2026 02:25:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 02:27:09 +0000</lastBuildDate>
     <item>
       <title>Free Tasting: Golden Rule Spirits</title>
       <link>https://hiloliquor.com/locations/#Culver%20City</link>
@@ -51,6 +51,39 @@
       <enclosure url="https://hiloliquor.com/wp-content/uploads/2023/10/Screen-Shot-2023-10-16-at-6.56.52-PM.png" type="image/png" />
     </item>
     <item>
+      <title>Free Tasting: Via Carota Cocktails</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Aug 15 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;
+&lt;p&gt;Join us for a Free Tasting with Via Carota Craft Cocktails!&lt;/p&gt;</description>
+      <pubDate>Sat, 15 Aug 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">1860a511ad0ba3d5</guid>
+      <category>Long Beach</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2025/09/IMG_9074.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Food Pop-Up: Little Dynamite Pizza</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Aug 14 5:00 PM - 9:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Serving up pizza sliced by Little Dynamite! Inquire at The Counter~&lt;/p&gt;</description>
+      <pubDate>Fri, 14 Aug 2026 17:00:00 -0700</pubDate>
+      <guid isPermaLink="false">8127c21f0ed9e976</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2026/08/IMG_6530.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Food Pop-Up: WAVE Gourmet Burgers</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Aug 14 5:00 PM - 9:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;
+&lt;p&gt;WAVE is bringing their legendary smash burgers and crave-worthy truffle fries to the party!&lt;/p&gt;</description>
+      <pubDate>Fri, 14 Aug 2026 17:00:00 -0700</pubDate>
+      <guid isPermaLink="false">5e876fe9b63b170f</guid>
+      <category>Long Beach</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2023/11/1C60CEB5-F51A-4D9F-8952-6E19D6EA4721.jpg" type="image/jpeg" />
+    </item>
+    <item>
       <title>Free Tasting: Beverly High Rye</title>
       <link>https://hiloliquor.com/locations/#Culver%20City</link>
       <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Aug 14 4:00 PM - 7:00 PM&lt;/p&gt;
@@ -60,6 +93,17 @@
       <guid isPermaLink="false">e66b6d1c464e6707</guid>
       <category>Culver City</category>
       <enclosure url="https://hiloliquor.com/wp-content/uploads/2024/06/Screenshot-2024-06-10-at-3.58.38%E2%80%AFPM.png" type="image/png" />
+    </item>
+    <item>
+      <title>Free Tasting: Yuzy Margaritas</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Aug 14 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Join us for a free tasting with Yuzy margaritas!&lt;/p&gt;</description>
+      <pubDate>Fri, 14 Aug 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">8571be656d3b6959</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2024/06/Screenshot-2024-06-18-at-1.22.02%E2%80%AFPM.png" type="image/png" />
     </item>
     <item>
       <title>Free Tasting: Duvel Beer</title>
@@ -82,6 +126,72 @@
       <guid isPermaLink="false">21691a8fda3e3d1c</guid>
       <category>Long Beach</category>
       <enclosure url="https://hiloliquor.com/wp-content/uploads/2024/06/Screenshot-2024-06-10-at-3.58.38%E2%80%AFPM.png" type="image/png" />
+    </item>
+    <item>
+      <title>Food Pop Up: Victory Shawarma</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Aug 13 5:00 PM - 8:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Come on by to enjoy delicious halal by Victory Shawarma!&lt;/p&gt;</description>
+      <pubDate>Thu, 13 Aug 2026 17:00:00 -0700</pubDate>
+      <guid isPermaLink="false">53aa375431eafdfe</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2026/08/IMG_6533.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Free Tasting: Amante 1530</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Aug 13 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Hailing from the historic Il Palagio 1530 estate in Tuscany, this latest innovation in amaro offers a new take on an old classic; combining aromas of Italian citrus, ginger and honeysuckle to help you enjoy a unique bittersweet taste and a thoroughly delicious afternoon.&lt;/p&gt;</description>
+      <pubDate>Thu, 13 Aug 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">29b32231f39a07a7</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2024/02/Screen-Shot-2024-02-05-at-7.14.05-PM.png" type="image/png" />
+    </item>
+    <item>
+      <title>Free Tasting: Otherwise Gluten Free Beer</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Aug 13 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;
+&lt;p&gt;Join to try a complimentary tasting of the newest Gluten Free beer from Otherwise brewing!&lt;/p&gt;</description>
+      <pubDate>Thu, 13 Aug 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">2ba55ffc27d6777d</guid>
+      <category>Long Beach</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2026/08/IMG_7600-scaled.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Free Tasting: Yebiga Rakija</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Aug 13 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;
+&lt;p&gt;Come sample this unique and delicious Serbian Plum Brandy.  Yebiga Rakija is an exceptional , handcrafted and 100% natural Sljivovica, a fruit brandy from central central Serbia.&lt;/p&gt;</description>
+      <pubDate>Thu, 13 Aug 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">7a0d6026a4c10c6a</guid>
+      <category>Long Beach</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2025/03/Screenshot-2025-03-03-at-9.36.26%E2%80%AFPM.png" type="image/png" />
+    </item>
+    <item>
+      <title>Hi-Lo Long Beach: King Trivia</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Aug 12 7:00 PM - 9:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;
+&lt;p&gt;Join us at our Long Beach location every Wednesday night for trivia! If you&amp;#x27;re a pop-culture buff, this is the night for you!&lt;/p&gt;</description>
+      <pubDate>Wed, 12 Aug 2026 19:00:00 -0700</pubDate>
+      <guid isPermaLink="false">78c4c4556dddcb42</guid>
+      <category>Long Beach</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2023/10/HiLo-Returning-Post-3-2026-e1770771667892.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Free Tasting: Jeppson's Malort</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Aug 12 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Join us for a complimentary tasting of Jeppson&amp;#x27;s Malort!&lt;/p&gt;</description>
+      <pubDate>Wed, 12 Aug 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">f005e3518612430a</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2026/08/IMG_6532.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Free Tasting: Agua Mágica</title>
@@ -1629,6 +1739,17 @@ Free tastings with:
       <guid isPermaLink="false">17b19ebd92e1e3a1</guid>
       <category>Long Beach</category>
       <enclosure url="https://hiloliquor.com/wp-content/uploads/2022/08/Screenshot-2026-02-06-at-2.46.30-PM.png" type="image/png" />
+    </item>
+    <item>
+      <title>Free Tasting: Ovo Vodka + Dead of Night + Echo Mtn.</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; May 22 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;
+&lt;p&gt;Join for a complimentary tasting with this lineup of awesome spirits! Ovo Vodka + Dead of Night + Echo Mtn.&lt;/p&gt;</description>
+      <pubDate>Fri, 22 May 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">9a8a24f725a96b02</guid>
+      <category>Long Beach</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2025/11/Ovo-Vodka.png" type="image/png" />
     </item>
     <item>
       <title>Free Tasting: Pinhook Bourbon &amp; Rye</title>

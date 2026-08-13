@@ -595,6 +595,15 @@
       "image_url": "https://hiloliquor.com/wp-content/uploads/2022/08/Screenshot-2026-02-06-at-2.46.30-PM.png"
     },
     {
+      "event_id": "9a8a24f725a96b02",
+      "location": "Long Beach",
+      "title": "Free Tasting: Ovo Vodka + Dead of Night + Echo Mtn.",
+      "description": "Join for a complimentary tasting with this lineup of awesome spirits! Ovo Vodka + Dead of Night + Echo Mtn.",
+      "start_at": "2026-05-22T16:00:00-07:00",
+      "end_at": "2026-05-22T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2025/11/Ovo-Vodka.png"
+    },
+    {
       "event_id": "e960f9101ecc1d01",
       "location": "Long Beach",
       "title": "Food Pop-Up: WAVE Gourmet Burgers",
@@ -1144,6 +1153,33 @@
       "image_url": "https://hiloliquor.com/wp-content/uploads/2024/05/Screenshot-2024-05-15-at-3.33.00%E2%80%AFPM.png"
     },
     {
+      "event_id": "78c4c4556dddcb42",
+      "location": "Long Beach",
+      "title": "Hi-Lo Long Beach: King Trivia",
+      "description": "Join us at our Long Beach location every Wednesday night for trivia! If you're a pop-culture buff, this is the night for you!",
+      "start_at": "2026-08-12T19:00:00-07:00",
+      "end_at": "2026-08-12T21:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2023/10/HiLo-Returning-Post-3-2026-e1770771667892.jpg"
+    },
+    {
+      "event_id": "2ba55ffc27d6777d",
+      "location": "Long Beach",
+      "title": "Free Tasting: Otherwise Gluten Free Beer",
+      "description": "Join to try a complimentary tasting of the newest Gluten Free beer from Otherwise brewing!",
+      "start_at": "2026-08-13T16:00:00-07:00",
+      "end_at": "2026-08-13T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2026/08/IMG_7600-scaled.jpg"
+    },
+    {
+      "event_id": "7a0d6026a4c10c6a",
+      "location": "Long Beach",
+      "title": "Free Tasting: Yebiga Rakija",
+      "description": "Come sample this unique and delicious Serbian Plum Brandy.  Yebiga Rakija is an exceptional , handcrafted and 100% natural Sljivovica, a fruit brandy from central central Serbia.",
+      "start_at": "2026-08-13T16:00:00-07:00",
+      "end_at": "2026-08-13T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2025/03/Screenshot-2025-03-03-at-9.36.26%E2%80%AFPM.png"
+    },
+    {
       "event_id": "7d35f17849fac65b",
       "location": "Long Beach",
       "title": "Free Tasting: Duvel Beer",
@@ -1160,6 +1196,24 @@
       "start_at": "2026-08-14T16:00:00-07:00",
       "end_at": "2026-08-14T19:00:00-07:00",
       "image_url": "https://hiloliquor.com/wp-content/uploads/2024/06/Screenshot-2024-06-10-at-3.58.38%E2%80%AFPM.png"
+    },
+    {
+      "event_id": "5e876fe9b63b170f",
+      "location": "Long Beach",
+      "title": "Food Pop-Up: WAVE Gourmet Burgers",
+      "description": "WAVE is bringing their legendary smash burgers and crave-worthy truffle fries to the party!",
+      "start_at": "2026-08-14T17:00:00-07:00",
+      "end_at": "2026-08-14T21:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2023/11/1C60CEB5-F51A-4D9F-8952-6E19D6EA4721.jpg"
+    },
+    {
+      "event_id": "1860a511ad0ba3d5",
+      "location": "Long Beach",
+      "title": "Free Tasting: Via Carota Cocktails",
+      "description": "Join us for a Free Tasting with Via Carota Craft Cocktails!",
+      "start_at": "2026-08-15T16:00:00-07:00",
+      "end_at": "2026-08-15T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2025/09/IMG_9074.jpg"
     },
     {
       "event_id": "1eae63bec0011c08",

@@ -1072,6 +1072,33 @@
       "image_url": null
     },
     {
+      "event_id": "f005e3518612430a",
+      "location": "Culver City",
+      "title": "Free Tasting: Jeppson's Malort",
+      "description": "Join us for a complimentary tasting of Jeppson's Malort!",
+      "start_at": "2026-08-12T16:00:00-07:00",
+      "end_at": "2026-08-12T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2026/08/IMG_6532.jpg"
+    },
+    {
+      "event_id": "29b32231f39a07a7",
+      "location": "Culver City",
+      "title": "Free Tasting: Amante 1530",
+      "description": "Hailing from the historic Il Palagio 1530 estate in Tuscany, this latest innovation in amaro offers a new take on an old classic; combining aromas of Italian citrus, ginger and honeysuckle to help you enjoy a unique bittersweet taste and a thoroughly delicious afternoon.",
+      "start_at": "2026-08-13T16:00:00-07:00",
+      "end_at": "2026-08-13T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2024/02/Screen-Shot-2024-02-05-at-7.14.05-PM.png"
+    },
+    {
+      "event_id": "53aa375431eafdfe",
+      "location": "Culver City",
+      "title": "Food Pop Up: Victory Shawarma",
+      "description": "Come on by to enjoy delicious halal by Victory Shawarma!",
+      "start_at": "2026-08-13T17:00:00-07:00",
+      "end_at": "2026-08-13T20:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2026/08/IMG_6533.jpg"
+    },
+    {
       "event_id": "e66b6d1c464e6707",
       "location": "Culver City",
       "title": "Free Tasting: Beverly High Rye",
@@ -1079,6 +1106,24 @@
       "start_at": "2026-08-14T16:00:00-07:00",
       "end_at": "2026-08-14T19:00:00-07:00",
       "image_url": "https://hiloliquor.com/wp-content/uploads/2024/06/Screenshot-2024-06-10-at-3.58.38%E2%80%AFPM.png"
+    },
+    {
+      "event_id": "8571be656d3b6959",
+      "location": "Culver City",
+      "title": "Free Tasting: Yuzy Margaritas",
+      "description": "Join us for a free tasting with Yuzy margaritas!",
+      "start_at": "2026-08-14T16:00:00-07:00",
+      "end_at": "2026-08-14T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2024/06/Screenshot-2024-06-18-at-1.22.02%E2%80%AFPM.png"
+    },
+    {
+      "event_id": "8127c21f0ed9e976",
+      "location": "Culver City",
+      "title": "Food Pop-Up: Little Dynamite Pizza",
+      "description": "Serving up pizza sliced by Little Dynamite! Inquire at The Counter~",
+      "start_at": "2026-08-14T17:00:00-07:00",
+      "end_at": "2026-08-14T21:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2026/08/IMG_6530.jpg"
     },
     {
       "event_id": "724a0a5e8c003e68",

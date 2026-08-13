@@ -5,7 +5,7 @@
     <link>https://hiloliquor.com/locations/#Culver%20City</link>
     <description>Upcoming tastings, pop-ups, and events at Hi-Lo Liquor Market (Culver City).</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Aug 2026 19:25:48 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 19:27:09 -0700</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>Free Tasting: Golden Rule Spirits</title>
@@ -41,6 +41,17 @@
       <enclosure url="https://hiloliquor.com/wp-content/uploads/2025/08/IMG_8341.jpg" type="image/jpeg" />
     </item>
     <item>
+      <title>Food Pop-Up: Little Dynamite Pizza</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Aug 14 5:00 PM - 9:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Serving up pizza sliced by Little Dynamite! Inquire at The Counter~&lt;/p&gt;</description>
+      <pubDate>Fri, 14 Aug 2026 17:00:00 -0700</pubDate>
+      <guid isPermaLink="false">8127c21f0ed9e976</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2026/08/IMG_6530.jpg" type="image/jpeg" />
+    </item>
+    <item>
       <title>Free Tasting: Beverly High Rye</title>
       <link>https://hiloliquor.com/locations/#Culver%20City</link>
       <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Aug 14 4:00 PM - 7:00 PM&lt;/p&gt;
@@ -50,6 +61,50 @@
       <guid isPermaLink="false">e66b6d1c464e6707</guid>
       <category>Culver City</category>
       <enclosure url="https://hiloliquor.com/wp-content/uploads/2024/06/Screenshot-2024-06-10-at-3.58.38%E2%80%AFPM.png" type="image/png" />
+    </item>
+    <item>
+      <title>Free Tasting: Yuzy Margaritas</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Aug 14 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Join us for a free tasting with Yuzy margaritas!&lt;/p&gt;</description>
+      <pubDate>Fri, 14 Aug 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">8571be656d3b6959</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2024/06/Screenshot-2024-06-18-at-1.22.02%E2%80%AFPM.png" type="image/png" />
+    </item>
+    <item>
+      <title>Food Pop Up: Victory Shawarma</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Aug 13 5:00 PM - 8:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Come on by to enjoy delicious halal by Victory Shawarma!&lt;/p&gt;</description>
+      <pubDate>Thu, 13 Aug 2026 17:00:00 -0700</pubDate>
+      <guid isPermaLink="false">53aa375431eafdfe</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2026/08/IMG_6533.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Free Tasting: Amante 1530</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Aug 13 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Hailing from the historic Il Palagio 1530 estate in Tuscany, this latest innovation in amaro offers a new take on an old classic; combining aromas of Italian citrus, ginger and honeysuckle to help you enjoy a unique bittersweet taste and a thoroughly delicious afternoon.&lt;/p&gt;</description>
+      <pubDate>Thu, 13 Aug 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">29b32231f39a07a7</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2024/02/Screen-Shot-2024-02-05-at-7.14.05-PM.png" type="image/png" />
+    </item>
+    <item>
+      <title>Free Tasting: Jeppson's Malort</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Aug 12 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Join us for a complimentary tasting of Jeppson&amp;#x27;s Malort!&lt;/p&gt;</description>
+      <pubDate>Wed, 12 Aug 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">f005e3518612430a</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2026/08/IMG_6532.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Food Pop-Up: Little Dynamite Pizza</title>
