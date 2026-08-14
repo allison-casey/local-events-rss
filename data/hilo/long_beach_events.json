@@ -1601,6 +1601,15 @@
       "start_at": "2027-01-30T16:00:00-08:00",
       "end_at": "2027-01-30T19:00:00-08:00",
       "image_url": "https://hiloliquor.com/wp-content/uploads/2026/01/MadeWest.png"
+    },
+    {
+      "event_id": "e187fd11d8447f8e",
+      "location": "Long Beach",
+      "title": "Free Tasting: Mas Vino x Wonderwerk Wines",
+      "description": "With Valentine's Day right around the corner, come enjoy a free tasting of fun wines from Wonderwerk & Mas Vino: Chismosa & Como La Flor.  Get in the mood for love with these inventive wines!",
+      "start_at": "2027-02-11T15:30:00-08:00",
+      "end_at": "2027-02-11T18:30:00-08:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2026/02/Como-La-Flor.png"
     }
   ],
   "location": "Long Beach",
