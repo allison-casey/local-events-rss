@@ -5,7 +5,29 @@
     <link>feeds/all.xml</link>
     <description>Combined events from all local feed sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Aug 2026 02:25:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 01:36:44 +0000</lastBuildDate>
+    <item>
+      <title>Free Tasting: Wolves Whiskey</title>
+      <link>https://hiloliquor.com/locations/#Costa%20Mesa</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Aug 21 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Costa Mesa&lt;/p&gt;
+&lt;p&gt;Join us for a free tasting with Wolves Whiskey! California&amp;#x27;s first luxury whiskey brand.&lt;/p&gt;</description>
+      <pubDate>Fri, 21 Aug 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">a4c67529c2e07dc7</guid>
+      <category>Costa Mesa</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2025/01/Screenshot-2025-01-20-at-5.37.30%E2%80%AFPM.png" type="image/png" />
+    </item>
+    <item>
+      <title>Free Tasting: Anytime Spritz + Farmhouse Organic Spirits</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Aug 21 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;
+&lt;p&gt;Anytime Spritz makes organic and regenerative spirits &amp;amp; cocktails. Crafted by queer women, powered by farmers and the first climate negative distillery.&lt;/p&gt;</description>
+      <pubDate>Fri, 21 Aug 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">cbac5c38eae4b868</guid>
+      <category>Long Beach</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2025/04/Screenshot-2025-04-29-at-1.09.57%E2%80%AFPM.png" type="image/png" />
+    </item>
     <item>
       <title>Free Tasting: Terah Wines</title>
       <link>https://hiloliquor.com/locations/#Culver%20City</link>
