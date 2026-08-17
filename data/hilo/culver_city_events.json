@@ -1439,6 +1439,15 @@
       "start_at": "2027-02-06T15:00:00-08:00",
       "end_at": "2027-02-06T18:00:00-08:00",
       "image_url": "https://hiloliquor.com/wp-content/uploads/2026/02/Fords-Gin.png"
+    },
+    {
+      "event_id": "6432cbe5fb0820be",
+      "location": "Culver City",
+      "title": "Free Tasting: Mas Vino x Wonderwerk Wines",
+      "description": "Get in the mood for love with a free tasting of fun wines from Wonderwerk & Mas Vino: Chismosa & Como La Flor!",
+      "start_at": "2027-02-14T13:00:00-08:00",
+      "end_at": "2027-02-14T16:00:00-08:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2026/02/Como-La-Flor.png"
     }
   ],
   "location": "Culver City",

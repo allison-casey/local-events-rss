@@ -5,7 +5,29 @@
     <link>feeds/all.xml</link>
     <description>Combined events from all local feed sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Aug 2026 01:43:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 01:41:23 +0000</lastBuildDate>
+    <item>
+      <title>Free Tasting: Simple Shots</title>
+      <link>https://hiloliquor.com/locations/#Costa%20Mesa</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Aug 23 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Costa Mesa&lt;/p&gt;
+&lt;p&gt;Come sample the spirit based juice shot. Simple ingredients, all natural, made with real fruit.&lt;/p&gt;</description>
+      <pubDate>Sun, 23 Aug 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">533c2b9ed86ab280</guid>
+      <category>Costa Mesa</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2024/05/Screenshot-2024-05-15-at-3.45.58%E2%80%AFPM.png" type="image/png" />
+    </item>
+    <item>
+      <title>Free Tasting: Wolves Whiskey</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Aug 23 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Join us for a free tasting with Wolves Whiskey! California&amp;#x27;s first luxury whiskey brand.&lt;/p&gt;</description>
+      <pubDate>Sun, 23 Aug 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">060f4daab6719b1f</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2025/01/Screenshot-2025-01-20-at-5.37.30%E2%80%AFPM.png" type="image/png" />
+    </item>
     <item>
       <title>Food Pop-Up: Wave Gourmet Burger</title>
       <link>https://hiloliquor.com/locations/#Long%20Beach</link>
