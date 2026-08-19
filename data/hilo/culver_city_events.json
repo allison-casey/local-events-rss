@@ -1162,6 +1162,42 @@
       "image_url": "https://hiloliquor.com/wp-content/uploads/2025/07/Screenshot-2025-07-30-at-5.27.02-PM.png"
     },
     {
+      "event_id": "a8d26c308e8d07c2",
+      "location": "Culver City",
+      "title": "Free Tasting: Abre Ojos Tequila",
+      "description": "Join us for a free tasting of Abre Ojos tequila!",
+      "start_at": "2026-08-20T16:00:00-07:00",
+      "end_at": "2026-08-20T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2026/03/Abre-Ojos.png"
+    },
+    {
+      "event_id": "3409f99ef5db3287",
+      "location": "Culver City",
+      "title": "Free Tasting: Ovo Vodka + Dead of Night + Echo Mtn.",
+      "description": "Join for a complimentary tasting with this lineup of awesome spirits! Ovo Vodka + Dead of Night + Echo Mtn.",
+      "start_at": "2026-08-21T16:00:00-07:00",
+      "end_at": "2026-08-21T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2025/11/Ovo-Vodka.png"
+    },
+    {
+      "event_id": "0e20b765cea1cf54",
+      "location": "Culver City",
+      "title": "Food Pop-Up: Little Dynamite Pizza",
+      "description": "Serving up pizza sliced by Little Dynamite! Inquire at The Counter~",
+      "start_at": "2026-08-21T17:00:00-07:00",
+      "end_at": "2026-08-21T21:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2026/08/IMG_6530.jpg"
+    },
+    {
+      "event_id": "7abac4a3e23d1687",
+      "location": "Culver City",
+      "title": "Free Tasting: Via Carota Cocktails",
+      "description": "Join us for a Free Tasting with Via Carota Craft Cocktails!",
+      "start_at": "2026-08-22T13:00:00-07:00",
+      "end_at": "2026-08-22T16:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2025/09/IMG_9074.jpg"
+    },
+    {
       "event_id": "060f4daab6719b1f",
       "location": "Culver City",
       "title": "Free Tasting: Wolves Whiskey",
@@ -1169,6 +1205,24 @@
       "start_at": "2026-08-23T16:00:00-07:00",
       "end_at": "2026-08-23T19:00:00-07:00",
       "image_url": "https://hiloliquor.com/wp-content/uploads/2025/01/Screenshot-2025-01-20-at-5.37.30%E2%80%AFPM.png"
+    },
+    {
+      "event_id": "d56f93eda4b0b93b",
+      "location": "Culver City",
+      "title": "Free Tasting: Tesoro Azul and Harmony Gin",
+      "description": "Join us for a complimentary tasting with Tesoro Azul and Harmony Gin!",
+      "start_at": "2026-08-23T16:00:00-07:00",
+      "end_at": "2026-08-23T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2026/08/harmony-gin-Google-Search.png"
+    },
+    {
+      "event_id": "171af93ce0642a1b",
+      "location": "Culver City",
+      "title": "Food Pop-up: AGL's Craft Meats",
+      "description": "Pop on by to enjoy some BBQ by Agl's craft meats!",
+      "start_at": "2026-08-23T17:00:00-07:00",
+      "end_at": "2026-08-23T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2026/08/IMG_6635.jpg"
     },
     {
       "event_id": "9731656e540e8c0b",

@@ -1225,6 +1225,51 @@
       "image_url": "https://hiloliquor.com/wp-content/uploads/2023/10/Screen-Shot-2023-10-16-at-6.56.52-PM.png"
     },
     {
+      "event_id": "b522db99b5e0a86d",
+      "location": "Long Beach",
+      "title": "Free Tasting: Zumbador Tequila",
+      "description": "Join us for a complimentary tasting of Zumbador Tequila!",
+      "start_at": "2026-08-19T16:00:00-07:00",
+      "end_at": "2026-08-19T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2026/08/IMG_9931-scaled.jpeg"
+    },
+    {
+      "event_id": "4fe691f4cf9e7316",
+      "location": "Long Beach",
+      "title": "Hi-Lo Long Beach: King Trivia",
+      "description": "Join us at our Long Beach location every Wednesday night for trivia! If you're a pop-culture buff, this is the night for you!",
+      "start_at": "2026-08-19T19:00:00-07:00",
+      "end_at": "2026-08-19T21:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2023/10/HiLo-Returning-Post-3-2026-e1770771667892.jpg"
+    },
+    {
+      "event_id": "caeb468793b303a4",
+      "location": "Long Beach",
+      "title": "Free Tasting: Golden Eagle Vodka",
+      "description": "Join us for a free tasting of Golden Eagle Vodka!",
+      "start_at": "2026-08-20T16:00:00-07:00",
+      "end_at": "2026-08-20T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2024/05/Screenshot-2024-05-08-at-1.06.49%E2%80%AFPM.png"
+    },
+    {
+      "event_id": "a81e0fda9add255b",
+      "location": "Long Beach",
+      "title": "Food Pop-up: The Carvery",
+      "description": "The Carvery is coming to Hi-Lo! They'll be serving up some apps to pair with Happy Hour!",
+      "start_at": "2026-08-20T17:00:00-07:00",
+      "end_at": "2026-08-20T20:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2026/08/IMG_6632-2.jpg"
+    },
+    {
+      "event_id": "e2d8d2eaab235eb7",
+      "location": "Long Beach",
+      "title": "Long Beach Food Club Happy Hour",
+      "description": "LBCF's hosting a happy hour at The Counter! Come on by to join other members!",
+      "start_at": "2026-08-20T17:30:00-07:00",
+      "end_at": "2026-08-20T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2026/08/IMG_6634.jpg"
+    },
+    {
       "event_id": "cbac5c38eae4b868",
       "location": "Long Beach",
       "title": "Free Tasting: Anytime Spritz + Farmhouse Organic Spirits",
@@ -1232,6 +1277,24 @@
       "start_at": "2026-08-21T16:00:00-07:00",
       "end_at": "2026-08-21T19:00:00-07:00",
       "image_url": "https://hiloliquor.com/wp-content/uploads/2025/04/Screenshot-2025-04-29-at-1.09.57%E2%80%AFPM.png"
+    },
+    {
+      "event_id": "f454e674a8d05640",
+      "location": "Long Beach",
+      "title": "Free Tasting: Yuzy Margaritas",
+      "description": "Join us for a free tasting with Yuzy margaritas!",
+      "start_at": "2026-08-21T16:00:00-07:00",
+      "end_at": "2026-08-21T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2024/06/Screenshot-2024-06-18-at-1.22.02%E2%80%AFPM.png"
+    },
+    {
+      "event_id": "af431715cb5bf722",
+      "location": "Long Beach",
+      "title": "Food Pop-Up: WAVE Gourmet Burgers",
+      "description": "WAVE is bringing their legendary smash burgers and crave-worthy truffle fries to the party!",
+      "start_at": "2026-08-21T17:00:00-07:00",
+      "end_at": "2026-08-21T21:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2023/11/1C60CEB5-F51A-4D9F-8952-6E19D6EA4721.jpg"
     },
     {
       "event_id": "bf6ac3b2c5161e10",
