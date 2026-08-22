@@ -1673,6 +1673,15 @@
       "start_at": "2027-02-11T15:30:00-08:00",
       "end_at": "2027-02-11T18:30:00-08:00",
       "image_url": "https://hiloliquor.com/wp-content/uploads/2026/02/Como-La-Flor.png"
+    },
+    {
+      "event_id": "8e11843d41e44387",
+      "location": "Long Beach",
+      "title": "Free Tasting: Precis Vodka",
+      "description": "Join us for a free tasting with Precis Vodka.",
+      "start_at": "2027-02-19T15:30:00-08:00",
+      "end_at": "2027-02-19T18:30:00-08:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2024/11/Screenshot-2024-11-05-at-12.23.00%E2%80%AFPM.png"
     }
   ],
   "location": "Long Beach",

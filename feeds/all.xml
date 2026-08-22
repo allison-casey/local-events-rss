@@ -5,7 +5,18 @@
     <link>feeds/all.xml</link>
     <description>Combined events from all local feed sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Aug 2026 01:42:28 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 01:36:13 +0000</lastBuildDate>
+    <item>
+      <title>Free Tasting: Wilde Irish Gin</title>
+      <link>https://hiloliquor.com/locations/#Costa%20Mesa</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Aug 28 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Costa Mesa&lt;/p&gt;
+&lt;p&gt;Wilde Irish Gin is distilled in Ireland using select Irish ingredients. It is an exquisite blend of carefully selected ingredients that shine through in every sip. This premium gin is distilled by hand in small batches with two copper pot stills to ensure a level of quality that can only result from a master distiller&amp;#x27;s intuition. Come by and taste this standout gin!&lt;/p&gt;</description>
+      <pubDate>Fri, 28 Aug 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">a4cfe1c3947c6087</guid>
+      <category>Costa Mesa</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2023/12/Screen-Shot-2023-12-28-at-3.22.13-PM.png" type="image/png" />
+    </item>
     <item>
       <title>Food Pop-Up: Rize Kitchen</title>
       <link>https://hiloliquor.com/locations/#Long%20Beach</link>
