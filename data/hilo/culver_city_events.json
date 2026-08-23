@@ -1502,6 +1502,24 @@
       "start_at": "2027-02-14T13:00:00-08:00",
       "end_at": "2027-02-14T16:00:00-08:00",
       "image_url": "https://hiloliquor.com/wp-content/uploads/2026/02/Como-La-Flor.png"
+    },
+    {
+      "event_id": "2e977561cb1f07ad",
+      "location": "Culver City",
+      "title": "Free Tasting: Lost Republic Bourbon & Rye",
+      "description": "Lost Republic Distilling Co. was created by two best friends who had a vision of creating and delivering California's highest quality craft whiskey. Their Master Distiller has a keen attention to detail during the blending process, giving their whiskey flavor complexity and depth.   \r\nCome try their small batch American whiskey produced right here in the heart of Sonoma.",
+      "start_at": "2027-02-20T16:00:00-08:00",
+      "end_at": "2027-02-20T19:00:00-08:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2022/08/Asset-3.png"
+    },
+    {
+      "event_id": "6b88045eef73e397",
+      "location": "Culver City",
+      "title": "Free Tasting: Bottle Logic Brewing",
+      "description": "Join us for a free tasting with Bottle Logic Brewery!",
+      "start_at": "2027-02-20T16:00:00-08:00",
+      "end_at": "2027-02-20T19:00:00-08:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2025/05/Screenshot-2025-05-13-at-11.05.57%E2%80%AFAM.png"
     }
   ],
   "location": "Culver City",
