@@ -5,7 +5,7 @@
     <link>feeds/all.xml</link>
     <description>Combined events from all local feed sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Aug 2026 01:43:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 08:42:18 +0000</lastBuildDate>
     <item>
       <title>Free Tasting: Tip Top</title>
       <link>https://hiloliquor.com/locations/#Costa%20Mesa</link>
@@ -40,6 +40,17 @@
       <enclosure url="https://hiloliquor.com/wp-content/uploads/2022/08/Screenshot-2024-08-26-at-6.37.47%E2%80%AFPM.png" type="image/png" />
     </item>
     <item>
+      <title>Food Pop Up: Victory Shawarma</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Aug 29 5:00 PM - 8:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Come on by to enjoy delicious halal by Victory Shawarma!&lt;/p&gt;</description>
+      <pubDate>Sat, 29 Aug 2026 17:00:00 -0700</pubDate>
+      <guid isPermaLink="false">efc00efa94d8ef12</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2026/08/IMG_6533.jpg" type="image/jpeg" />
+    </item>
+    <item>
       <title>Jumbo Time Wines x Hi-Lo Wine Collab Release Party</title>
       <link>https://hiloliquor.com/locations/#Costa%20Mesa</link>
       <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Aug 29 4:00 PM - 8:00 AM&lt;/p&gt;
@@ -53,6 +64,17 @@ Costa Mesa ~ Dane&amp;#x27;s Donuts&lt;/p&gt;</description>
       <guid isPermaLink="false">32f086e47d5ef6ec</guid>
       <category>Costa Mesa</category>
       <enclosure url="https://hiloliquor.com/wp-content/uploads/2024/08/Untitled-Instagram-Post.png" type="image/png" />
+    </item>
+    <item>
+      <title>Free Tasting: Cloudless Tomorrow Amaro</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Aug 29 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Join us for a Complimentary Tasting of Cloudless Tomorrow Amaro!&lt;/p&gt;</description>
+      <pubDate>Sat, 29 Aug 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">ab48283783793660</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2026/08/IMG_7771-scaled.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Jumbo Time Wines x Hi-Lo Wine Collab Release Party</title>
@@ -70,6 +92,28 @@ Costa Mesa ~ Dane&amp;#x27;s Donuts&lt;/p&gt;</description>
       <enclosure url="https://hiloliquor.com/wp-content/uploads/2024/08/Untitled-Instagram-Post.png" type="image/png" />
     </item>
     <item>
+      <title>Free Tasting: Zumbador Tequila</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Aug 29 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;
+&lt;p&gt;Join us for a complimentary tasting of Zumbador Tequila!&lt;/p&gt;</description>
+      <pubDate>Sat, 29 Aug 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">07826de0c5359488</guid>
+      <category>Long Beach</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2026/08/IMG_9931-scaled.jpeg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Food Pop-Up: Little Dynamite Pizza</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Aug 28 5:00 PM - 9:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Serving up pizza sliced by Little Dynamite! Inquire at The Counter~&lt;/p&gt;</description>
+      <pubDate>Fri, 28 Aug 2026 17:00:00 -0700</pubDate>
+      <guid isPermaLink="false">176d0d29c86ae892</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2026/08/IMG_6530.jpg" type="image/jpeg" />
+    </item>
+    <item>
       <title>Free Tasting: Wilde Irish Gin</title>
       <link>https://hiloliquor.com/locations/#Costa%20Mesa</link>
       <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Aug 28 4:00 PM - 7:00 PM&lt;/p&gt;
@@ -79,6 +123,80 @@ Costa Mesa ~ Dane&amp;#x27;s Donuts&lt;/p&gt;</description>
       <guid isPermaLink="false">a4cfe1c3947c6087</guid>
       <category>Costa Mesa</category>
       <enclosure url="https://hiloliquor.com/wp-content/uploads/2023/12/Screen-Shot-2023-12-28-at-3.22.13-PM.png" type="image/png" />
+    </item>
+    <item>
+      <title>Free Tasting: Ventura Spirits</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Aug 28 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Join us for a Complimentary Tasting with Ventura Spirits!&lt;/p&gt;</description>
+      <pubDate>Fri, 28 Aug 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">cc0f925dfb170972</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2021/10/MPP-3453-scaled.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Free Tasting: Amante 1530</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Aug 28 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;
+&lt;p&gt;Hailing from the historic Il Palagio 1530 estate in Tuscany, this latest innovation in amaro offers a new take on an old classic; combining aromas of Italian citrus, ginger and honeysuckle to help you enjoy a unique bittersweet taste and a thoroughly delicious afternoon.&lt;/p&gt;</description>
+      <pubDate>Fri, 28 Aug 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">bd5935930eb07e5e</guid>
+      <category>Long Beach</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2024/02/Screen-Shot-2024-02-05-at-7.14.05-PM.png" type="image/png" />
+    </item>
+    <item>
+      <title>Food Pop-Up: Prime Philly California</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Aug 27 5:00 PM - 8:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;</description>
+      <pubDate>Thu, 27 Aug 2026 17:00:00 -0700</pubDate>
+      <guid isPermaLink="false">c0b7dce15f4bf676</guid>
+      <category>Long Beach</category>
+    </item>
+    <item>
+      <title>Free Tasting: Otherwise Gluten Free Beer</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Aug 27 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Join to try a complimentary tasting of the newest Gluten Free beer from Otherwise brewing!&lt;/p&gt;</description>
+      <pubDate>Thu, 27 Aug 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">2940d69ca426ac11</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2026/08/IMG_7600-scaled.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Free Tasting: Tesoro Azul and Harmony Gin</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Aug 27 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;
+&lt;p&gt;Join us for a complimentary tasting with Tesoro Azul and Harmony Gin!&lt;/p&gt;</description>
+      <pubDate>Thu, 27 Aug 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">cbec36b5c4840dd5</guid>
+      <category>Long Beach</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2026/08/harmony-gin-Google-Search.png" type="image/png" />
+    </item>
+    <item>
+      <title>Free Tasting: Paulaner Beer</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Aug 27 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;</description>
+      <pubDate>Thu, 27 Aug 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">bcfdc1667fbc8587</guid>
+      <category>Long Beach</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2025/09/IMG_8923.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Hi-Lo Long Beach: King Trivia</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Aug 26 7:00 PM - 9:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;
+&lt;p&gt;Join us at our Long Beach location every Wednesday night for trivia! If you&amp;#x27;re a pop-culture buff, this is the night for you!&lt;/p&gt;</description>
+      <pubDate>Wed, 26 Aug 2026 19:00:00 -0700</pubDate>
+      <guid isPermaLink="false">e76614c8485837c5</guid>
+      <category>Long Beach</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2023/10/HiLo-Returning-Post-3-2026-e1770771667892.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Food Pop-Up: Rize Kitchen</title>

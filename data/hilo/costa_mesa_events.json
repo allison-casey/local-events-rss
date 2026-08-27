@@ -1277,6 +1277,15 @@
       "start_at": "2027-02-04T12:00:00-08:00",
       "end_at": "2027-02-04T15:00:00-08:00",
       "image_url": null
+    },
+    {
+      "event_id": "ff9d71798179adca",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Madre Mezcal & Desert Water",
+      "description": "Madre is an artisanal mezcal, made by hand in the rolling hills of the Oaxacan Sierra. Come by and try their Ensamble, Espadín, and Desert Water, an RTD made only with artisanal mezcal, sparkling water, and real adaptogens, herbs & fruits.",
+      "start_at": "2027-02-25T14:00:00-08:00",
+      "end_at": "2027-02-25T17:00:00-08:00",
+      "image_url": null
     }
   ],
   "location": "Costa Mesa",

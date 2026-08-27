@@ -1315,6 +1315,51 @@
       "image_url": "https://hiloliquor.com/wp-content/uploads/2024/06/Screenshot-2024-06-25-at-4.48.18%E2%80%AFPM.png"
     },
     {
+      "event_id": "e76614c8485837c5",
+      "location": "Long Beach",
+      "title": "Hi-Lo Long Beach: King Trivia",
+      "description": "Join us at our Long Beach location every Wednesday night for trivia! If you're a pop-culture buff, this is the night for you!",
+      "start_at": "2026-08-26T19:00:00-07:00",
+      "end_at": "2026-08-26T21:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2023/10/HiLo-Returning-Post-3-2026-e1770771667892.jpg"
+    },
+    {
+      "event_id": "cbec36b5c4840dd5",
+      "location": "Long Beach",
+      "title": "Free Tasting: Tesoro Azul and Harmony Gin",
+      "description": "Join us for a complimentary tasting with Tesoro Azul and Harmony Gin!",
+      "start_at": "2026-08-27T16:00:00-07:00",
+      "end_at": "2026-08-27T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2026/08/harmony-gin-Google-Search.png"
+    },
+    {
+      "event_id": "bcfdc1667fbc8587",
+      "location": "Long Beach",
+      "title": "Free Tasting: Paulaner Beer",
+      "description": "",
+      "start_at": "2026-08-27T16:00:00-07:00",
+      "end_at": "2026-08-27T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2025/09/IMG_8923.jpg"
+    },
+    {
+      "event_id": "c0b7dce15f4bf676",
+      "location": "Long Beach",
+      "title": "Food Pop-Up: Prime Philly California",
+      "description": "",
+      "start_at": "2026-08-27T17:00:00-07:00",
+      "end_at": "2026-08-27T20:00:00-07:00",
+      "image_url": null
+    },
+    {
+      "event_id": "bd5935930eb07e5e",
+      "location": "Long Beach",
+      "title": "Free Tasting: Amante 1530",
+      "description": "Hailing from the historic Il Palagio 1530 estate in Tuscany, this latest innovation in amaro offers a new take on an old classic; combining aromas of Italian citrus, ginger and honeysuckle to help you enjoy a unique bittersweet taste and a thoroughly delicious afternoon.",
+      "start_at": "2026-08-28T16:00:00-07:00",
+      "end_at": "2026-08-28T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2024/02/Screen-Shot-2024-02-05-at-7.14.05-PM.png"
+    },
+    {
       "event_id": "3dd8af1714db1cd2",
       "location": "Long Beach",
       "title": "Jumbo Time Wines x Hi-Lo Wine Collab Release Party",
@@ -1322,6 +1367,15 @@
       "start_at": "2026-08-29T16:00:00-07:00",
       "end_at": "2026-08-30T08:00:00-07:00",
       "image_url": "https://hiloliquor.com/wp-content/uploads/2024/08/Untitled-Instagram-Post.png"
+    },
+    {
+      "event_id": "07826de0c5359488",
+      "location": "Long Beach",
+      "title": "Free Tasting: Zumbador Tequila",
+      "description": "Join us for a complimentary tasting of Zumbador Tequila!",
+      "start_at": "2026-08-29T16:00:00-07:00",
+      "end_at": "2026-08-29T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2026/08/IMG_9931-scaled.jpeg"
     },
     {
       "event_id": "f9a7120aef9e8f62",
