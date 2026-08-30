@@ -1565,6 +1565,15 @@
       "start_at": "2027-02-20T16:00:00-08:00",
       "end_at": "2027-02-20T19:00:00-08:00",
       "image_url": "https://hiloliquor.com/wp-content/uploads/2025/05/Screenshot-2025-05-13-at-11.05.57%E2%80%AFAM.png"
+    },
+    {
+      "event_id": "ce2c90dc2df444a8",
+      "location": "Culver City",
+      "title": "Free Tasting: Kings County Whiskey",
+      "description": "Join us for a free tasting with the legendary NY whiskey, Kings County!",
+      "start_at": "2027-02-27T16:00:00-08:00",
+      "end_at": "2027-02-27T19:00:00-08:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2026/02/Screenshot-2026-02-22-at-4.35.14-PM.png"
     }
   ],
   "location": "Culver City",
