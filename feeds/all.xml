@@ -5,7 +5,40 @@
     <link>feeds/all.xml</link>
     <description>Combined events from all local feed sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 Aug 2026 04:54:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 04:58:06 +0000</lastBuildDate>
+    <item>
+      <title>Free Tasting: Acronimo Sotol &amp; Gin</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Sep 6 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Join us for a free tasting with Acronimo Sotol &amp;amp; Gin!&lt;/p&gt;</description>
+      <pubDate>Sun, 06 Sep 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">d23881cab77d05df</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2025/06/Screenshot-2025-06-10-at-3.58.57%E2%80%AFPM.png" type="image/png" />
+    </item>
+    <item>
+      <title>Free Tasting: Sapere Wines</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Sep 6 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;
+&lt;p&gt;Join us for a free tasting of Sapere&amp;#x27;s sparkling rose!&lt;/p&gt;</description>
+      <pubDate>Sun, 06 Sep 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">3470aa22a173740b</guid>
+      <category>Long Beach</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2024/09/Screenshot-2024-09-03-at-5.21.55%E2%80%AFPM.png" type="image/png" />
+    </item>
+    <item>
+      <title>Free Tasting: Ommegang and Boulevard Brewing</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Sep 6 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;
+&lt;p&gt;Join us for a free tasting of Ommegang and Boulevard brewing!&lt;/p&gt;</description>
+      <pubDate>Sun, 06 Sep 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">b14a9728fd5e9926</guid>
+      <category>Long Beach</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2023/10/HiLo_Jan_2019209-scaled.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Free Tasting: Tip Top</title>
       <link>https://hiloliquor.com/locations/#Costa%20Mesa</link>

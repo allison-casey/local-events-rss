@@ -1574,6 +1574,15 @@
       "start_at": "2027-02-27T16:00:00-08:00",
       "end_at": "2027-02-27T19:00:00-08:00",
       "image_url": "https://hiloliquor.com/wp-content/uploads/2026/02/Screenshot-2026-02-22-at-4.35.14-PM.png"
+    },
+    {
+      "event_id": "36aee42ddba26071",
+      "location": "Culver City",
+      "title": "Free Tasting: Via Carota Cocktails",
+      "description": "Join us for a Free Tasting with Via Carota Craft Cocktails!",
+      "start_at": "2027-02-28T13:00:00-08:00",
+      "end_at": "2027-02-28T16:00:00-08:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2025/09/IMG_9074.jpg"
     }
   ],
   "location": "Culver City",
