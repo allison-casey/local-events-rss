@@ -1304,6 +1304,15 @@
       "start_at": "2027-03-01T16:00:00-08:00",
       "end_at": "2027-03-01T19:00:00-08:00",
       "image_url": "https://hiloliquor.com/wp-content/uploads/2022/08/Screen-Shot-2024-02-20-at-2.02.34-PM.png"
+    },
+    {
+      "event_id": "8e91a352ca38edbc",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Bimini Gin + Death & Co Moonsail Fizz",
+      "description": "Bimini Gin is the modern gin. It's handcrafted using a few familiar key botanicals— grapefruit zest, hops, coriander seed—that taste bright and citrusy with a beautiful floral aroma. Come by and try Bimini and Death & Co's Moonsail Fizz RTD, which features Bimini Gin!",
+      "start_at": "2027-03-02T16:00:00-08:00",
+      "end_at": "2027-03-02T19:00:00-08:00",
+      "image_url": null
     }
   ],
   "location": "Costa Mesa",

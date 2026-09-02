@@ -1387,6 +1387,42 @@
       "image_url": "https://hiloliquor.com/wp-content/uploads/2022/08/Screenshot-2024-08-26-at-6.37.47%E2%80%AFPM.png"
     },
     {
+      "event_id": "7573ff763d6757f5",
+      "location": "Long Beach",
+      "title": "Hi-Lo Long Beach: King Trivia",
+      "description": "Join us at our Long Beach location every Wednesday night for trivia! If you're a pop-culture buff, this is the night for you!",
+      "start_at": "2026-09-02T19:00:00-07:00",
+      "end_at": "2026-09-02T21:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2023/10/HiLo-Returning-Post-3-2026-e1770771667892.jpg"
+    },
+    {
+      "event_id": "7c62dfe2f68881b6",
+      "location": "Long Beach",
+      "title": "Free Tasting: Pinhook Bourbon & Rye",
+      "description": "Join us for a tasting with Pinhook Kentucky straight bourbon whiskey.",
+      "start_at": "2026-09-03T16:00:00-07:00",
+      "end_at": "2026-09-03T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2025/04/Screenshot-2025-04-14-at-4.44.20%E2%80%AFPM.png"
+    },
+    {
+      "event_id": "40aede99ed7716d4",
+      "location": "Long Beach",
+      "title": "Free Tasting: BTL SVC",
+      "description": "BTL SVC provides award-winning, hand-crafted, premium cocktails, conveniently served anytime and anywhere.",
+      "start_at": "2026-09-04T16:00:00-07:00",
+      "end_at": "2026-09-04T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2024/01/Screen-Shot-2024-01-22-at-5.52.58-PM.png"
+    },
+    {
+      "event_id": "ba29adfe0bd7b080",
+      "location": "Long Beach",
+      "title": "Food Pop-Up: WAVE Gourmet Burgers",
+      "description": "WAVE is bringing their legendary smash burgers and crave-worthy truffle fries to the party!",
+      "start_at": "2026-09-04T17:00:00-07:00",
+      "end_at": "2026-09-04T21:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2023/11/1C60CEB5-F51A-4D9F-8952-6E19D6EA4721.jpg"
+    },
+    {
       "event_id": "3470aa22a173740b",
       "location": "Long Beach",
       "title": "Free Tasting: Sapere Wines",

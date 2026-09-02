@@ -1279,6 +1279,51 @@
       "image_url": "https://hiloliquor.com/wp-content/uploads/2025/08/IMG_8692.jpg"
     },
     {
+      "event_id": "2cbe483fcb7382ef",
+      "location": "Culver City",
+      "title": "Free Tasting: Banter Rum",
+      "description": "Join us for a complimentary tasting of Banter Rum!!",
+      "start_at": "2026-09-03T16:00:00-07:00",
+      "end_at": "2026-09-03T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2026/09/IMG_8854-scaled.jpg"
+    },
+    {
+      "event_id": "966e70739305ccb8",
+      "location": "Culver City",
+      "title": "Free Tasting: Madre Mezcal & Tequila",
+      "description": "Madre is an artisanal mezcal, made by hand in the rolling hills of the Oaxacan Sierra. Come by and try their Ensamble, Espadín, and tequila!",
+      "start_at": "2026-09-04T16:00:00-07:00",
+      "end_at": "2026-09-04T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2023/03/IMG_9780.jpg"
+    },
+    {
+      "event_id": "cc595c8ebaf17ebd",
+      "location": "Culver City",
+      "title": "Food Pop-Up: Little Dynamite Pizza",
+      "description": "Serving up pizza sliced by Little Dynamite! Inquire at The Counter~",
+      "start_at": "2026-09-04T17:00:00-07:00",
+      "end_at": "2026-09-04T21:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2026/08/IMG_6530.jpg"
+    },
+    {
+      "event_id": "3bb086ede6e23d0e",
+      "location": "Culver City",
+      "title": "Culver City: Matcha Bear Pop-up!",
+      "description": "Matcha Bear is popping up this Saturday! Come by to try their delicious matcha drinks to kick off your Saturday!",
+      "start_at": "2026-09-05T10:30:00-07:00",
+      "end_at": "2026-09-05T13:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2026/06/IMG_7535.jpg"
+    },
+    {
+      "event_id": "026e222245ca4090",
+      "location": "Culver City",
+      "title": "Free Tasting: Livewire Canned Cocktails",
+      "description": "LiveWire creates award-winning cocktails made by award-winning bartenders. The company's mission is to help further highlight the immensely talented bartenders that create brilliant drinks & nights, around the world. LiveWire bartender-collaborators design unique cocktails, using the finest spirits in the world, natural flavors and extracts, and choose the artists that design the art on the packaging to help their vision come alive. Come check out this bold new brand with a free tasting of their exciting ready-to-drink canned cocktails!",
+      "start_at": "2026-09-05T13:00:00-07:00",
+      "end_at": "2026-09-05T16:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2022/08/Screenshot-2026-02-06-at-2.46.30-PM.png"
+    },
+    {
       "event_id": "d23881cab77d05df",
       "location": "Culver City",
       "title": "Free Tasting: Acronimo Sotol & Gin",
