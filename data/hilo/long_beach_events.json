@@ -1772,6 +1772,15 @@
       "start_at": "2027-02-19T15:30:00-08:00",
       "end_at": "2027-02-19T18:30:00-08:00",
       "image_url": "https://hiloliquor.com/wp-content/uploads/2024/11/Screenshot-2024-11-05-at-12.23.00%E2%80%AFPM.png"
+    },
+    {
+      "event_id": "ab67a07afc08976d",
+      "location": "Long Beach",
+      "title": "Free Tasting: Kolfok Wines",
+      "description": "We'll be sampling through 3 wines by Kolfolk. Winemaker, Stefan Wellanschitz is a natura wine maker in Austria in the Ödenburger Valley. He wants to avoid monoculture and prefers the grapes grow naturally together and whatever else might sprout up in between such as flowers and herbs. These wine are super fun and delicious!",
+      "start_at": "2027-03-05T16:00:00-08:00",
+      "end_at": "2027-03-05T19:00:00-08:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2025/01/Screenshot-2025-01-07-at-1.09.42%E2%80%AFPM.png"
     }
   ],
   "location": "Long Beach",
