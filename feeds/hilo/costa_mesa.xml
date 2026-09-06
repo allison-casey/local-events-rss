@@ -5,8 +5,19 @@
     <link>https://hiloliquor.com/locations/#Costa%20Mesa</link>
     <description>Upcoming tastings, pop-ups, and events at Hi-Lo Liquor Market (Costa Mesa).</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Sep 2026 20:57:16 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 21:03:44 -0700</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Free Tasting: Nova Brewing</title>
+      <link>https://hiloliquor.com/locations/#Costa%20Mesa</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Sep 12 4:00 PM - 7:30 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Costa Mesa&lt;/p&gt;
+&lt;p&gt;Join us for a free tasting with Nova Brewing!&lt;/p&gt;</description>
+      <pubDate>Sat, 12 Sep 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">3e64401a52c112e8</guid>
+      <category>Costa Mesa</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2024/08/Screenshot-2024-08-19-at-4.47.38%E2%80%AFPM.png" type="image/png" />
+    </item>
     <item>
       <title>Free Tasting: Soonish</title>
       <link>https://hiloliquor.com/locations/#Costa%20Mesa</link>
