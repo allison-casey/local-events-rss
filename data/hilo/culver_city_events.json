@@ -1628,6 +1628,15 @@
       "start_at": "2027-02-28T13:00:00-08:00",
       "end_at": "2027-02-28T16:00:00-08:00",
       "image_url": "https://hiloliquor.com/wp-content/uploads/2025/09/IMG_9074.jpg"
+    },
+    {
+      "event_id": "bdb0d0d45a028835",
+      "location": "Culver City",
+      "title": "Free Tasting: AgaveLuz Tequila",
+      "description": "Join us for a free tasting of AgaveLuz, and celebrate women's history month with female owned organic tequila.",
+      "start_at": "2027-03-07T13:00:00-08:00",
+      "end_at": "2027-03-07T16:00:00-08:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2026/03/Screenshot-2026-03-01-at-12.14.01-PM.png"
     }
   ],
   "location": "Culver City",
