@@ -1313,6 +1313,15 @@
       "start_at": "2027-03-02T16:00:00-08:00",
       "end_at": "2027-03-02T19:00:00-08:00",
       "image_url": null
+    },
+    {
+      "event_id": "cff695f9b1609755",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Stereo Brewing",
+      "description": "Stereo is an independent brewery making remixes of classic styles. Come by and try their beers which range from the hop forward, to classic styles reimagined, to a crisp light delight.",
+      "start_at": "2027-03-10T13:00:00-08:00",
+      "end_at": "2027-03-10T16:00:00-08:00",
+      "image_url": null
     }
   ],
   "location": "Costa Mesa",
