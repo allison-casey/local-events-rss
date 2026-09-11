@@ -1817,6 +1817,15 @@
       "start_at": "2027-03-05T16:00:00-08:00",
       "end_at": "2027-03-05T19:00:00-08:00",
       "image_url": "https://hiloliquor.com/wp-content/uploads/2025/01/Screenshot-2025-01-07-at-1.09.42%E2%80%AFPM.png"
+    },
+    {
+      "event_id": "e6664c80a5088de5",
+      "location": "Long Beach",
+      "title": "Free Tasting: Jiant Hard Kombucha & Tea",
+      "description": "Come by and try the clean, crisp, and refreshing hard kombuchas and hard teas from Jiant, which are crafted with fresh-brewed organic teas, botanicals and real fruit.",
+      "start_at": "2027-03-11T15:30:00-08:00",
+      "end_at": "2027-03-11T18:30:00-08:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2023/01/Screen-Shot-2024-03-04-at-7.09.12-PM.png"
     }
   ],
   "location": "Long Beach",

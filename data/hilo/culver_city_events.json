@@ -1682,6 +1682,24 @@
       "start_at": "2027-03-07T13:00:00-08:00",
       "end_at": "2027-03-07T16:00:00-08:00",
       "image_url": "https://hiloliquor.com/wp-content/uploads/2026/03/Screenshot-2026-03-01-at-12.14.01-PM.png"
+    },
+    {
+      "event_id": "488d24a368d82d97",
+      "location": "Culver City",
+      "title": "Free Tasting: Ysidro Sake Spritz",
+      "description": "Come enjoy a free taste of this sophisticated spritz made with super premium sake and real, organic grapefruit & sea salt.",
+      "start_at": "2027-03-11T16:00:00-08:00",
+      "end_at": "2027-03-11T19:00:00-08:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2025/12/ysidro-cover-scaled-e1765843142737.jpg"
+    },
+    {
+      "event_id": "03819b9f650dfc5f",
+      "location": "Culver City",
+      "title": "Free Tasting: Two Stacks Irish Whiskey",
+      "description": "Join us for a free tasting with Two Stacks Irish Whiskey. We'll be sampling out their Dram in Can RTD's!",
+      "start_at": "2027-03-11T16:00:00-08:00",
+      "end_at": "2027-03-11T19:00:00-08:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2025/04/Screenshot-2025-04-09-at-11.25.14%E2%80%AFAM.png"
     }
   ],
   "location": "Culver City",

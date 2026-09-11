@@ -1322,6 +1322,15 @@
       "start_at": "2027-03-10T13:00:00-08:00",
       "end_at": "2027-03-10T16:00:00-08:00",
       "image_url": null
+    },
+    {
+      "event_id": "b97f6c9e589a2082",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Sake High",
+      "description": "Sake High! is premium junmai sake brewed in Kyoto, Japan using classic techniques and local ingredients. Come by and try the refreshing sake, which comes in single cans and bottles.",
+      "start_at": "2027-03-11T14:00:00-08:00",
+      "end_at": "2027-03-11T16:00:00-08:00",
+      "image_url": null
     }
   ],
   "location": "Costa Mesa",
