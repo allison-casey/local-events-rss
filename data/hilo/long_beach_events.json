@@ -1826,6 +1826,24 @@
       "start_at": "2027-03-11T15:30:00-08:00",
       "end_at": "2027-03-11T18:30:00-08:00",
       "image_url": "https://hiloliquor.com/wp-content/uploads/2023/01/Screen-Shot-2024-03-04-at-7.09.12-PM.png"
+    },
+    {
+      "event_id": "6628e62c18ffef8c",
+      "location": "Long Beach",
+      "title": "Free Tasting: Lodestar Whiskey",
+      "description": "Join us for a free tasting with Lodestar whiskey!",
+      "start_at": "2027-03-13T16:00:00-08:00",
+      "end_at": "2027-03-13T19:00:00-08:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2024/03/Screen-Shot-2024-03-21-at-2.49.04-PM.png"
+    },
+    {
+      "event_id": "ca26a69ef9ac47ee",
+      "location": "Long Beach",
+      "title": "Free Tasting: Breakthru",
+      "description": "Jeff from Breakthru will be tasting through some sparkling wines and white wines from their portfolio!",
+      "start_at": "2027-03-13T16:00:00-08:00",
+      "end_at": "2027-03-13T19:00:00-08:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2023/12/%C2%A9Project-M-Plus_Hi-Lo_Liquor_3-scaled.jpg"
     }
   ],
   "location": "Long Beach",

@@ -1331,6 +1331,15 @@
       "start_at": "2027-03-11T14:00:00-08:00",
       "end_at": "2027-03-11T16:00:00-08:00",
       "image_url": null
+    },
+    {
+      "event_id": "76437921e8127e28",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Los Sundays Tequila",
+      "description": "Join us for a free tasting with Los Sunday's tequila.",
+      "start_at": "2027-03-13T16:00:00-08:00",
+      "end_at": "2027-03-13T19:00:00-08:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2023/11/Screen-Shot-2023-11-08-at-3.38.04-PM.png"
     }
   ],
   "location": "Costa Mesa",

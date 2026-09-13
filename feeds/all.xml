@@ -5,7 +5,29 @@
     <link>feeds/all.xml</link>
     <description>Combined events from all local feed sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Sep 2026 04:07:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 04:19:15 +0000</lastBuildDate>
+    <item>
+      <title>Food Pop-Up: Shuck Brothers Oysters</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Sep 19 4:00 PM - 9:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Join us for some oysters and good times! Shuck brothers will be serving freshly shucked oysters, Maine lobster rolls and rockfish ceviche! YUUMMMM&lt;/p&gt;</description>
+      <pubDate>Sat, 19 Sep 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">bdb7720314f9bacb</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2025/08/HiLoCulverB.png" type="image/png" />
+    </item>
+    <item>
+      <title>Free Tasting: BTL-SVC RTD Cocktails</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Sep 19 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;
+&lt;p&gt;Stop on in and try BTL-SVC cocktails, which are high quality and are extremely well-balanced. All cocktails are free from any additives, preservatives, artificial color or flavors and all are gluten free. And, they only use the finest ingredients you can find behind a bar!&lt;/p&gt;</description>
+      <pubDate>Sat, 19 Sep 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">a098be2307842872</guid>
+      <category>Long Beach</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2023/02/IMG_9075.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Free Tasting: Zaddy's RTD Cocktails</title>
       <link>https://hiloliquor.com/locations/#Costa%20Mesa</link>
