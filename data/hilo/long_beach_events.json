@@ -1486,6 +1486,51 @@
       "image_url": "https://hiloliquor.com/wp-content/uploads/2023/12/Screen-Shot-2023-12-19-at-1.00.44-PM.png"
     },
     {
+      "event_id": "f34b7180dc344154",
+      "location": "Long Beach",
+      "title": "Free Tasting: Societe & Pure Project Brewing Collab Event!",
+      "description": "Both Societe and Pure Project will be doing a tasting of their beers as well as a collaboration beer between both breweries!",
+      "start_at": "2026-09-16T16:00:00-07:00",
+      "end_at": "2026-09-16T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2026/03/Societe-Brewing.png"
+    },
+    {
+      "event_id": "4b79cd98355e0fa4",
+      "location": "Long Beach",
+      "title": "Food Pop-Up: Thai Mex Cocina",
+      "description": "Thai Mex Cocina is a family-run business that was founded by Mexican husband and Thai wife who share love of cooking since 2016. The business starts off as a food truck, serving Thai and Mexican fusion food with our original recipes",
+      "start_at": "2026-09-16T17:00:00-07:00",
+      "end_at": "2026-09-16T19:00:00-07:00",
+      "image_url": null
+    },
+    {
+      "event_id": "d392e7c4d8847b80",
+      "location": "Long Beach",
+      "title": "Hi-Lo Long Beach: King Trivia",
+      "description": "Join us at our Long Beach location every Wednesday night for trivia! If you're a pop-culture buff, this is the night for you!",
+      "start_at": "2026-09-16T19:00:00-07:00",
+      "end_at": "2026-09-16T21:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2023/10/HiLo-Returning-Post-3-2026-e1770771667892.jpg"
+    },
+    {
+      "event_id": "ae4b3e8b3c1f309a",
+      "location": "Long Beach",
+      "title": "Free Tasting: Abre Ojos Tequila",
+      "description": "Join us for a free tasting of Abre Ojos tequila!",
+      "start_at": "2026-09-18T16:00:00-07:00",
+      "end_at": "2026-09-18T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2026/03/Abre-Ojos.png"
+    },
+    {
+      "event_id": "d0f3baaa3f342042",
+      "location": "Long Beach",
+      "title": "Food Pop-Up: WAVE Gourmet Burgers",
+      "description": "WAVE is bringing their legendary smash burgers and crave-worthy truffle fries to the party!",
+      "start_at": "2026-09-18T17:00:00-07:00",
+      "end_at": "2026-09-18T21:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2023/11/1C60CEB5-F51A-4D9F-8952-6E19D6EA4721.jpg"
+    },
+    {
       "event_id": "a098be2307842872",
       "location": "Long Beach",
       "title": "Free Tasting: BTL-SVC RTD Cocktails",

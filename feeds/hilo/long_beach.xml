@@ -5,7 +5,7 @@
     <link>https://hiloliquor.com/locations/#Long%20Beach</link>
     <description>Upcoming tastings, pop-ups, and events at Hi-Lo Liquor Market (Long Beach).</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Sep 2026 21:26:37 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 21:21:51 -0700</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>Free Tasting: Agua Del Jaguar + Fernet Francisco + Freeland Spirits</title>
@@ -28,6 +28,60 @@
       <guid isPermaLink="false">a098be2307842872</guid>
       <category>Long Beach</category>
       <enclosure url="https://hiloliquor.com/wp-content/uploads/2023/02/IMG_9075.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Food Pop-Up: WAVE Gourmet Burgers</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Sep 18 5:00 PM - 9:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;
+&lt;p&gt;WAVE is bringing their legendary smash burgers and crave-worthy truffle fries to the party!&lt;/p&gt;</description>
+      <pubDate>Fri, 18 Sep 2026 17:00:00 -0700</pubDate>
+      <guid isPermaLink="false">d0f3baaa3f342042</guid>
+      <category>Long Beach</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2023/11/1C60CEB5-F51A-4D9F-8952-6E19D6EA4721.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Free Tasting: Abre Ojos Tequila</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Sep 18 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;
+&lt;p&gt;Join us for a free tasting of Abre Ojos tequila!&lt;/p&gt;</description>
+      <pubDate>Fri, 18 Sep 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">ae4b3e8b3c1f309a</guid>
+      <category>Long Beach</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2026/03/Abre-Ojos.png" type="image/png" />
+    </item>
+    <item>
+      <title>Hi-Lo Long Beach: King Trivia</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Sep 16 7:00 PM - 9:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;
+&lt;p&gt;Join us at our Long Beach location every Wednesday night for trivia! If you&amp;#x27;re a pop-culture buff, this is the night for you!&lt;/p&gt;</description>
+      <pubDate>Wed, 16 Sep 2026 19:00:00 -0700</pubDate>
+      <guid isPermaLink="false">d392e7c4d8847b80</guid>
+      <category>Long Beach</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2023/10/HiLo-Returning-Post-3-2026-e1770771667892.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Food Pop-Up: Thai Mex Cocina</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Sep 16 5:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;
+&lt;p&gt;Thai Mex Cocina is a family-run business that was founded by Mexican husband and Thai wife who share love of cooking since 2016. The business starts off as a food truck, serving Thai and Mexican fusion food with our original recipes&lt;/p&gt;</description>
+      <pubDate>Wed, 16 Sep 2026 17:00:00 -0700</pubDate>
+      <guid isPermaLink="false">4b79cd98355e0fa4</guid>
+      <category>Long Beach</category>
+    </item>
+    <item>
+      <title>Free Tasting: Societe &amp; Pure Project Brewing Collab Event!</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Sep 16 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;
+&lt;p&gt;Both Societe and Pure Project will be doing a tasting of their beers as well as a collaboration beer between both breweries!&lt;/p&gt;</description>
+      <pubDate>Wed, 16 Sep 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">f34b7180dc344154</guid>
+      <category>Long Beach</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2026/03/Societe-Brewing.png" type="image/png" />
     </item>
     <item>
       <title>Free Tasting: Neft Vodka</title>

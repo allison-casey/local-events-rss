@@ -5,7 +5,7 @@
     <link>https://hiloliquor.com/locations/#Culver%20City</link>
     <description>Upcoming tastings, pop-ups, and events at Hi-Lo Liquor Market (Culver City).</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Sep 2026 21:26:37 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 21:21:51 -0700</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>Food Pop-Up: Shuck Brothers Oysters</title>
@@ -17,6 +17,60 @@
       <guid isPermaLink="false">bdb7720314f9bacb</guid>
       <category>Culver City</category>
       <enclosure url="https://hiloliquor.com/wp-content/uploads/2025/08/HiLoCulverB.png" type="image/png" />
+    </item>
+    <item>
+      <title>Food Pop-up: AGL's Craft Meats</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Sep 18 5:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Pop on by to enjoy some BBQ by Agl&amp;#x27;s craft meats!&lt;/p&gt;</description>
+      <pubDate>Fri, 18 Sep 2026 17:00:00 -0700</pubDate>
+      <guid isPermaLink="false">0974cf9dde0ceff2</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2026/08/IMG_6635.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Free Tasting: Neft Vodka</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Sep 18 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Join us for a free tasting of Neft Vodka.&lt;/p&gt;</description>
+      <pubDate>Fri, 18 Sep 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">c35ba6dbc3c0bf10</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2023/12/Screen-Shot-2023-12-19-at-1.00.44-PM.png" type="image/png" />
+    </item>
+    <item>
+      <title>Food Pop-Up: SoLA PoBoys</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Sep 17 5:00 PM - 8:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Come on by to enjoy SoLA PoBoys!!&lt;/p&gt;</description>
+      <pubDate>Thu, 17 Sep 2026 17:00:00 -0700</pubDate>
+      <guid isPermaLink="false">494ddc99790f932a</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2026/07/IMG_5339.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Free Tasting: Allagash Brewing</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Sep 17 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Join us for a free tasting of Allagash!&lt;/p&gt;</description>
+      <pubDate>Thu, 17 Sep 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">1f728787f6425207</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2023/10/Screen-Shot-2023-10-19-at-3.20.21-PM.png" type="image/png" />
+    </item>
+    <item>
+      <title>Free Tasting: Teddy Tears</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Sep 16 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Enjoy a complimentary tasting to Teddy Tears crafted canned cocktails!&lt;/p&gt;</description>
+      <pubDate>Wed, 16 Sep 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">e611c118a98fbe29</guid>
+      <category>Culver City</category>
     </item>
     <item>
       <title>Food Pop-Up: Kreung Kitchen</title>

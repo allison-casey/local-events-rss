@@ -5,7 +5,17 @@
     <link>feeds/all.xml</link>
     <description>Combined events from all local feed sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Sep 2026 04:26:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 04:21:51 +0000</lastBuildDate>
+    <item>
+      <title>Free Tasting: NEFT Vodka</title>
+      <link>https://hiloliquor.com/locations/#Costa%20Mesa</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Sep 22 5:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Costa Mesa&lt;/p&gt;
+&lt;p&gt;Crafted in Austria, NEFT Vodka is made from just two ingredients – Old World, non-GMO rye and oxygen-rich mountain spring water sourced from the Rhein River beneath the Alps. NEFT combines four different types of non-GMO ancient rye grains, is distilled three times in a copper-pot still using carbon-layer filtering, and is packaged in an eye catching unbreakable barrel. Come on in and try this great-tasting, smooth, quality rye vodka that is worth sipping.&lt;/p&gt;</description>
+      <pubDate>Tue, 22 Sep 2026 17:00:00 -0700</pubDate>
+      <guid isPermaLink="false">c7064dd02edec56d</guid>
+      <category>Costa Mesa</category>
+    </item>
     <item>
       <title>Free Tasting: Agua Del Jaguar + Fernet Francisco + Freeland Spirits</title>
       <link>https://hiloliquor.com/locations/#Long%20Beach</link>
@@ -38,6 +48,114 @@
       <guid isPermaLink="false">a098be2307842872</guid>
       <category>Long Beach</category>
       <enclosure url="https://hiloliquor.com/wp-content/uploads/2023/02/IMG_9075.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Food Pop-up: AGL's Craft Meats</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Sep 18 5:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Pop on by to enjoy some BBQ by Agl&amp;#x27;s craft meats!&lt;/p&gt;</description>
+      <pubDate>Fri, 18 Sep 2026 17:00:00 -0700</pubDate>
+      <guid isPermaLink="false">0974cf9dde0ceff2</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2026/08/IMG_6635.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Food Pop-Up: WAVE Gourmet Burgers</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Sep 18 5:00 PM - 9:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;
+&lt;p&gt;WAVE is bringing their legendary smash burgers and crave-worthy truffle fries to the party!&lt;/p&gt;</description>
+      <pubDate>Fri, 18 Sep 2026 17:00:00 -0700</pubDate>
+      <guid isPermaLink="false">d0f3baaa3f342042</guid>
+      <category>Long Beach</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2023/11/1C60CEB5-F51A-4D9F-8952-6E19D6EA4721.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Free Tasting: Neft Vodka</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Sep 18 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Join us for a free tasting of Neft Vodka.&lt;/p&gt;</description>
+      <pubDate>Fri, 18 Sep 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">c35ba6dbc3c0bf10</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2023/12/Screen-Shot-2023-12-19-at-1.00.44-PM.png" type="image/png" />
+    </item>
+    <item>
+      <title>Free Tasting: Abre Ojos Tequila</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Sep 18 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;
+&lt;p&gt;Join us for a free tasting of Abre Ojos tequila!&lt;/p&gt;</description>
+      <pubDate>Fri, 18 Sep 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">ae4b3e8b3c1f309a</guid>
+      <category>Long Beach</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2026/03/Abre-Ojos.png" type="image/png" />
+    </item>
+    <item>
+      <title>Food Pop-Up: SoLA PoBoys</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Sep 17 5:00 PM - 8:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Come on by to enjoy SoLA PoBoys!!&lt;/p&gt;</description>
+      <pubDate>Thu, 17 Sep 2026 17:00:00 -0700</pubDate>
+      <guid isPermaLink="false">494ddc99790f932a</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2026/07/IMG_5339.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Free Tasting: Allagash Brewing</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Sep 17 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Join us for a free tasting of Allagash!&lt;/p&gt;</description>
+      <pubDate>Thu, 17 Sep 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">1f728787f6425207</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2023/10/Screen-Shot-2023-10-19-at-3.20.21-PM.png" type="image/png" />
+    </item>
+    <item>
+      <title>Hi-Lo Long Beach: King Trivia</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Sep 16 7:00 PM - 9:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;
+&lt;p&gt;Join us at our Long Beach location every Wednesday night for trivia! If you&amp;#x27;re a pop-culture buff, this is the night for you!&lt;/p&gt;</description>
+      <pubDate>Wed, 16 Sep 2026 19:00:00 -0700</pubDate>
+      <guid isPermaLink="false">d392e7c4d8847b80</guid>
+      <category>Long Beach</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2023/10/HiLo-Returning-Post-3-2026-e1770771667892.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Food Pop-Up: Thai Mex Cocina</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Sep 16 5:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;
+&lt;p&gt;Thai Mex Cocina is a family-run business that was founded by Mexican husband and Thai wife who share love of cooking since 2016. The business starts off as a food truck, serving Thai and Mexican fusion food with our original recipes&lt;/p&gt;</description>
+      <pubDate>Wed, 16 Sep 2026 17:00:00 -0700</pubDate>
+      <guid isPermaLink="false">4b79cd98355e0fa4</guid>
+      <category>Long Beach</category>
+    </item>
+    <item>
+      <title>Free Tasting: Teddy Tears</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Sep 16 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Enjoy a complimentary tasting to Teddy Tears crafted canned cocktails!&lt;/p&gt;</description>
+      <pubDate>Wed, 16 Sep 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">e611c118a98fbe29</guid>
+      <category>Culver City</category>
+    </item>
+    <item>
+      <title>Free Tasting: Societe &amp; Pure Project Brewing Collab Event!</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Sep 16 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;
+&lt;p&gt;Both Societe and Pure Project will be doing a tasting of their beers as well as a collaboration beer between both breweries!&lt;/p&gt;</description>
+      <pubDate>Wed, 16 Sep 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">f34b7180dc344154</guid>
+      <category>Long Beach</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2026/03/Societe-Brewing.png" type="image/png" />
     </item>
     <item>
       <title>Free Tasting: Zaddy's RTD Cocktails</title>
