@@ -1349,6 +1349,15 @@
       "start_at": "2027-03-15T16:00:00-07:00",
       "end_at": "2027-03-15T19:00:00-07:00",
       "image_url": "https://hiloliquor.com/wp-content/uploads/2023/12/Screen-Shot-2023-12-19-at-1.35.30-PM.png"
+    },
+    {
+      "event_id": "ac5471f82be9cc85",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Vacation Cocktails Hot Tropic RTD",
+      "description": "Come by and try the newly launched Vacation Cocktails – ready-to-drink canned cocktails with real spirits and natural flavors. Made right here in Costa Mesa!",
+      "start_at": "2027-03-18T14:00:00-07:00",
+      "end_at": "2027-03-18T17:00:00-07:00",
+      "image_url": null
     }
   ],
   "location": "Costa Mesa",
