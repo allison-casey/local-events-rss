@@ -5,7 +5,29 @@
     <link>feeds/all.xml</link>
     <description>Combined events from all local feed sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Sep 2026 04:12:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 04:08:58 +0000</lastBuildDate>
+    <item>
+      <title>Free Tasting: Fremont Brewing &amp; Lost Lake Cider</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Sep 25 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Join us for a free tasting with Fremont Brewing and Lost Lake Cider.&lt;/p&gt;</description>
+      <pubDate>Fri, 25 Sep 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">4117b2021d947f0c</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2023/12/%C2%A9Project-M-Plus_Hi-Lo_Liquor_3-scaled.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Free Tasting: AllagashBrewing</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Sep 25 4:00 PM - 5:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;
+&lt;p&gt;Join us for a free tasting of Allagash White and Haunted House!&lt;/p&gt;</description>
+      <pubDate>Fri, 25 Sep 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">82ce907138f77dcb</guid>
+      <category>Long Beach</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2023/10/Screen-Shot-2023-10-19-at-3.20.21-PM.png" type="image/png" />
+    </item>
     <item>
       <title>Free Tasting: Alpamanta Wines</title>
       <link>https://hiloliquor.com/locations/#Culver%20City</link>
