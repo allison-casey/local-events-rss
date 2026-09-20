@@ -1907,6 +1907,15 @@
       "start_at": "2027-03-15T15:00:00-07:00",
       "end_at": "2027-03-15T18:00:00-07:00",
       "image_url": "https://hiloliquor.com/wp-content/uploads/2024/03/Screen-Shot-2024-03-12-at-3.26.10-PM.png"
+    },
+    {
+      "event_id": "0e8f6098675703af",
+      "location": "Long Beach",
+      "title": "Free Tasting: North Coast Brewing",
+      "description": "Join us for a free tasting with North Coast Brewing!",
+      "start_at": "2027-03-20T16:00:00-07:00",
+      "end_at": "2027-03-20T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2025/05/Screenshot-2025-05-06-at-11.47.55%E2%80%AFAM.png"
     }
   ],
   "location": "Long Beach",

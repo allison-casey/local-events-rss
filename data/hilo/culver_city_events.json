@@ -1754,6 +1754,24 @@
       "start_at": "2027-03-14T16:00:00-07:00",
       "end_at": "2027-03-14T19:00:00-07:00",
       "image_url": "https://hiloliquor.com/wp-content/uploads/2024/03/Screen-Shot-2024-03-21-at-2.49.04-PM.png"
+    },
+    {
+      "event_id": "f7776f7fce1c04e4",
+      "location": "Culver City",
+      "title": "Free Tasting: Acronimo Sotol & Gin",
+      "description": "Join us for a free tasting with Acronimo Sotol & Gin!",
+      "start_at": "2027-03-20T16:00:00-07:00",
+      "end_at": "2027-03-20T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2025/07/Screenshot-2025-07-01-at-5.33.37%E2%80%AFPM.png"
+    },
+    {
+      "event_id": "a3507aee76551e2b",
+      "location": "Culver City",
+      "title": "Food Pop-Up: Ronin Barbeque LA",
+      "description": "First appearance by a new BBQ provider; come enjoy the mouth water flavors Ronin has cooked up!",
+      "start_at": "2027-03-20T17:30:00-07:00",
+      "end_at": "2027-03-20T20:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2026/02/Screenshot-2026-02-22-at-4.25.56-PM.png"
     }
   ],
   "location": "Culver City",
