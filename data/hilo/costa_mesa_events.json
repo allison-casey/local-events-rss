@@ -1358,6 +1358,15 @@
       "start_at": "2027-03-18T14:00:00-07:00",
       "end_at": "2027-03-18T17:00:00-07:00",
       "image_url": null
+    },
+    {
+      "event_id": "9d743299446ceb70",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Yebiga Rakija",
+      "description": "Join us for a free tasting with Yebiga Rakija! Yebiga Rakija is an exceptional, handcrafted, and 100% natural Sljivovica, a fruit brandy from Central Serbia.",
+      "start_at": "2027-03-21T16:00:00-07:00",
+      "end_at": "2027-03-21T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2025/03/Screenshot-2025-03-03-at-9.36.26%E2%80%AFPM.png"
     }
   ],
   "location": "Costa Mesa",

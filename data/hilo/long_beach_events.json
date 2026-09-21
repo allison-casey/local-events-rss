@@ -1916,6 +1916,15 @@
       "start_at": "2027-03-20T16:00:00-07:00",
       "end_at": "2027-03-20T19:00:00-07:00",
       "image_url": "https://hiloliquor.com/wp-content/uploads/2025/05/Screenshot-2025-05-06-at-11.47.55%E2%80%AFAM.png"
+    },
+    {
+      "event_id": "7afa8f7f0e0410ac",
+      "location": "Long Beach",
+      "title": "Free Tasting: Agua Del Sol Mezcal",
+      "description": "Join us for a free tasting with Agua Del Sol Mezcal!",
+      "start_at": "2027-03-21T16:00:00-07:00",
+      "end_at": "2027-03-21T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2023/12/%C2%A9Project-M-Plus_Hi-Lo_Liquor_3-scaled.jpg"
     }
   ],
   "location": "Long Beach",
