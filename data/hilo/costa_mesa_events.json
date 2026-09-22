@@ -1367,6 +1367,15 @@
       "start_at": "2027-03-21T16:00:00-07:00",
       "end_at": "2027-03-21T19:00:00-07:00",
       "image_url": "https://hiloliquor.com/wp-content/uploads/2025/03/Screenshot-2025-03-03-at-9.36.26%E2%80%AFPM.png"
+    },
+    {
+      "event_id": "64ed60196b441d34",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Brouwerij West",
+      "description": "Brouwerij West out of San Pedro, California will be in store to sample some of their delicious American and Belgian-inspired beers!",
+      "start_at": "2027-03-22T16:00:00-07:00",
+      "end_at": "2027-03-22T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2024/01/Screen-Shot-2024-01-15-at-4.41.25-PM.png"
     }
   ],
   "location": "Costa Mesa",
