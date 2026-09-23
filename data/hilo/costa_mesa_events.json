@@ -1376,6 +1376,15 @@
       "start_at": "2027-03-22T16:00:00-07:00",
       "end_at": "2027-03-22T19:00:00-07:00",
       "image_url": "https://hiloliquor.com/wp-content/uploads/2024/01/Screen-Shot-2024-01-15-at-4.41.25-PM.png"
+    },
+    {
+      "event_id": "6dfa1333d1d0b9c2",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Tequila Mandala",
+      "description": "Come try the balanced and refined flavor of each Mandala tequila, all are hand made and beautifully hand painted to create a beautiful and unique piece of art.",
+      "start_at": "2027-03-23T16:00:00-07:00",
+      "end_at": "2027-03-24T07:00:00-07:00",
+      "image_url": null
     }
   ],
   "location": "Costa Mesa",
