@@ -5,7 +5,7 @@
     <link>https://hiloliquor.com/locations/#Culver%20City</link>
     <description>Upcoming tastings, pop-ups, and events at Hi-Lo Liquor Market (Culver City).</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Sep 2026 21:18:55 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 21:15:22 -0700</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>Free Tasting: Capurro Pisco &amp; Xila Mexican Aperitif</title>
@@ -19,6 +19,39 @@
       <enclosure url="https://hiloliquor.com/wp-content/uploads/2024/03/IMG_9160.jpg" type="image/jpeg" />
     </item>
     <item>
+      <title>Food Pop-Up: Slang Burgers</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Sep 26 5:00 PM - 8:30 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Join us at our Culver City location for smash burgers by our friends, Slang Burgers! Come early, they sell fast!&lt;/p&gt;</description>
+      <pubDate>Sat, 26 Sep 2026 17:00:00 -0700</pubDate>
+      <guid isPermaLink="false">d54e19064e866c15</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2023/11/Screen-Shot-2023-11-28-at-2.36.34-PM.png" type="image/png" />
+    </item>
+    <item>
+      <title>Free Tasting: Fuego Hard Ginger Beer</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Sep 26 1:00 PM - 4:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Join us for a complimentary tasting of Fuego Hard Ginger Beer&lt;/p&gt;</description>
+      <pubDate>Sat, 26 Sep 2026 13:00:00 -0700</pubDate>
+      <guid isPermaLink="false">6ae3c1676cfa0664</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2026/09/IMG_9149.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Food Pop-Up: Little Dynamite Pizza</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Sep 25 5:00 PM - 9:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Serving up pizza sliced by Little Dynamite! Inquire at The Counter~&lt;/p&gt;</description>
+      <pubDate>Fri, 25 Sep 2026 17:00:00 -0700</pubDate>
+      <guid isPermaLink="false">20d7c7f3b4c51567</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2026/08/IMG_6530.jpg" type="image/jpeg" />
+    </item>
+    <item>
       <title>Free Tasting: Fremont Brewing &amp; Lost Lake Cider</title>
       <link>https://hiloliquor.com/locations/#Culver%20City</link>
       <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Sep 25 4:00 PM - 7:00 PM&lt;/p&gt;
@@ -28,6 +61,17 @@
       <guid isPermaLink="false">4117b2021d947f0c</guid>
       <category>Culver City</category>
       <enclosure url="https://hiloliquor.com/wp-content/uploads/2023/12/%C2%A9Project-M-Plus_Hi-Lo_Liquor_3-scaled.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Free Tasting: Little Sun Calimocho RTDs!</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Sep 25 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Complimentary tasting with Little Sun Calimocho RTDs!&lt;/p&gt;</description>
+      <pubDate>Fri, 25 Sep 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">61f9741d5d81c93b</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2026/07/IMG_5603.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Free Tasting: Alpamanta Wines</title>

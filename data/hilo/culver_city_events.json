@@ -1486,6 +1486,42 @@
       "image_url": "https://hiloliquor.com/wp-content/uploads/2023/12/%C2%A9Project-M-Plus_Hi-Lo_Liquor_3-scaled.jpg"
     },
     {
+      "event_id": "61f9741d5d81c93b",
+      "location": "Culver City",
+      "title": "Free Tasting: Little Sun Calimocho RTDs!",
+      "description": "Complimentary tasting with Little Sun Calimocho RTDs!",
+      "start_at": "2026-09-25T16:00:00-07:00",
+      "end_at": "2026-09-25T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2026/07/IMG_5603.jpg"
+    },
+    {
+      "event_id": "20d7c7f3b4c51567",
+      "location": "Culver City",
+      "title": "Food Pop-Up: Little Dynamite Pizza",
+      "description": "Serving up pizza sliced by Little Dynamite! Inquire at The Counter~",
+      "start_at": "2026-09-25T17:00:00-07:00",
+      "end_at": "2026-09-25T21:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2026/08/IMG_6530.jpg"
+    },
+    {
+      "event_id": "6ae3c1676cfa0664",
+      "location": "Culver City",
+      "title": "Free Tasting: Fuego Hard Ginger Beer",
+      "description": "Join us for a complimentary tasting of Fuego Hard Ginger Beer",
+      "start_at": "2026-09-26T13:00:00-07:00",
+      "end_at": "2026-09-26T16:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2026/09/IMG_9149.jpg"
+    },
+    {
+      "event_id": "d54e19064e866c15",
+      "location": "Culver City",
+      "title": "Food Pop-Up: Slang Burgers",
+      "description": "Join us at our Culver City location for smash burgers by our friends, Slang Burgers! Come early, they sell fast!",
+      "start_at": "2026-09-26T17:00:00-07:00",
+      "end_at": "2026-09-26T20:30:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2023/11/Screen-Shot-2023-11-28-at-2.36.34-PM.png"
+    },
+    {
       "event_id": "1c581b43f5f70772",
       "location": "Culver City",
       "title": "Free Tasting: Capurro Pisco & Xila Mexican Aperitif",

@@ -1549,6 +1549,24 @@
       "image_url": "https://hiloliquor.com/wp-content/uploads/2025/09/IMG_8819.jpg"
     },
     {
+      "event_id": "0b7aa7721086eb65",
+      "location": "Long Beach",
+      "title": "Free Tasting: Paulaner Beer",
+      "description": "",
+      "start_at": "2026-09-23T16:00:00-07:00",
+      "end_at": "2026-09-23T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2025/09/IMG_8924.jpg"
+    },
+    {
+      "event_id": "c2f9a638ead4726b",
+      "location": "Long Beach",
+      "title": "Hi-Lo Long Beach: King Trivia",
+      "description": "Join us at our Long Beach location every Wednesday night for trivia! If you're a pop-culture buff, this is the night for you!",
+      "start_at": "2026-09-23T19:00:00-07:00",
+      "end_at": "2026-09-23T21:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2023/10/HiLo-Returning-Post-3-2026-e1770771667892.jpg"
+    },
+    {
       "event_id": "71d28f02b6922430",
       "location": "Long Beach",
       "title": "Free Tasting: Banhez Mezcal & Libelula Tequila",
@@ -1558,6 +1576,15 @@
       "image_url": "https://hiloliquor.com/wp-content/uploads/2025/09/IMG_9076.jpg"
     },
     {
+      "event_id": "b695e92f381b950b",
+      "location": "Long Beach",
+      "title": "Free Tasting: Salt Point Canned Cocktails",
+      "description": "Come kick back and raise a can with Salt Point premium canned cocktails!",
+      "start_at": "2026-09-24T16:00:00-07:00",
+      "end_at": "2026-09-24T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2022/06/IMG_0605.jpg"
+    },
+    {
       "event_id": "82ce907138f77dcb",
       "location": "Long Beach",
       "title": "Free Tasting: AllagashBrewing",
@@ -1565,6 +1592,24 @@
       "start_at": "2026-09-25T16:00:00-07:00",
       "end_at": "2026-09-25T17:00:00-07:00",
       "image_url": "https://hiloliquor.com/wp-content/uploads/2023/10/Screen-Shot-2023-10-19-at-3.20.21-PM.png"
+    },
+    {
+      "event_id": "58e3361449884ca6",
+      "location": "Long Beach",
+      "title": "Free Tasting: Fuego Hard Ginger Beer",
+      "description": "Join us for a complimentary tasting of Fuego Hard Ginger Beer",
+      "start_at": "2026-09-25T16:00:00-07:00",
+      "end_at": "2026-09-25T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2026/09/IMG_9149-1.jpg"
+    },
+    {
+      "event_id": "20884dc361d0565f",
+      "location": "Long Beach",
+      "title": "Long Beach Fall Market",
+      "description": "Join us for a fun evening of tattoos & complimentary tastings!",
+      "start_at": "2026-09-26T15:00:00-07:00",
+      "end_at": "2026-09-26T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2026/09/Blue-Grey-Modern-Sketch-Table-Illustration-Church-Flyer.png"
     },
     {
       "event_id": "a6eca4741d0216bf",

@@ -1385,6 +1385,15 @@
       "start_at": "2027-03-23T16:00:00-07:00",
       "end_at": "2027-03-24T07:00:00-07:00",
       "image_url": null
+    },
+    {
+      "event_id": "30580177bebfe1f0",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Amarok Brewing",
+      "description": "Amarok Brewing, LA's smallest brewery, specializes in IPas with unique hops and ingredients from around the world. Come by, meet owner and brewer Anthony, and try his delicious 'South African Hazy,' a DDH Hazy DIPA and 'Science Fair DIPA', an experimental hop West Coast DIPA.",
+      "start_at": "2027-03-24T12:00:00-07:00",
+      "end_at": "2027-03-24T20:00:00-07:00",
+      "image_url": null
     }
   ],
   "location": "Costa Mesa",
