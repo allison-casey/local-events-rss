@@ -1394,6 +1394,15 @@
       "start_at": "2027-03-24T12:00:00-07:00",
       "end_at": "2027-03-24T20:00:00-07:00",
       "image_url": null
+    },
+    {
+      "event_id": "295f0b898514b341",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Zaddy's RTD Cocktails",
+      "description": "Made for both gin lovers and non-gin lovers, Zaddy's RTD canned cocktails are low sugar, low ABV, gluten free, and super refreshing. Come on in and try Zaddy's creative, unique craft cocktails that are perfect all year round.",
+      "start_at": "2027-03-28T16:00:00-07:00",
+      "end_at": "2027-03-28T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2022/09/Screen-Shot-2024-03-21-at-2.43.38-PM.png"
     }
   ],
   "location": "Costa Mesa",

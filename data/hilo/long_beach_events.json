@@ -1970,6 +1970,15 @@
       "start_at": "2027-03-21T16:00:00-07:00",
       "end_at": "2027-03-21T19:00:00-07:00",
       "image_url": "https://hiloliquor.com/wp-content/uploads/2023/12/%C2%A9Project-M-Plus_Hi-Lo_Liquor_3-scaled.jpg"
+    },
+    {
+      "event_id": "81fd1dfd96ab6007",
+      "location": "Long Beach",
+      "title": "Free Tasting: Kastra Elion Vodka",
+      "description": "Family-owned and artisan-crafted in Greece, Kastra Elion is the original premium sipping vodka distilled from Greek olives. This premium vodka has unparalleled smoothness and timeless sophistication. Come get a taste of the Mediterranean with this free tasting!",
+      "start_at": "2027-03-28T16:00:00-07:00",
+      "end_at": "2027-03-28T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2023/03/Screenshot-2024-05-28-at-1.52.37%E2%80%AFPM.png"
     }
   ],
   "location": "Long Beach",

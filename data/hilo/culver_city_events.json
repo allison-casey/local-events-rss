@@ -1817,6 +1817,24 @@
       "start_at": "2027-03-27T16:00:00-07:00",
       "end_at": "2027-03-27T19:00:00-07:00",
       "image_url": "https://hiloliquor.com/wp-content/uploads/2022/09/Screen-Shot-2023-12-12-at-12.24.44-PM.png"
+    },
+    {
+      "event_id": "8bee3b1b768a3688",
+      "location": "Culver City",
+      "title": "Free Tasting: Mama Chuy Gin",
+      "description": "Come sample this refreshing Mexican gin.  Distilled in small batches at the Satvrnal Distillery under Master Distiller Pedro Andres from a pristine base spirit produced by clean, swift fermentation and precise distillation. Vibrant lime zest greets the nose, with soft herbal bay leaf and classic juniper weaving a harmonious botanical tapestry; a crescendo of citrus brightens the palate before a light, coriander-driven spice on the finish.",
+      "start_at": "2027-03-28T16:00:00-07:00",
+      "end_at": "2027-03-28T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2026/03/mama-chuy.jpg"
+    },
+    {
+      "event_id": "c241652880c3fe4d",
+      "location": "Culver City",
+      "title": "Free Tasting: Granalta Blanco Tequila, Mezcal & Rum",
+      "description": "Come sample these incredible tequilas & mezcal from Granalta.  Made in San Dioniso Ocotepec, Oaxaca by Miguel Martinez, these artisanal expressions are roasted with mesquite & oak, milled by Tahona, fermented in cypress wood & twice distilled in a copper pot still.",
+      "start_at": "2027-03-28T16:00:00-07:00",
+      "end_at": "2027-03-28T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2026/03/Granalta-Tequila.png"
     }
   ],
   "location": "Culver City",
