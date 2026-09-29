@@ -1979,6 +1979,15 @@
       "start_at": "2027-03-28T16:00:00-07:00",
       "end_at": "2027-03-28T19:00:00-07:00",
       "image_url": "https://hiloliquor.com/wp-content/uploads/2023/03/Screenshot-2024-05-28-at-1.52.37%E2%80%AFPM.png"
+    },
+    {
+      "event_id": "93bb370de7e00a8f",
+      "location": "Long Beach",
+      "title": "Food Pop-Up: Tacos Tekila",
+      "description": "Tacos Tekila will be serving their mouth watering tacos and quesadillas. You can choose from Carne Asada, Al Pastor, Chorizo, or Pollo!",
+      "start_at": "2027-03-29T17:00:00-07:00",
+      "end_at": "2027-03-29T20:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2023/10/Screen-Shot-2023-10-17-at-4.26.50-PM.png"
     }
   ],
   "location": "Long Beach",
