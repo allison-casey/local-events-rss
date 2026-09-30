@@ -1612,6 +1612,42 @@
       "image_url": "https://hiloliquor.com/wp-content/uploads/2026/09/Blue-Grey-Modern-Sketch-Table-Illustration-Church-Flyer.png"
     },
     {
+      "event_id": "1f4f7a95528c2f7e",
+      "location": "Long Beach",
+      "title": "Free Tasting: Vivy cocktails",
+      "description": "The no-glass cocktail in a sippable pouch that’s beach-friendly, pool-friendly and boat-friendly.",
+      "start_at": "2026-09-30T16:00:00-07:00",
+      "end_at": "2026-09-30T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2025/09/IMG_8817.jpg"
+    },
+    {
+      "event_id": "9996c49649bd1d32",
+      "location": "Long Beach",
+      "title": "Hi-Lo Long Beach: King Trivia",
+      "description": "Join us at our Long Beach location every Wednesday night for trivia! If you're a pop-culture buff, this is the night for you!",
+      "start_at": "2026-09-30T19:00:00-07:00",
+      "end_at": "2026-09-30T21:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2023/10/HiLo-Returning-Post-3-2026-e1770771667892.jpg"
+    },
+    {
+      "event_id": "b13d34942e31f561",
+      "location": "Long Beach",
+      "title": "Free Tasting: Teddy Tears",
+      "description": "Enjoy a complimentary tasting to Teddy Tears crafted canned cocktails!",
+      "start_at": "2026-10-01T16:00:00-07:00",
+      "end_at": "2026-10-01T19:00:00-07:00",
+      "image_url": null
+    },
+    {
+      "event_id": "011ed4ef64b1fbec",
+      "location": "Long Beach",
+      "title": "Free Tasting: Uncle Nearest Whiskey",
+      "description": "Joining us for a complimentary Uncle Nearest Whiskey!",
+      "start_at": "2026-10-02T16:00:00-07:00",
+      "end_at": "2026-10-02T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2026/09/IMG_9543.jpg"
+    },
+    {
       "event_id": "a6eca4741d0216bf",
       "location": "Long Beach",
       "title": "Fall Market",

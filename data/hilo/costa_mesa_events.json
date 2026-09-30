@@ -1403,6 +1403,15 @@
       "start_at": "2027-03-28T16:00:00-07:00",
       "end_at": "2027-03-28T19:00:00-07:00",
       "image_url": "https://hiloliquor.com/wp-content/uploads/2022/09/Screen-Shot-2024-03-21-at-2.43.38-PM.png"
+    },
+    {
+      "event_id": "81e2c29aca16594e",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Copalli Rum",
+      "description": "Copalli's organic rums are crafted in Southern Belize at the Copal Tree Distillery, designed to run on biomass to have as low a carbon footprint as possible. Crafted from organic fresh sugar cane and proofed with \"canopy water\" collected straight from the rainforest, the Copal Tree Distillery supports sustainable agriculture, producing and selling premium organic, gluten-free spirits. Stop by and taste these delicious terroir driven spirits!",
+      "start_at": "2027-03-30T16:00:00-07:00",
+      "end_at": "2027-03-30T19:00:00-07:00",
+      "image_url": null
     }
   ],
   "location": "Costa Mesa",
