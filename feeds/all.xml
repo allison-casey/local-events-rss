@@ -5,7 +5,17 @@
     <link>feeds/all.xml</link>
     <description>Combined events from all local feed sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Oct 2026 05:53:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 05:25:56 +0000</lastBuildDate>
+    <item>
+      <title>Free Tasting: NEFT Vodka</title>
+      <link>https://hiloliquor.com/locations/#Costa%20Mesa</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Oct 13 5:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Costa Mesa&lt;/p&gt;
+&lt;p&gt;Crafted in Austria, NEFT Vodka is made from just two ingredients – Old World, non-GMO rye and oxygen-rich mountain spring water sourced from the Rhein River beneath the Alps. NEFT combines four different types of non-GMO ancient rye grains, is distilled three times in a copper-pot still using carbon-layer filtering, and is packaged in an eye catching unbreakable barrel. Come on in and try this great-tasting, smooth, quality rye vodka that is worth sipping.&lt;/p&gt;</description>
+      <pubDate>Tue, 13 Oct 2026 17:00:00 -0700</pubDate>
+      <guid isPermaLink="false">c795f9c7bca4779b</guid>
+      <category>Costa Mesa</category>
+    </item>
     <item>
       <title>Fall Market</title>
       <link>https://hiloliquor.com/locations/#Long%20Beach</link>
@@ -25,6 +35,61 @@ Thrift &amp;amp; Sage&lt;/p&gt;</description>
       <enclosure url="https://hiloliquor.com/wp-content/uploads/2024/10/Screenshot-2024-10-08-at-4.37.05%E2%80%AFPM.png" type="image/png" />
     </item>
     <item>
+      <title>Food Pop-Up: Little Dynamite Pizza</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Oct 10 5:00 PM - 9:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Serving up pizza sliced by Little Dynamite! Inquire at The Counter~&lt;/p&gt;</description>
+      <pubDate>Sat, 10 Oct 2026 17:00:00 -0700</pubDate>
+      <guid isPermaLink="false">c7bb0f10193b40de</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2026/08/IMG_6530.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Food Pop-Up: Kreung Kitchen</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Oct 9 5:00 PM - 9:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Grab some delicious food from Kreung Kitchen! They&amp;#x27;re an LA based Cambodian BBQ food pop-up serving grilled meats and tasty sides.&lt;/p&gt;</description>
+      <pubDate>Fri, 09 Oct 2026 17:00:00 -0700</pubDate>
+      <guid isPermaLink="false">cc302594baf117c8</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2024/05/Screenshot-2024-05-08-at-1.09.19%E2%80%AFPM.png" type="image/png" />
+    </item>
+    <item>
+      <title>Free Tasting: Golden Eagle Vodka</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Oct 9 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Join us for a free tasting of Golden Eagle Vodka!&lt;/p&gt;</description>
+      <pubDate>Fri, 09 Oct 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">56344230f93642f9</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2024/05/Screenshot-2024-05-08-at-1.06.49%E2%80%AFPM.png" type="image/png" />
+    </item>
+    <item>
+      <title>Free Tasting: Old G Gin</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Oct 9 1:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;
+&lt;p&gt;Join us for a free tasting with Old G Gin, a London dry style gin made in the traditional method without preservatives!&lt;/p&gt;</description>
+      <pubDate>Fri, 09 Oct 2026 13:00:00 -0700</pubDate>
+      <guid isPermaLink="false">2d56a36223cb7f5a</guid>
+      <category>Long Beach</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2024/09/Screenshot-2024-09-30-at-5.17.29%E2%80%AFPM.png" type="image/png" />
+    </item>
+    <item>
+      <title>Food Pop-Up: SoLA PoBoys</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Oct 8 5:00 PM - 8:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Come on by to enjoy SoLA PoBoys!!&lt;/p&gt;</description>
+      <pubDate>Thu, 08 Oct 2026 17:00:00 -0700</pubDate>
+      <guid isPermaLink="false">435ad89e98450ba7</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2026/07/IMG_5339.jpg" type="image/jpeg" />
+    </item>
+    <item>
       <title>Free Tasting: Coastal Stone Australian Whisky</title>
       <link>https://hiloliquor.com/locations/#Culver%20City</link>
       <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Oct 8 4:00 PM - 7:00 PM&lt;/p&gt;
@@ -34,6 +99,39 @@ Thrift &amp;amp; Sage&lt;/p&gt;</description>
       <guid isPermaLink="false">c5c94e811bb6b9b2</guid>
       <category>Culver City</category>
       <enclosure url="https://hiloliquor.com/wp-content/uploads/2025/05/Screenshot-2025-05-27-at-5.53.16%E2%80%AFPM.png" type="image/png" />
+    </item>
+    <item>
+      <title>Free Tasting: Craft Spirits Coop</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Oct 8 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Join us for a free tasting with Craft Spirits Coop lineup!&lt;/p&gt;</description>
+      <pubDate>Thu, 08 Oct 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">14ee7d34d28651ec</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2024/03/IMG_9160.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Free Tasting: Long Beach Beer Lab</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Oct 8 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;
+&lt;p&gt;Join us with a complimentary with Long Beach Beer Lab~&lt;/p&gt;</description>
+      <pubDate>Thu, 08 Oct 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">cb0df58fef82ea4e</guid>
+      <category>Long Beach</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2025/11/IMG_0284.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Hi-Lo Long Beach: King Trivia</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Oct 7 7:00 PM - 9:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;
+&lt;p&gt;Join us at our Long Beach location every Wednesday night for trivia! If you&amp;#x27;re a pop-culture buff, this is the night for you!&lt;/p&gt;</description>
+      <pubDate>Wed, 07 Oct 2026 19:00:00 -0700</pubDate>
+      <guid isPermaLink="false">44190cf5f489e466</guid>
+      <category>Long Beach</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2023/10/HiLo-Returning-Post-3-2026-e1770771667892.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Free Tasting: YOLA Mezcal</title>

@@ -1648,6 +1648,33 @@
       "image_url": "https://hiloliquor.com/wp-content/uploads/2026/09/IMG_9543.jpg"
     },
     {
+      "event_id": "44190cf5f489e466",
+      "location": "Long Beach",
+      "title": "Hi-Lo Long Beach: King Trivia",
+      "description": "Join us at our Long Beach location every Wednesday night for trivia! If you're a pop-culture buff, this is the night for you!",
+      "start_at": "2026-10-07T19:00:00-07:00",
+      "end_at": "2026-10-07T21:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2023/10/HiLo-Returning-Post-3-2026-e1770771667892.jpg"
+    },
+    {
+      "event_id": "cb0df58fef82ea4e",
+      "location": "Long Beach",
+      "title": "Free Tasting: Long Beach Beer Lab",
+      "description": "Join us with a complimentary with Long Beach Beer Lab~",
+      "start_at": "2026-10-08T16:00:00-07:00",
+      "end_at": "2026-10-08T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2025/11/IMG_0284.jpg"
+    },
+    {
+      "event_id": "2d56a36223cb7f5a",
+      "location": "Long Beach",
+      "title": "Free Tasting: Old G Gin",
+      "description": "Join us for a free tasting with Old G Gin, a London dry style gin made in the traditional method without preservatives!",
+      "start_at": "2026-10-09T13:00:00-07:00",
+      "end_at": "2026-10-09T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2024/09/Screenshot-2024-09-30-at-5.17.29%E2%80%AFPM.png"
+    },
+    {
       "event_id": "a6eca4741d0216bf",
       "location": "Long Beach",
       "title": "Fall Market",
