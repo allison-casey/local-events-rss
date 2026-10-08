@@ -1412,6 +1412,15 @@
       "start_at": "2027-03-30T16:00:00-07:00",
       "end_at": "2027-03-30T19:00:00-07:00",
       "image_url": null
+    },
+    {
+      "event_id": "714a081fb81b7a75",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Song Cai Viet Nam Gin",
+      "description": "Song Cai is a first of its kind Vietnamese distillery bottling the taste and flavors of Viet Nam's biodiverse terroir through gins and other spirits. Come by and try their unique gins!",
+      "start_at": "2027-04-07T16:00:00-07:00",
+      "end_at": "2027-04-07T19:00:00-07:00",
+      "image_url": null
     }
   ],
   "location": "Costa Mesa",
