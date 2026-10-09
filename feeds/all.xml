@@ -5,7 +5,18 @@
     <link>feeds/all.xml</link>
     <description>Combined events from all local feed sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Oct 2026 05:34:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 05:38:33 +0000</lastBuildDate>
+    <item>
+      <title>Free Tasting: Noot N/A</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Oct 15 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Join us for a complimentary tasting of Noot N/A mocktails!&lt;/p&gt;</description>
+      <pubDate>Thu, 15 Oct 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">b6a512a26fbcac03</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2025/10/IMG_9569.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Free Tasting: NEFT Vodka</title>
       <link>https://hiloliquor.com/locations/#Costa%20Mesa</link>

@@ -1925,6 +1925,15 @@
       "start_at": "2027-03-28T16:00:00-07:00",
       "end_at": "2027-03-28T19:00:00-07:00",
       "image_url": "https://hiloliquor.com/wp-content/uploads/2026/03/Granalta-Tequila.png"
+    },
+    {
+      "event_id": "614cdcb3d0d82cdd",
+      "location": "Culver City",
+      "title": "Free Tasting: Duvel Beer",
+      "description": "Join us for a free tasting with Duvel, the iconic Belgian Golden Ale.",
+      "start_at": "2027-04-08T16:00:00-07:00",
+      "end_at": "2027-04-08T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2025/07/Screenshot-2025-07-15-at-2.25.53%E2%80%AFPM.png"
     }
   ],
   "location": "Culver City",
