@@ -2078,6 +2078,15 @@
       "start_at": "2027-04-10T16:00:00-07:00",
       "end_at": "2027-04-10T19:00:00-07:00",
       "image_url": "https://hiloliquor.com/wp-content/uploads/2023/03/Luxardo-1.png"
+    },
+    {
+      "event_id": "1182fdfe935a4b05",
+      "location": "Long Beach",
+      "title": "Free Tasting: Engine Organic Gin",
+      "description": "Join us for a free tasting with Engine Organic Gin, handmade in Italy!",
+      "start_at": "2027-04-11T16:00:00-07:00",
+      "end_at": "2027-04-11T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2025/04/Screenshot-2025-04-08-at-1.51.23%E2%80%AFPM.png"
     }
   ],
   "location": "Long Beach",
