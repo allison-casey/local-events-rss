@@ -1630,6 +1630,15 @@
       "image_url": "https://hiloliquor.com/wp-content/uploads/2026/08/IMG_6530.jpg"
     },
     {
+      "event_id": "45b299509bae0507",
+      "location": "Culver City",
+      "title": "Free Tasting: Forthave Spirits",
+      "description": "Join us for a complimentary tasting with artisanal spirits from Forthave!",
+      "start_at": "2026-10-14T16:00:00-07:00",
+      "end_at": "2026-10-14T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2026/10/Screenshot-2026-10-13-at-11.08.16-AM.png"
+    },
+    {
       "event_id": "b6a512a26fbcac03",
       "location": "Culver City",
       "title": "Free Tasting: Noot N/A",
@@ -1639,6 +1648,60 @@
       "image_url": "https://hiloliquor.com/wp-content/uploads/2025/10/IMG_9569.jpg"
     },
     {
+      "event_id": "847ee7699f65010b",
+      "location": "Culver City",
+      "title": "Free Tasting: Six 13 ~ Fig & Apple Liqueur",
+      "description": "Join to meet the founder of Six 13  as they taste through their artisanal Fig & Apple Liqueur!",
+      "start_at": "2026-10-15T16:00:00-07:00",
+      "end_at": "2026-10-15T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2026/10/IMG_0685.jpg"
+    },
+    {
+      "event_id": "2036cd7b06ed06f7",
+      "location": "Culver City",
+      "title": "Free Tasting: Kin A Peel Liqueur",
+      "description": "Come try this deliciously whimsical entry into the liqueur world.  KIN A-Peel Banana Liqueur is an irresistible fusion of our white whiskey with lusciously over-ripe bananas. Crafted to perfection, this banana liqueur promises an A-Peeling experience for both your cocktail creations and culinary adventures.",
+      "start_at": "2026-10-15T16:00:00-07:00",
+      "end_at": "2026-10-15T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2026/05/Kin-A-Peel.png"
+    },
+    {
+      "event_id": "f792e7f7058b847e",
+      "location": "Culver City",
+      "title": "Food Pop-Up: Top Jerk Chicken",
+      "description": "Join us this Thursday with Pop Jerk Chicken! Check out the menu!",
+      "start_at": "2026-10-15T17:00:00-07:00",
+      "end_at": "2026-10-15T20:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2026/09/IMG_8065.jpg"
+    },
+    {
+      "event_id": "ecaf4eb6b27d46ae",
+      "location": "Culver City",
+      "title": "Food Pop-Up: Little Dynamite Pizza",
+      "description": "Serving up pizza sliced by Little Dynamite! Inquire at The Counter~",
+      "start_at": "2026-10-16T17:00:00-07:00",
+      "end_at": "2026-10-16T21:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2026/08/IMG_6530.jpg"
+    },
+    {
+      "event_id": "a93e31ea36adc648",
+      "location": "Culver City",
+      "title": "Culver City: Matcha Bear Pop-up!",
+      "description": "Matcha Bear is popping up this Saturday! Come by to try their delicious matcha drinks to kick off your Saturday!",
+      "start_at": "2026-10-17T10:30:00-07:00",
+      "end_at": "2026-10-17T13:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2026/06/IMG_7535.jpg"
+    },
+    {
+      "event_id": "0737473f6bf5a250",
+      "location": "Culver City",
+      "title": "Free Tasting: Fuego Hard Ginger Beer",
+      "description": "Join us for a complimentary tasting of Fuego Hard Ginger Beer",
+      "start_at": "2026-10-17T13:00:00-07:00",
+      "end_at": "2026-10-17T16:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2026/09/IMG_9149.jpg"
+    },
+    {
       "event_id": "5934529eb81a3495",
       "location": "Culver City",
       "title": "Free Tasting: Crooked Owl Hard Tepache",
@@ -1646,6 +1709,24 @@
       "start_at": "2026-10-17T16:00:00-07:00",
       "end_at": "2026-10-17T19:00:00-07:00",
       "image_url": "https://hiloliquor.com/wp-content/uploads/2024/07/Screenshot-2024-07-15-at-2.12.15%E2%80%AFPM-1.png"
+    },
+    {
+      "event_id": "9804f10d174abbf8",
+      "location": "Culver City",
+      "title": "Free Tasting: Mahrs Brau Beer",
+      "description": "Join us for a complimentary tasting with Mahrs Brau Beer!",
+      "start_at": "2026-10-17T16:00:00-07:00",
+      "end_at": "2026-10-17T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2024/07/Screenshot-2026-10-13-at-11.18.45-AM.png"
+    },
+    {
+      "event_id": "f5643b59bc423011",
+      "location": "Culver City",
+      "title": "Food Pop-Up: Calamaki Greek Food",
+      "description": "Pop by to enjoy delicious Greek Food by Calamaki!",
+      "start_at": "2026-10-17T17:00:00-07:00",
+      "end_at": "2026-10-17T20:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2026/08/IMG_6355.jpg"
     },
     {
       "event_id": "235c26660abb5a89",

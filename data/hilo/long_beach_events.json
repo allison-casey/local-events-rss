@@ -1684,6 +1684,24 @@
       "image_url": "https://hiloliquor.com/wp-content/uploads/2024/10/Screenshot-2024-10-08-at-4.37.05%E2%80%AFPM.png"
     },
     {
+      "event_id": "ee41ce1a03f67eb2",
+      "location": "Long Beach",
+      "title": "Free Tasting: Buji Highball Cocktails",
+      "description": "Join us for a complimentary tasting with Buji Highball Cocktails!",
+      "start_at": "2026-10-14T16:00:00-07:00",
+      "end_at": "2026-10-14T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2026/10/Screenshot-2026-10-13-at-11.03.36-AM.png"
+    },
+    {
+      "event_id": "4724928f58c4498f",
+      "location": "Long Beach",
+      "title": "Hi-Lo Long Beach: King Trivia",
+      "description": "Join us at our Long Beach location every Wednesday night for trivia! If you're a pop-culture buff, this is the night for you!",
+      "start_at": "2026-10-14T19:00:00-07:00",
+      "end_at": "2026-10-14T21:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2023/10/HiLo-Returning-Post-3-2026-e1770771667892.jpg"
+    },
+    {
       "event_id": "6ab446a00e545c96",
       "location": "Long Beach",
       "title": "Food Pop-Up: Smokmoc Yakitori",

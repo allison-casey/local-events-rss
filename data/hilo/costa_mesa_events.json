@@ -1421,6 +1421,15 @@
       "start_at": "2027-04-07T16:00:00-07:00",
       "end_at": "2027-04-07T19:00:00-07:00",
       "image_url": null
+    },
+    {
+      "event_id": "b294e12ed9268847",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Redthumb Wines",
+      "description": "Redthumb Wines focuses on organic, natural, and clean wines and are transparent about it! Come by and try their Chardonnay and Tempranillo!",
+      "start_at": "2027-04-13T16:00:00-07:00",
+      "end_at": "2027-04-13T19:00:00-07:00",
+      "image_url": null
     }
   ],
   "location": "Costa Mesa",

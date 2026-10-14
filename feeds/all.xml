@@ -5,7 +5,17 @@
     <link>feeds/all.xml</link>
     <description>Combined events from all local feed sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Oct 2026 06:25:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 04:26:13 +0000</lastBuildDate>
+    <item>
+      <title>Free Tasting: Calirosa Tequila</title>
+      <link>https://hiloliquor.com/locations/#Costa%20Mesa</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Oct 20 5:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Costa Mesa&lt;/p&gt;
+&lt;p&gt;Calirosa has taken a spin on traditional tequila – a fusion of Mexican spirit and California style captured in their Rosa Blanco, Anejo and Extra Anejo. Come by and try their 100% agave tequilas aged in California red wine barrels.&lt;/p&gt;</description>
+      <pubDate>Tue, 20 Oct 2026 17:00:00 -0700</pubDate>
+      <guid isPermaLink="false">a7536e067f1826a6</guid>
+      <category>Costa Mesa</category>
+    </item>
     <item>
       <title>Costa Mesa Fall Market</title>
       <link>https://hiloliquor.com/locations/#Costa%20Mesa</link>
@@ -16,6 +26,17 @@
       <guid isPermaLink="false">0e0bc2234bddb96f</guid>
       <category>Costa Mesa</category>
       <enclosure url="https://hiloliquor.com/wp-content/uploads/2025/10/Fall-Market.zip-1.png" type="image/png" />
+    </item>
+    <item>
+      <title>Food Pop-Up: Calamaki Greek Food</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Oct 17 5:00 PM - 8:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Pop by to enjoy delicious Greek Food by Calamaki!&lt;/p&gt;</description>
+      <pubDate>Sat, 17 Oct 2026 17:00:00 -0700</pubDate>
+      <guid isPermaLink="false">f5643b59bc423011</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2026/08/IMG_6355.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Food Pop-Up: Smokmoc Yakitori</title>
@@ -40,6 +61,50 @@
       <enclosure url="https://hiloliquor.com/wp-content/uploads/2024/07/Screenshot-2024-07-15-at-2.12.15%E2%80%AFPM-1.png" type="image/png" />
     </item>
     <item>
+      <title>Free Tasting: Mahrs Brau Beer</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Oct 17 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Join us for a complimentary tasting with Mahrs Brau Beer!&lt;/p&gt;</description>
+      <pubDate>Sat, 17 Oct 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">9804f10d174abbf8</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2024/07/Screenshot-2026-10-13-at-11.18.45-AM.png" type="image/png" />
+    </item>
+    <item>
+      <title>Free Tasting: Fuego Hard Ginger Beer</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Oct 17 1:00 PM - 4:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Join us for a complimentary tasting of Fuego Hard Ginger Beer&lt;/p&gt;</description>
+      <pubDate>Sat, 17 Oct 2026 13:00:00 -0700</pubDate>
+      <guid isPermaLink="false">0737473f6bf5a250</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2026/09/IMG_9149.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Culver City: Matcha Bear Pop-up!</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Oct 17 10:30 AM - 1:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Matcha Bear is popping up this Saturday! Come by to try their delicious matcha drinks to kick off your Saturday!&lt;/p&gt;</description>
+      <pubDate>Sat, 17 Oct 2026 10:30:00 -0700</pubDate>
+      <guid isPermaLink="false">a93e31ea36adc648</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2026/06/IMG_7535.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Food Pop-Up: Little Dynamite Pizza</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Oct 16 5:00 PM - 9:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Serving up pizza sliced by Little Dynamite! Inquire at The Counter~&lt;/p&gt;</description>
+      <pubDate>Fri, 16 Oct 2026 17:00:00 -0700</pubDate>
+      <guid isPermaLink="false">ecaf4eb6b27d46ae</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2026/08/IMG_6530.jpg" type="image/jpeg" />
+    </item>
+    <item>
       <title>Free Tasting: Chapman Crafted Beer</title>
       <link>https://hiloliquor.com/locations/#Costa%20Mesa</link>
       <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Oct 16 4:00 PM - 7:00 PM&lt;/p&gt;
@@ -51,6 +116,17 @@
       <enclosure url="https://hiloliquor.com/wp-content/uploads/2025/07/Screenshot-2025-07-15-at-2.32.58%E2%80%AFPM.png" type="image/png" />
     </item>
     <item>
+      <title>Food Pop-Up: Top Jerk Chicken</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Oct 15 5:00 PM - 8:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Join us this Thursday with Pop Jerk Chicken! Check out the menu!&lt;/p&gt;</description>
+      <pubDate>Thu, 15 Oct 2026 17:00:00 -0700</pubDate>
+      <guid isPermaLink="false">f792e7f7058b847e</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2026/09/IMG_8065.jpg" type="image/jpeg" />
+    </item>
+    <item>
       <title>Free Tasting: Noot N/A</title>
       <link>https://hiloliquor.com/locations/#Culver%20City</link>
       <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Oct 15 4:00 PM - 7:00 PM&lt;/p&gt;
@@ -60,6 +136,61 @@
       <guid isPermaLink="false">b6a512a26fbcac03</guid>
       <category>Culver City</category>
       <enclosure url="https://hiloliquor.com/wp-content/uploads/2025/10/IMG_9569.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Free Tasting: Six 13 ~ Fig &amp; Apple Liqueur</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Oct 15 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Join to meet the founder of Six 13  as they taste through their artisanal Fig &amp;amp; Apple Liqueur!&lt;/p&gt;</description>
+      <pubDate>Thu, 15 Oct 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">847ee7699f65010b</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2026/10/IMG_0685.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Free Tasting: Kin A Peel Liqueur</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Oct 15 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Come try this deliciously whimsical entry into the liqueur world.  KIN A-Peel Banana Liqueur is an irresistible fusion of our white whiskey with lusciously over-ripe bananas. Crafted to perfection, this banana liqueur promises an A-Peeling experience for both your cocktail creations and culinary adventures.&lt;/p&gt;</description>
+      <pubDate>Thu, 15 Oct 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">2036cd7b06ed06f7</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2026/05/Kin-A-Peel.png" type="image/png" />
+    </item>
+    <item>
+      <title>Hi-Lo Long Beach: King Trivia</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Oct 14 7:00 PM - 9:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;
+&lt;p&gt;Join us at our Long Beach location every Wednesday night for trivia! If you&amp;#x27;re a pop-culture buff, this is the night for you!&lt;/p&gt;</description>
+      <pubDate>Wed, 14 Oct 2026 19:00:00 -0700</pubDate>
+      <guid isPermaLink="false">4724928f58c4498f</guid>
+      <category>Long Beach</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2023/10/HiLo-Returning-Post-3-2026-e1770771667892.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Free Tasting: Forthave Spirits</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Oct 14 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Join us for a complimentary tasting with artisanal spirits from Forthave!&lt;/p&gt;</description>
+      <pubDate>Wed, 14 Oct 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">45b299509bae0507</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2026/10/Screenshot-2026-10-13-at-11.08.16-AM.png" type="image/png" />
+    </item>
+    <item>
+      <title>Free Tasting: Buji Highball Cocktails</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Oct 14 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;
+&lt;p&gt;Join us for a complimentary tasting with Buji Highball Cocktails!&lt;/p&gt;</description>
+      <pubDate>Wed, 14 Oct 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">ee41ce1a03f67eb2</guid>
+      <category>Long Beach</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2026/10/Screenshot-2026-10-13-at-11.03.36-AM.png" type="image/png" />
     </item>
     <item>
       <title>Free Tasting: NEFT Vodka</title>

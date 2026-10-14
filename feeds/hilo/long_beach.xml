@@ -5,7 +5,7 @@
     <link>https://hiloliquor.com/locations/#Long%20Beach</link>
     <description>Upcoming tastings, pop-ups, and events at Hi-Lo Liquor Market (Long Beach).</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Oct 2026 23:25:20 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 21:26:13 -0700</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>Food Pop-Up: Smokmoc Yakitori</title>
@@ -17,6 +17,28 @@
       <guid isPermaLink="false">6ab446a00e545c96</guid>
       <category>Long Beach</category>
       <enclosure url="https://hiloliquor.com/wp-content/uploads/2024/10/Screenshot-2024-10-16-at-3.21.36%E2%80%AFPM.png" type="image/png" />
+    </item>
+    <item>
+      <title>Hi-Lo Long Beach: King Trivia</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Oct 14 7:00 PM - 9:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;
+&lt;p&gt;Join us at our Long Beach location every Wednesday night for trivia! If you&amp;#x27;re a pop-culture buff, this is the night for you!&lt;/p&gt;</description>
+      <pubDate>Wed, 14 Oct 2026 19:00:00 -0700</pubDate>
+      <guid isPermaLink="false">4724928f58c4498f</guid>
+      <category>Long Beach</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2023/10/HiLo-Returning-Post-3-2026-e1770771667892.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Free Tasting: Buji Highball Cocktails</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Oct 14 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;
+&lt;p&gt;Join us for a complimentary tasting with Buji Highball Cocktails!&lt;/p&gt;</description>
+      <pubDate>Wed, 14 Oct 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">ee41ce1a03f67eb2</guid>
+      <category>Long Beach</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2026/10/Screenshot-2026-10-13-at-11.03.36-AM.png" type="image/png" />
     </item>
     <item>
       <title>Fall Market</title>
