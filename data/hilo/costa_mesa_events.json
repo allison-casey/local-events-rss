@@ -1430,6 +1430,15 @@
       "start_at": "2027-04-13T16:00:00-07:00",
       "end_at": "2027-04-13T19:00:00-07:00",
       "image_url": null
+    },
+    {
+      "event_id": "197a220facd5bfa4",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Mariscos & Martinis",
+      "description": "Come by and try some delicious Mariscos including oysters & seafood bites and pair them with mini Martini samples made with Las Californias gins!",
+      "start_at": "2027-04-15T16:00:00-07:00",
+      "end_at": "2027-04-15T19:00:00-07:00",
+      "image_url": null
     }
   ],
   "location": "Costa Mesa",
