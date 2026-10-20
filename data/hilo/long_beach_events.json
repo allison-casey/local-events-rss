@@ -2105,6 +2105,15 @@
       "start_at": "2027-04-11T16:00:00-07:00",
       "end_at": "2027-04-11T19:00:00-07:00",
       "image_url": "https://hiloliquor.com/wp-content/uploads/2025/04/Screenshot-2025-04-08-at-1.51.23%E2%80%AFPM.png"
+    },
+    {
+      "event_id": "0c55a653ad29c807",
+      "location": "Long Beach",
+      "title": "Food Pop-Up: Antonio’s Paella",
+      "description": "Come eat some delicious Paella from Antonio's! Perfect to pair with a glass of wine or crispy pint!",
+      "start_at": "2027-04-19T17:00:00-07:00",
+      "end_at": "2027-04-19T20:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2025/04/281006102838916048.jpg"
     }
   ],
   "location": "Long Beach",

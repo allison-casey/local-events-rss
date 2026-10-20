@@ -1439,6 +1439,15 @@
       "start_at": "2027-04-15T16:00:00-07:00",
       "end_at": "2027-04-15T19:00:00-07:00",
       "image_url": null
+    },
+    {
+      "event_id": "e8edc775df9e5474",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Sake High",
+      "description": "A female owned sake born out of a love and passion for a good drink! Sake High is brewed in Kyoto, Japan and is all-natural, gluten free and sulfite free.",
+      "start_at": "2027-04-19T15:00:00-07:00",
+      "end_at": "2027-04-19T18:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2023/03/Screen-Shot-2024-01-23-at-3.30.35-PM.png"
     }
   ],
   "location": "Costa Mesa",
