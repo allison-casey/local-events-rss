@@ -1729,6 +1729,15 @@
       "image_url": "https://hiloliquor.com/wp-content/uploads/2026/08/IMG_6355.jpg"
     },
     {
+      "event_id": "2d0b6adde2460e70",
+      "location": "Culver City",
+      "title": "Free Tasting: BTL SVC",
+      "description": "BTL SVC provides award-winning, hand-crafted, premium cocktails, conveniently served anytime and anywhere.",
+      "start_at": "2026-10-21T16:00:00-07:00",
+      "end_at": "2026-10-21T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2024/01/Screen-Shot-2024-01-22-at-5.52.58-PM.png"
+    },
+    {
       "event_id": "235c26660abb5a89",
       "location": "Culver City",
       "title": "Free Tasting: BTL-SVC RTD Cocktails",
@@ -1745,6 +1754,60 @@
       "start_at": "2026-10-22T16:00:00-07:00",
       "end_at": "2026-10-23T07:00:00-07:00",
       "image_url": "https://hiloliquor.com/wp-content/uploads/2025/10/IMG_9569.jpg"
+    },
+    {
+      "event_id": "7b5503c84d849cc0",
+      "location": "Culver City",
+      "title": "Free Tasting: Old G Gin",
+      "description": "Join us for a free tasting with Old G Gin, a London dry style gin made in the traditional method without preservatives!",
+      "start_at": "2026-10-22T16:00:00-07:00",
+      "end_at": "2026-10-22T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2024/09/Screenshot-2024-09-30-at-5.17.29%E2%80%AFPM.png"
+    },
+    {
+      "event_id": "70594710e84d0098",
+      "location": "Culver City",
+      "title": "Food Pop-Up: Falafel Garden",
+      "description": "Come on by to enjoy hand crafted Falafel, Hummus and salads!",
+      "start_at": "2026-10-22T17:00:00-07:00",
+      "end_at": "2026-10-22T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2026/10/IMG_1069.jpg"
+    },
+    {
+      "event_id": "2df85a8a0301981e",
+      "location": "Culver City",
+      "title": "Free Tasting: Hi-Lo X Lost Republic Single Barrel",
+      "description": "Lost Republic Distilling Co. was created by two best friends who had a vision of creating and delivering California's highest quality craft whiskey. Their Master Distiller has a keen attention to detail during the blending process, giving their whiskey flavor complexity and depth.   \r\nCome try their small batch American whiskey produced right here in the heart of Sonoma.",
+      "start_at": "2026-10-23T16:00:00-07:00",
+      "end_at": "2026-10-23T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2022/08/Asset-3.png"
+    },
+    {
+      "event_id": "5540e7c830076a2e",
+      "location": "Culver City",
+      "title": "Food Pop-Up: Little Dynamite Pizza",
+      "description": "Serving up pizza sliced by Little Dynamite! Inquire at The Counter~",
+      "start_at": "2026-10-23T17:00:00-07:00",
+      "end_at": "2026-10-23T21:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2026/08/IMG_6530.jpg"
+    },
+    {
+      "event_id": "31159b7dcef99714",
+      "location": "Culver City",
+      "title": "Free Tasting: Buji Highball Cocktails",
+      "description": "Join us for a complimentary tasting with Buji Highball Cocktails!",
+      "start_at": "2026-10-24T16:00:00-07:00",
+      "end_at": "2026-10-24T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2026/10/Screenshot-2026-10-13-at-11.03.36-AM.png"
+    },
+    {
+      "event_id": "7e72076c3b12ecc6",
+      "location": "Culver City",
+      "title": "Food Pop-Up: Yatai Japanese Street Food",
+      "description": "Join us for some delicious Japanese street food from Yatai in LA!",
+      "start_at": "2026-10-24T17:00:00-07:00",
+      "end_at": "2026-10-24T20:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2026/09/IMG_9544.jpg"
     },
     {
       "event_id": "1edaa9f3283181b9",
