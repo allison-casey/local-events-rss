@@ -5,7 +5,29 @@
     <link>feeds/all.xml</link>
     <description>Combined events from all local feed sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Oct 2026 04:17:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 04:08:23 +0000</lastBuildDate>
+    <item>
+      <title>Boo Bash</title>
+      <link>https://hiloliquor.com/locations/#Costa%20Mesa</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Oct 30 5:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Costa Mesa&lt;/p&gt;
+&lt;p&gt;Join us for some Halloween Festivities at the Camp! We&amp;#x27;ll have complimentary tastings and Donuts by Dane&amp;#x27;s Donuts!&lt;/p&gt;</description>
+      <pubDate>Fri, 30 Oct 2026 17:00:00 -0700</pubDate>
+      <guid isPermaLink="false">b576656bfa19e9ce</guid>
+      <category>Costa Mesa</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2024/10/Screenshot-2024-10-29-at-12.18.55%E2%80%AFPM.png" type="image/png" />
+    </item>
+    <item>
+      <title>Free Tasting: Xila Aperitif + Coastal Stone + Bimini Gin</title>
+      <link>https://hiloliquor.com/locations/#Costa%20Mesa</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Oct 30 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Costa Mesa&lt;/p&gt;
+&lt;p&gt;Enjoy this complimentary tasting around the world spirits!&lt;/p&gt;</description>
+      <pubDate>Fri, 30 Oct 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">f6af94c626ca7e38</guid>
+      <category>Costa Mesa</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2024/03/IMG_9160.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Free Tasting: St. George Spirits</title>
       <link>https://hiloliquor.com/locations/#Culver%20City</link>
