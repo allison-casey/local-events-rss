@@ -2087,6 +2087,15 @@
       "start_at": "2027-04-09T16:00:00-07:00",
       "end_at": "2027-04-09T19:00:00-07:00",
       "image_url": "https://hiloliquor.com/wp-content/uploads/2026/04/Domaine-Zafeirakis.png"
+    },
+    {
+      "event_id": "790385be4004d99a",
+      "location": "Culver City",
+      "title": "Free Tasting: Lost Republic Whiskey + OVO Vodka + Bottle Logic",
+      "description": "Join us for a complimentary tasting of OVO Vodka, Lost Republic whiskey & Bottle Logic beers!",
+      "start_at": "2027-04-24T16:00:00-07:00",
+      "end_at": "2027-04-24T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2023/02/IMG_9416.jpg"
     }
   ],
   "location": "Culver City",
