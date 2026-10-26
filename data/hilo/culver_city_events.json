@@ -2096,6 +2096,24 @@
       "start_at": "2027-04-24T16:00:00-07:00",
       "end_at": "2027-04-24T19:00:00-07:00",
       "image_url": "https://hiloliquor.com/wp-content/uploads/2023/02/IMG_9416.jpg"
+    },
+    {
+      "event_id": "423b39f3a8080c95",
+      "location": "Culver City",
+      "title": "Free Tasting: Madwoman Espresso Martini",
+      "description": "Join us for a free tasting of a delightful new entry in the world of espresso martinis!",
+      "start_at": "2027-04-25T13:00:00-07:00",
+      "end_at": "2027-04-25T16:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2026/03/MadWoman-Espresso.png"
+    },
+    {
+      "event_id": "f26ba75f7cca8937",
+      "location": "Culver City",
+      "title": "Free Tasting: La Bodega Tequila",
+      "description": "Come sample this unpretentious \"tequila for the people.\"",
+      "start_at": "2027-04-25T16:00:00-07:00",
+      "end_at": "2027-04-25T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2026/04/La-Bodega-Tequila.png"
     }
   ],
   "location": "Culver City",
