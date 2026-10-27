@@ -5,7 +5,18 @@
     <link>feeds/all.xml</link>
     <description>Combined events from all local feed sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Oct 2026 04:14:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 04:33:35 +0000</lastBuildDate>
+    <item>
+      <title>Free Tasting: Ranch West Organic Beer</title>
+      <link>https://hiloliquor.com/locations/#Costa%20Mesa</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Nov 2 3:00 PM - 6:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Costa Mesa&lt;/p&gt;
+&lt;p&gt;Come sample Ranch West Organic Beer! Their a mission to shift the cultural change towards a beer that’s better for you and for the planet.&lt;/p&gt;</description>
+      <pubDate>Mon, 02 Nov 2026 15:00:00 -0800</pubDate>
+      <guid isPermaLink="false">3a58375dddfb59ae</guid>
+      <category>Costa Mesa</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2024/10/Screenshot-2024-10-24-at-12.03.29%E2%80%AFPM.png" type="image/png" />
+    </item>
     <item>
       <title>Boo Bash</title>
       <link>https://hiloliquor.com/locations/#Costa%20Mesa</link>
