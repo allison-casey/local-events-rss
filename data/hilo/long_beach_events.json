@@ -1765,6 +1765,33 @@
       "image_url": "https://hiloliquor.com/wp-content/uploads/2023/10/Screen-Shot-2023-10-19-at-3.36.15-PM.png"
     },
     {
+      "event_id": "a08a89e5553b100a",
+      "location": "Long Beach",
+      "title": "Free Tasting: BTL SVC",
+      "description": "BTL SVC provides award-winning, hand-crafted, premium cocktails, conveniently served anytime and anywhere.",
+      "start_at": "2026-10-28T16:00:00-07:00",
+      "end_at": "2026-10-28T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2024/01/Screen-Shot-2024-01-22-at-5.52.58-PM.png"
+    },
+    {
+      "event_id": "eb0f624e7c1ba400",
+      "location": "Long Beach",
+      "title": "Free Tasting: Bandero Tequila",
+      "description": "Join us for a free tasting with Bandero Tequila!",
+      "start_at": "2026-10-29T16:00:00-07:00",
+      "end_at": "2026-10-29T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2024/12/Screenshot-2024-12-02-at-3.07.48%E2%80%AFPM.png"
+    },
+    {
+      "event_id": "7192b031e1f71577",
+      "location": "Long Beach",
+      "title": "Free Tasting: Fuego Hard Ginger Beer",
+      "description": "Join us for a complimentary tasting of Fuego Hard Ginger Beer",
+      "start_at": "2026-10-30T16:00:00-07:00",
+      "end_at": "2026-10-30T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2026/09/IMG_9149.jpg"
+    },
+    {
       "event_id": "2eb3c6ca7cdc7f8c",
       "location": "Long Beach",
       "title": "Free Tasting: Thirst Trap",

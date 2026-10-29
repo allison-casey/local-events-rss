@@ -811,6 +811,15 @@
       "image_url": "https://hiloliquor.com/wp-content/uploads/2024/01/Screen-Shot-2024-01-11-at-2.10.45-PM.png"
     },
     {
+      "event_id": "909def1a8dfa03b0",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Soso Sake",
+      "description": "Soso Sake + Soda is the first low abv, flavored sake in a can with bubbles. It’s perfectly effervescent, smooth and absolutely delicious in any setting. At only 5.8% ABV, Soso Sake drinks are light, dry and refreshing and are gluten free, vegan and sulfite free.",
+      "start_at": "2026-09-09T16:00:00-07:00",
+      "end_at": "2026-09-09T19:00:00-07:00",
+      "image_url": null
+    },
+    {
       "event_id": "25e4289f826ede28",
       "location": "Costa Mesa",
       "title": "Free Tasting: Soonish",

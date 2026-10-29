@@ -5,7 +5,17 @@
     <link>feeds/all.xml</link>
     <description>Combined events from all local feed sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Oct 2026 05:06:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 05:18:31 +0000</lastBuildDate>
+    <item>
+      <title>Free Tasting: Angel's Envy</title>
+      <link>https://hiloliquor.com/locations/#Costa%20Mesa</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Nov 4 3:00 PM - 6:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Costa Mesa&lt;/p&gt;
+&lt;p&gt;Based in the heart of Louisville, Angel&amp;#x27;s Envy produces Kentucky Straight Bourbon Finished in Port Barrels. Angel&amp;#x27;s Envy started as a father &amp;amp; son project and has now evolved into  a project in which 3 generations of Hendersons are all working together. Come on in and try Angel&amp;#x27;s Envy small-batch, hand crafted whiskies!&lt;/p&gt;</description>
+      <pubDate>Wed, 04 Nov 2026 15:00:00 -0800</pubDate>
+      <guid isPermaLink="false">b81fc0b4d75dc6b6</guid>
+      <category>Costa Mesa</category>
+    </item>
     <item>
       <title>Free Tasting: Ranch West Organic Beer</title>
       <link>https://hiloliquor.com/locations/#Costa%20Mesa</link>
@@ -16,6 +26,17 @@
       <guid isPermaLink="false">3a58375dddfb59ae</guid>
       <category>Costa Mesa</category>
       <enclosure url="https://hiloliquor.com/wp-content/uploads/2024/10/Screenshot-2024-10-24-at-12.03.29%E2%80%AFPM.png" type="image/png" />
+    </item>
+    <item>
+      <title>Food Pop-Up: Hevn &amp; Rth Purpose Kchn</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Oct 31 5:00 PM - 8:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Join us this Saturday with Hevn &amp;amp; Rth Purpose Kchn meatless Tacos!&lt;/p&gt;</description>
+      <pubDate>Sat, 31 Oct 2026 17:00:00 -0700</pubDate>
+      <guid isPermaLink="false">e89fdbe5a144174b</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2026/09/IMG_8066.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Boo Bash</title>
@@ -29,6 +50,17 @@
       <enclosure url="https://hiloliquor.com/wp-content/uploads/2024/10/Screenshot-2024-10-29-at-12.18.55%E2%80%AFPM.png" type="image/png" />
     </item>
     <item>
+      <title>Food Pop-Up: Little Dynamite Pizza</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Oct 30 5:00 PM - 9:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Serving up pizza sliced by Little Dynamite! Inquire at The Counter~&lt;/p&gt;</description>
+      <pubDate>Fri, 30 Oct 2026 17:00:00 -0700</pubDate>
+      <guid isPermaLink="false">baa4b058012b6c41</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2026/08/IMG_6530.jpg" type="image/jpeg" />
+    </item>
+    <item>
       <title>Free Tasting: Xila Aperitif + Coastal Stone + Bimini Gin</title>
       <link>https://hiloliquor.com/locations/#Costa%20Mesa</link>
       <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Oct 30 4:00 PM - 7:00 PM&lt;/p&gt;
@@ -40,6 +72,39 @@
       <enclosure url="https://hiloliquor.com/wp-content/uploads/2024/03/IMG_9160.jpg" type="image/jpeg" />
     </item>
     <item>
+      <title>Free Tasting: Tip Top Canned Cocktails</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Oct 30 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Join us for a free tasting with Tip Top canned cocktails!&lt;/p&gt;</description>
+      <pubDate>Fri, 30 Oct 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">bf814309d0436593</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2024/01/Screen-Shot-2024-01-11-at-2.10.45-PM.png" type="image/png" />
+    </item>
+    <item>
+      <title>Free Tasting: Fuego Hard Ginger Beer</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Oct 30 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;
+&lt;p&gt;Join us for a complimentary tasting of Fuego Hard Ginger Beer&lt;/p&gt;</description>
+      <pubDate>Fri, 30 Oct 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">7192b031e1f71577</guid>
+      <category>Long Beach</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2026/09/IMG_9149.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Food Pop-Up: Top Jerk Chicken</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Oct 29 5:00 PM - 8:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Join us this Thursday with Pop Jerk Chicken! Check out the menu!&lt;/p&gt;</description>
+      <pubDate>Thu, 29 Oct 2026 17:00:00 -0700</pubDate>
+      <guid isPermaLink="false">58a8bf67f05ec30b</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2026/09/IMG_8065.jpg" type="image/jpeg" />
+    </item>
+    <item>
       <title>Free Tasting: St. George Spirits</title>
       <link>https://hiloliquor.com/locations/#Culver%20City</link>
       <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Oct 29 4:00 PM - 7:00 PM&lt;/p&gt;
@@ -49,6 +114,28 @@
       <guid isPermaLink="false">1edaa9f3283181b9</guid>
       <category>Culver City</category>
       <enclosure url="https://hiloliquor.com/wp-content/uploads/2025/10/IMG_9779.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Free Tasting: Bandero Tequila</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Oct 29 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Join us for a free tasting with Bandero Tequila!&lt;/p&gt;</description>
+      <pubDate>Thu, 29 Oct 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">87f1d65657413819</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2024/12/Screenshot-2024-12-02-at-3.07.48%E2%80%AFPM.png" type="image/png" />
+    </item>
+    <item>
+      <title>Free Tasting: Bandero Tequila</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Oct 29 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;
+&lt;p&gt;Join us for a free tasting with Bandero Tequila!&lt;/p&gt;</description>
+      <pubDate>Thu, 29 Oct 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">eb0f624e7c1ba400</guid>
+      <category>Long Beach</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2024/12/Screenshot-2024-12-02-at-3.07.48%E2%80%AFPM.png" type="image/png" />
     </item>
     <item>
       <title>Free Tasting: Copalli Rum</title>
@@ -69,6 +156,28 @@
       <pubDate>Wed, 28 Oct 2026 17:00:00 -0700</pubDate>
       <guid isPermaLink="false">1c545d1b26b84417</guid>
       <category>Costa Mesa</category>
+    </item>
+    <item>
+      <title>Free Tasting: Compass Box Scotch</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Oct 28 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Join us for a complimentary tasting with Compass Box Whiskey co!&lt;/p&gt;</description>
+      <pubDate>Wed, 28 Oct 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">ce6ec2d2842e47c8</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2026/10/IMG_1070.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Free Tasting: BTL SVC</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Oct 28 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;
+&lt;p&gt;BTL SVC provides award-winning, hand-crafted, premium cocktails, conveniently served anytime and anywhere.&lt;/p&gt;</description>
+      <pubDate>Wed, 28 Oct 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">a08a89e5553b100a</guid>
+      <category>Long Beach</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2024/01/Screen-Shot-2024-01-22-at-5.52.58-PM.png" type="image/png" />
     </item>
     <item>
       <title>Free Tasting: Morro Mezcal</title>
@@ -1207,6 +1316,16 @@ Thrift &amp;amp; Sage&lt;/p&gt;</description>
 &lt;p&gt;Slightly tart and subtly sweet, Soonish Natural Beer is gluten-free, lightly carbonated, low calorie and low in sugar. Made from simple, wholesome ingredients (banana, ancient grains and honey), Soonish is a lighter, brighter brew for any and all occasions. Come through and try what this natural beer is all about!&lt;/p&gt;</description>
       <pubDate>Wed, 09 Sep 2026 17:00:00 -0700</pubDate>
       <guid isPermaLink="false">25e4289f826ede28</guid>
+      <category>Costa Mesa</category>
+    </item>
+    <item>
+      <title>Free Tasting: Soso Sake</title>
+      <link>https://hiloliquor.com/locations/#Costa%20Mesa</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Sep 9 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Costa Mesa&lt;/p&gt;
+&lt;p&gt;Soso Sake + Soda is the first low abv, flavored sake in a can with bubbles. It’s perfectly effervescent, smooth and absolutely delicious in any setting. At only 5.8% ABV, Soso Sake drinks are light, dry and refreshing and are gluten free, vegan and sulfite free.&lt;/p&gt;</description>
+      <pubDate>Wed, 09 Sep 2026 16:00:00 -0700</pubDate>
+      <guid isPermaLink="false">909def1a8dfa03b0</guid>
       <category>Costa Mesa</category>
     </item>
     <item>
