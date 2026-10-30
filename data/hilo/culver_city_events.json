@@ -2168,6 +2168,15 @@
       "start_at": "2027-04-25T16:00:00-07:00",
       "end_at": "2027-04-25T19:00:00-07:00",
       "image_url": "https://hiloliquor.com/wp-content/uploads/2026/04/La-Bodega-Tequila.png"
+    },
+    {
+      "event_id": "ff1efe730fa8b689",
+      "location": "Culver City",
+      "title": "Free Tasting: Saltire Scotch",
+      "description": "Come meet the global ambassador for Saltire Rare Malts and sample their incredible lineup of Scotches. There will also be small bite pairings to be sampled during the tasting.",
+      "start_at": "2027-04-29T16:00:00-07:00",
+      "end_at": "2027-04-29T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2026/04/Saltire.png"
     }
   ],
   "location": "Culver City",
