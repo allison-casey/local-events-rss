@@ -2204,6 +2204,33 @@
       "start_at": "2027-04-30T16:00:00-07:00",
       "end_at": "2027-04-30T19:00:00-07:00",
       "image_url": "https://hiloliquor.com/wp-content/uploads/2025/09/IMG_9076.jpg"
+    },
+    {
+      "event_id": "7f0dea8aa985a143",
+      "location": "Long Beach",
+      "title": "Free Tasting: Soto Sake",
+      "description": "Come join us for a free sample of Soto Sake.  Soto means 'outside' in Japanese, and these junmai sakes are a celebration of nature's purest elements.",
+      "start_at": "2027-05-02T13:00:00-07:00",
+      "end_at": "2027-05-02T16:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2026/04/Soto-Sake.png"
+    },
+    {
+      "event_id": "9c4fb7a8e2bc63be",
+      "location": "Long Beach",
+      "title": "Free Tasting: La Tierra De Acre Mezcal",
+      "description": "Come sample this fresh mezcal from the foothills of San Jose del Cabo.",
+      "start_at": "2027-05-02T16:00:00-07:00",
+      "end_at": "2027-05-02T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2026/04/La-Tierra-de-Acre-Mezcal.png"
+    },
+    {
+      "event_id": "c9c313ecedb087de",
+      "location": "Long Beach",
+      "title": "Free Tasting: Fiero Tequila",
+      "description": "Join us for a free tasting with Fiero Tequila, the spiciest infused tequila! It's additive-free & naturally infused!",
+      "start_at": "2027-05-02T16:00:00-07:00",
+      "end_at": "2027-05-02T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2025/04/Screenshot-2025-04-29-at-1.24.57%E2%80%AFPM.png"
     }
   ],
   "location": "Long Beach",
