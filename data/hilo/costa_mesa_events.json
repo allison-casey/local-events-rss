@@ -1493,6 +1493,15 @@
       "start_at": "2027-05-02T16:00:00-07:00",
       "end_at": "2027-05-02T19:00:00-07:00",
       "image_url": "https://hiloliquor.com/wp-content/uploads/2023/03/IMG_9780.jpg"
+    },
+    {
+      "event_id": "88918ba6792bb35e",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Angelisco Tequila",
+      "description": "Angelisco Tequila is produced in the Highlands of Jalisco, Mexico, from blue weber agave grown in the mineral rich, deep red clay soil within the Golden Triangle of the Los Altos region. Come taste their Blanco and Reposado Tequilas!",
+      "start_at": "2027-05-03T16:00:00-07:00",
+      "end_at": "2027-05-03T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2023/02/Screen-Shot-2024-02-12-at-4.12.20-PM.png"
     }
   ],
   "location": "Costa Mesa",
