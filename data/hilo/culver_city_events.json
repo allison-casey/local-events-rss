@@ -1873,6 +1873,33 @@
       "image_url": "https://hiloliquor.com/wp-content/uploads/2026/09/IMG_8066.jpg"
     },
     {
+      "event_id": "140186f11aed76a0",
+      "location": "Culver City",
+      "title": "Free Tasting: Salt Point Canned Cocktails",
+      "description": "Salt Point has been crafting premium canned cocktails with all-natural ingredients along the coast of Northern California since 2013. Right here to be exact: 38.0834° N, 122.7633° W. Everyone at Salt Point is committed to quality ingredients and the finest of spirits. Though things can get a little foggy around there, they're clear about this: less is more. That’s why they keep the ingredients to a minimum and prefer to sail by the stars. So whether you’re hanging with old friends or interesting strangers, Salt Point invites you to kick back and raise a can. Come on in and give Salt Point a try with this free tasting of their premium canned drinks!",
+      "start_at": "2026-11-04T16:00:00-08:00",
+      "end_at": "2026-11-04T19:00:00-08:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2022/06/IMG_0605.jpg"
+    },
+    {
+      "event_id": "fe6856731a5e8e00",
+      "location": "Culver City",
+      "title": "Free Tasting: Livewire Canned Cocktails",
+      "description": "LiveWire creates award-winning cocktails made by award-winning bartenders. The company's mission is to help further highlight the immensely talented bartenders that create brilliant drinks & nights, around the world. LiveWire bartender-collaborators design unique cocktails, using the finest spirits in the world, natural flavors and extracts, and choose the artists that design the art on the packaging to help their vision come alive. Come check out this bold new brand with a free tasting of their exciting ready-to-drink canned cocktails!",
+      "start_at": "2026-11-05T16:00:00-08:00",
+      "end_at": "2026-11-05T19:00:00-08:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2022/08/Screenshot-2026-02-06-at-2.46.30-PM.png"
+    },
+    {
+      "event_id": "268da22df367d692",
+      "location": "Culver City",
+      "title": "Food Pop-Up: Little Dynamite Pizza",
+      "description": "Serving up pizza sliced by Little Dynamite! Inquire at The Counter~",
+      "start_at": "2026-11-05T17:00:00-08:00",
+      "end_at": "2026-11-05T21:00:00-08:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2026/08/IMG_6530.jpg"
+    },
+    {
       "event_id": "9c9738a12402833c",
       "location": "Culver City",
       "title": "Free Tasting: Bücha Hard Kombucha",
@@ -1880,6 +1907,24 @@
       "start_at": "2026-11-06T16:00:00-08:00",
       "end_at": "2026-11-06T19:00:00-08:00",
       "image_url": "https://hiloliquor.com/wp-content/uploads/2025/11/IMG_9909.jpg"
+    },
+    {
+      "event_id": "03eae321e0fac0b1",
+      "location": "Culver City",
+      "title": "Free Tasting: Vale Tequila",
+      "description": "Join us for a free tasting with artisanal VALE Tequila!",
+      "start_at": "2026-11-06T16:00:00-08:00",
+      "end_at": "2026-11-06T19:00:00-08:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2026/11/IMG_1741.jpg"
+    },
+    {
+      "event_id": "f1fefd1daa99252c",
+      "location": "Culver City",
+      "title": "Free Tasting: Nosotros Tequila & Mezcal",
+      "description": "Nosotros is a small-batch agave spirits brand that marries the Pura Vida lifestyle of Costa Rica with the rebel spirit of Mexico, blending them under the California sun. Come on in and try this independent brand's award-winning Blanco, Reposado, and Mezcal!",
+      "start_at": "2026-11-07T13:00:00-08:00",
+      "end_at": "2026-11-07T16:00:00-08:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2022/12/Screenshot-2024-08-06-at-6.57.56%E2%80%AFPM.png"
     },
     {
       "event_id": "efe496c12b229074",

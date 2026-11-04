@@ -5,7 +5,7 @@
     <link>feeds/all.xml</link>
     <description>Combined events from all local feed sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Nov 2026 06:09:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 05:47:29 +0000</lastBuildDate>
     <item>
       <title>Free Tasting: ROM Beer Co</title>
       <link>https://hiloliquor.com/locations/#Costa%20Mesa</link>
@@ -16,6 +16,17 @@
       <guid isPermaLink="false">a5905abf23c08665</guid>
       <category>Costa Mesa</category>
       <enclosure url="https://hiloliquor.com/wp-content/uploads/2025/04/Screenshot-2025-04-08-at-1.58.52%E2%80%AFPM.png" type="image/png" />
+    </item>
+    <item>
+      <title>Free Tasting: Nosotros Tequila &amp; Mezcal</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Nov 7 1:00 PM - 4:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Nosotros is a small-batch agave spirits brand that marries the Pura Vida lifestyle of Costa Rica with the rebel spirit of Mexico, blending them under the California sun. Come on in and try this independent brand&amp;#x27;s award-winning Blanco, Reposado, and Mezcal!&lt;/p&gt;</description>
+      <pubDate>Sat, 07 Nov 2026 13:00:00 -0800</pubDate>
+      <guid isPermaLink="false">f1fefd1daa99252c</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2022/12/Screenshot-2024-08-06-at-6.57.56%E2%80%AFPM.png" type="image/png" />
     </item>
     <item>
       <title>Food Pop-Up: Yaya's Woodfired Pizza</title>
@@ -40,6 +51,28 @@
       <enclosure url="https://hiloliquor.com/wp-content/uploads/2025/11/IMG_9909.jpg" type="image/jpeg" />
     </item>
     <item>
+      <title>Free Tasting: Vale Tequila</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Nov 6 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Join us for a free tasting with artisanal VALE Tequila!&lt;/p&gt;</description>
+      <pubDate>Fri, 06 Nov 2026 16:00:00 -0800</pubDate>
+      <guid isPermaLink="false">03eae321e0fac0b1</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2026/11/IMG_1741.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Free Tasting: Livewire Canned Cocktails</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Nov 6 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;
+&lt;p&gt;LiveWire is a brand with the belief that bartenders could use a platform to reach their fans and future fans around the world. Our bartender-collaborators choose the artists that design the art on the packaging to help their vision come alive. We use the finest spirits in the world, natural flavors and extracts, and we’ll never try to dupe you with a fresh juice claim. Livewire is a brand, no doubt about it, however our focus is on putting the real talent of the drinks industry front and center with their name 7ft tall in lights like they deserve. Come check out this bold new brand with a free tasting of their exciting featured canned cocktails!&lt;/p&gt;</description>
+      <pubDate>Fri, 06 Nov 2026 16:00:00 -0800</pubDate>
+      <guid isPermaLink="false">abef0cf2ec93bf93</guid>
+      <category>Long Beach</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2022/08/Screen-Shot-2024-02-20-at-2.02.34-PM.png" type="image/png" />
+    </item>
+    <item>
       <title>Free Tasting: Thirst Trap</title>
       <link>https://hiloliquor.com/locations/#Long%20Beach</link>
       <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Nov 6 3:30 PM - 6:30 PM&lt;/p&gt;
@@ -49,6 +82,50 @@
       <guid isPermaLink="false">2eb3c6ca7cdc7f8c</guid>
       <category>Long Beach</category>
       <enclosure url="https://hiloliquor.com/wp-content/uploads/2024/09/Screenshot-2024-09-18-at-2.56.07%E2%80%AFPM.png" type="image/png" />
+    </item>
+    <item>
+      <title>Food Pop-Up: Little Dynamite Pizza</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Nov 5 5:00 PM - 9:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Serving up pizza sliced by Little Dynamite! Inquire at The Counter~&lt;/p&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 17:00:00 -0800</pubDate>
+      <guid isPermaLink="false">268da22df367d692</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2026/08/IMG_6530.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Free Tasting: Livewire Canned Cocktails</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Nov 5 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;LiveWire creates award-winning cocktails made by award-winning bartenders. The company&amp;#x27;s mission is to help further highlight the immensely talented bartenders that create brilliant drinks &amp;amp; nights, around the world. LiveWire bartender-collaborators design unique cocktails, using the finest spirits in the world, natural flavors and extracts, and choose the artists that design the art on the packaging to help their vision come alive. Come check out this bold new brand with a free tasting of their exciting ready-to-drink canned cocktails!&lt;/p&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 16:00:00 -0800</pubDate>
+      <guid isPermaLink="false">fe6856731a5e8e00</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2022/08/Screenshot-2026-02-06-at-2.46.30-PM.png" type="image/png" />
+    </item>
+    <item>
+      <title>Free Tasting: Salt Point Canned Cocktails</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Nov 5 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;
+&lt;p&gt;Salt Point has been crafting premium canned cocktails with all-natural ingredients along the coast of Northern California since 2013. Right here to be exact: 38.0834° N, 122.7633° W. Everyone at Salt Point is committed to quality ingredients and the finest of spirits. Though things can get a little foggy around there, they&amp;#x27;re clear about this: less is more. That’s why they keep the ingredients to a minimum and prefer to sail by the stars. So whether you’re hanging with old friends or interesting strangers, Salt Point invites you to kick back and raise a can. Come on in and give Salt Point a try with this free tasting of their premium canned drinks!&lt;/p&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 16:00:00 -0800</pubDate>
+      <guid isPermaLink="false">889d03cb4a5db27f</guid>
+      <category>Long Beach</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2022/06/IMG_0605.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Free Tasting: Salt Point Canned Cocktails</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Nov 4 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Salt Point has been crafting premium canned cocktails with all-natural ingredients along the coast of Northern California since 2013. Right here to be exact: 38.0834° N, 122.7633° W. Everyone at Salt Point is committed to quality ingredients and the finest of spirits. Though things can get a little foggy around there, they&amp;#x27;re clear about this: less is more. That’s why they keep the ingredients to a minimum and prefer to sail by the stars. So whether you’re hanging with old friends or interesting strangers, Salt Point invites you to kick back and raise a can. Come on in and give Salt Point a try with this free tasting of their premium canned drinks!&lt;/p&gt;</description>
+      <pubDate>Wed, 04 Nov 2026 16:00:00 -0800</pubDate>
+      <guid isPermaLink="false">140186f11aed76a0</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2022/06/IMG_0605.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Free Tasting: Angel's Envy</title>
@@ -1503,6 +1580,16 @@ Thrift &amp;amp; Sage&lt;/p&gt;</description>
       <guid isPermaLink="false">7573ff763d6757f5</guid>
       <category>Long Beach</category>
       <enclosure url="https://hiloliquor.com/wp-content/uploads/2023/10/HiLo-Returning-Post-3-2026-e1770771667892.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Free Tasting: Barr Hill Gin</title>
+      <link>https://hiloliquor.com/locations/#Costa%20Mesa</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Sep 1 5:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Costa Mesa&lt;/p&gt;
+&lt;p&gt;Lifelong beekeeper Todd and fermentation enthusiast Ryan created Barr Hill Gin is their ode to the hardworking bees of the Northeast. Each batch is distilled in our custom-built botanical extraction still. The juniper-forward botanicals are brought to a perfect balance by the floral depth of the raw honey. Come by and give their distinctive and unparalleled spirits a try!&lt;/p&gt;</description>
+      <pubDate>Tue, 01 Sep 2026 17:00:00 -0700</pubDate>
+      <guid isPermaLink="false">da1f7d8eb92fc1e7</guid>
+      <category>Costa Mesa</category>
     </item>
     <item>
       <title>Free Tasting: Tip Top</title>
