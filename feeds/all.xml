@@ -5,7 +5,28 @@
     <link>feeds/all.xml</link>
     <description>Combined events from all local feed sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Nov 2026 06:06:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 06:00:15 +0000</lastBuildDate>
+    <item>
+      <title>Free Tasting: Topo Chico Hard Seltzer</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Nov 12 3:30 PM - 6:30 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;
+&lt;p&gt;Makenzie from Topo Chico will be in store sampling guests on Topo Chico Hard Seltzer!&lt;/p&gt;</description>
+      <pubDate>Thu, 12 Nov 2026 15:30:00 -0800</pubDate>
+      <guid isPermaLink="false">364fdc91bfd0e572</guid>
+      <category>Long Beach</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2023/11/Screen-Shot-2023-11-06-at-4.30.04-PM.png" type="image/png" />
+    </item>
+    <item>
+      <title>Free Tasting: Sweet Gwendoline French Gin</title>
+      <link>https://hiloliquor.com/locations/#Costa%20Mesa</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Nov 12 1:00 PM - 4:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Costa Mesa&lt;/p&gt;
+&lt;p&gt;Sweet Gwendoline is a gin sourced in the South of France and infused with wine and Figue de Solliès, a variety of fig grown in the region. Come by and try this French gin an experience its sweet entry, juniper, green apple, pepper notes and unique round citrus finish.&lt;/p&gt;</description>
+      <pubDate>Thu, 12 Nov 2026 13:00:00 -0800</pubDate>
+      <guid isPermaLink="false">02aa0098b2b0fdb1</guid>
+      <category>Costa Mesa</category>
+    </item>
     <item>
       <title>Free Tasting: ROM Beer Co</title>
       <link>https://hiloliquor.com/locations/#Costa%20Mesa</link>
