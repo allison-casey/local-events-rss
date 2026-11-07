@@ -5,7 +5,29 @@
     <link>feeds/all.xml</link>
     <description>Combined events from all local feed sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Nov 2026 06:00:15 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 05:32:04 +0000</lastBuildDate>
+    <item>
+      <title>Free Tasting: Common Space Brewing</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Nov 13 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Join us for a free tasting with Common Space Brewery!&lt;/p&gt;</description>
+      <pubDate>Fri, 13 Nov 2026 16:00:00 -0800</pubDate>
+      <guid isPermaLink="false">efe496c12b229074</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2025/04/Screenshot-2025-04-29-at-1.15.11%E2%80%AFPM.png" type="image/png" />
+    </item>
+    <item>
+      <title>Free Tasting: Bardstown Whiskey</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Nov 13 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;
+&lt;p&gt;Join us for a free tasting with Bardstown Whiskey!&lt;/p&gt;</description>
+      <pubDate>Fri, 13 Nov 2026 16:00:00 -0800</pubDate>
+      <guid isPermaLink="false">339ad06c09b21207</guid>
+      <category>Long Beach</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2024/12/Screenshot-2024-12-02-at-3.04.18%E2%80%AFPM.png" type="image/png" />
+    </item>
     <item>
       <title>Free Tasting: Topo Chico Hard Seltzer</title>
       <link>https://hiloliquor.com/locations/#Long%20Beach</link>
