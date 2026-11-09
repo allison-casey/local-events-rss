@@ -5,7 +5,29 @@
     <link>feeds/all.xml</link>
     <description>Combined events from all local feed sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Nov 2026 05:34:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 05:43:39 +0000</lastBuildDate>
+    <item>
+      <title>Free Tasting: Calista Coffee</title>
+      <link>https://hiloliquor.com/locations/#Costa%20Mesa</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Nov 15 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Costa Mesa&lt;/p&gt;
+&lt;p&gt;Join us for a complimentary tasting of Calista Coffee!&lt;/p&gt;</description>
+      <pubDate>Sun, 15 Nov 2026 16:00:00 -0800</pubDate>
+      <guid isPermaLink="false">b2680d9174d60875</guid>
+      <category>Costa Mesa</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2025/11/IMG_0066.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Silvergrin Vodka &amp; Warbringer Bourbon</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Nov 15 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;
+&lt;p&gt;Join us for a free tasting with Silvergrin Vodka &amp;amp; Warbringer Bourbon&lt;/p&gt;</description>
+      <pubDate>Sun, 15 Nov 2026 16:00:00 -0800</pubDate>
+      <guid isPermaLink="false">61a92f57903539af</guid>
+      <category>Long Beach</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2023/12/%C2%A9Project-M-Plus_Hi-Lo_Liquor_3-scaled.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Free Tasting: Common Space Brewing</title>
       <link>https://hiloliquor.com/locations/#Culver%20City</link>
