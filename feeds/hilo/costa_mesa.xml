@@ -5,8 +5,29 @@
     <link>https://hiloliquor.com/locations/#Costa%20Mesa</link>
     <description>Upcoming tastings, pop-ups, and events at Hi-Lo Liquor Market (Costa Mesa).</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Nov 2026 22:52:04 -0800</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 21:41:05 -0800</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Free Tasting: Empirical Spirits</title>
+      <link>https://hiloliquor.com/locations/#Costa%20Mesa</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Nov 17 5:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Costa Mesa&lt;/p&gt;
+&lt;p&gt;Stop by and try spirits and RTDs from Empirical Spirits, a flavor-first company that takes the highest-quality ingredients and turns them into delicious experiences.&lt;/p&gt;</description>
+      <pubDate>Tue, 17 Nov 2026 17:00:00 -0800</pubDate>
+      <guid isPermaLink="false">440f80153ea5953b</guid>
+      <category>Costa Mesa</category>
+    </item>
+    <item>
+      <title>Free Tasting: Silvergrin Vodka &amp; Warbringer Bourbon</title>
+      <link>https://hiloliquor.com/locations/#Costa%20Mesa</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Nov 17 3:00 PM - 6:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Costa Mesa&lt;/p&gt;
+&lt;p&gt;Join us for a free tasting with Silvergrin Vodka &amp;amp; Warbringer Bourbon!&lt;/p&gt;</description>
+      <pubDate>Tue, 17 Nov 2026 15:00:00 -0800</pubDate>
+      <guid isPermaLink="false">84f3acc1653d81b9</guid>
+      <category>Costa Mesa</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2023/10/hilo_cm_43-scaled.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Free Tasting: Calista Coffee</title>
       <link>https://hiloliquor.com/locations/#Costa%20Mesa</link>
@@ -338,6 +359,16 @@ Costa Mesa ~ Dane&amp;#x27;s Donuts&lt;/p&gt;</description>
       <guid isPermaLink="false">a4c67529c2e07dc7</guid>
       <category>Costa Mesa</category>
       <enclosure url="https://hiloliquor.com/wp-content/uploads/2025/01/Screenshot-2025-01-20-at-5.37.30%E2%80%AFPM.png" type="image/png" />
+    </item>
+    <item>
+      <title>Free Tasting: Katsura Elion Vodka</title>
+      <link>https://hiloliquor.com/locations/#Costa%20Mesa</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Aug 20 1:00 PM - 3:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Costa Mesa&lt;/p&gt;
+&lt;p&gt;Premium Sipping Vodka distilled from Greek olives—picked by hand – then blended with curated grains and natural spring water from crystalline rock to produce a vodka of unparalleled smoothness and timeless sophistication. Come stop by and taste this premium vodka!&lt;/p&gt;</description>
+      <pubDate>Thu, 20 Aug 2026 13:00:00 -0700</pubDate>
+      <guid isPermaLink="false">51f76e0755b1e2e8</guid>
+      <category>Costa Mesa</category>
     </item>
     <item>
       <title>Food Pop: Dane's Donuts</title>

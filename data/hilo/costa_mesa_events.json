@@ -766,6 +766,15 @@
       "image_url": "https://hiloliquor.com/wp-content/uploads/2024/06/Screenshot-2024-06-25-at-6.15.00%E2%80%AFPM.png"
     },
     {
+      "event_id": "51f76e0755b1e2e8",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Katsura Elion Vodka",
+      "description": "Premium Sipping Vodka distilled from Greek olives—picked by hand – then blended with curated grains and natural spring water from crystalline rock to produce a vodka of unparalleled smoothness and timeless sophistication. Come stop by and taste this premium vodka!",
+      "start_at": "2026-08-20T13:00:00-07:00",
+      "end_at": "2026-08-20T15:00:00-07:00",
+      "image_url": null
+    },
+    {
       "event_id": "a4c67529c2e07dc7",
       "location": "Costa Mesa",
       "title": "Free Tasting: Wolves Whiskey",

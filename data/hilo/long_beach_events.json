@@ -1837,6 +1837,24 @@
       "image_url": "https://hiloliquor.com/wp-content/uploads/2023/11/Screen-Shot-2023-11-06-at-4.30.04-PM.png"
     },
     {
+      "event_id": "20953f89b21c3b35",
+      "location": "Long Beach",
+      "title": "Free Tasting Bero N/A Beer",
+      "description": "Join us for a complimentary tasting of Bero N/A Beer by Tom Holland!",
+      "start_at": "2026-11-12T16:00:00-08:00",
+      "end_at": "2026-11-12T19:00:00-08:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2026/11/IMG_1994-1.jpg"
+    },
+    {
+      "event_id": "3d0b2a3d65d3902e",
+      "location": "Long Beach",
+      "title": "Free Tasting: Banhez Mezcal, Libelula Tequila & Combier Liqueur!",
+      "description": "Join us for a complementary tasting of artisanal Banhez Mezcal, Libelula Tequila & Combier Liqueur!",
+      "start_at": "2026-11-12T16:00:00-08:00",
+      "end_at": "2026-11-12T19:00:00-08:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2025/09/IMG_9076.jpg"
+    },
+    {
       "event_id": "339ad06c09b21207",
       "location": "Long Beach",
       "title": "Free Tasting: Bardstown Whiskey",
@@ -1844,6 +1862,15 @@
       "start_at": "2026-11-13T16:00:00-08:00",
       "end_at": "2026-11-13T19:00:00-08:00",
       "image_url": "https://hiloliquor.com/wp-content/uploads/2024/12/Screenshot-2024-12-02-at-3.04.18%E2%80%AFPM.png"
+    },
+    {
+      "event_id": "0d3f11a2e4f330b1",
+      "location": "Long Beach",
+      "title": "Free Tasting: Hinterhaus Distilling + Echo Mtn",
+      "description": "Free Tasting with Hinterhaus Distilling!",
+      "start_at": "2026-11-13T16:00:00-08:00",
+      "end_at": "2026-11-13T19:00:00-08:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2026/06/IMG_4373.jpg"
     },
     {
       "event_id": "61a92f57903539af",

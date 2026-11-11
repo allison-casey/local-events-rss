@@ -5,7 +5,28 @@
     <link>feeds/all.xml</link>
     <description>Combined events from all local feed sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Nov 2026 06:52:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 05:41:05 +0000</lastBuildDate>
+    <item>
+      <title>Free Tasting: Empirical Spirits</title>
+      <link>https://hiloliquor.com/locations/#Costa%20Mesa</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Nov 17 5:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Costa Mesa&lt;/p&gt;
+&lt;p&gt;Stop by and try spirits and RTDs from Empirical Spirits, a flavor-first company that takes the highest-quality ingredients and turns them into delicious experiences.&lt;/p&gt;</description>
+      <pubDate>Tue, 17 Nov 2026 17:00:00 -0800</pubDate>
+      <guid isPermaLink="false">440f80153ea5953b</guid>
+      <category>Costa Mesa</category>
+    </item>
+    <item>
+      <title>Free Tasting: Silvergrin Vodka &amp; Warbringer Bourbon</title>
+      <link>https://hiloliquor.com/locations/#Costa%20Mesa</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Nov 17 3:00 PM - 6:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Costa Mesa&lt;/p&gt;
+&lt;p&gt;Join us for a free tasting with Silvergrin Vodka &amp;amp; Warbringer Bourbon!&lt;/p&gt;</description>
+      <pubDate>Tue, 17 Nov 2026 15:00:00 -0800</pubDate>
+      <guid isPermaLink="false">84f3acc1653d81b9</guid>
+      <category>Costa Mesa</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2023/10/hilo_cm_43-scaled.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Free Tasting: Calista Coffee</title>
       <link>https://hiloliquor.com/locations/#Costa%20Mesa</link>
@@ -29,6 +50,28 @@
       <enclosure url="https://hiloliquor.com/wp-content/uploads/2023/12/%C2%A9Project-M-Plus_Hi-Lo_Liquor_3-scaled.jpg" type="image/jpeg" />
     </item>
     <item>
+      <title>Food Pop-Up: Hevn &amp; Rth Purpose Kchn</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Nov 14 5:00 PM - 8:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Join us this Saturday with Hevn &amp;amp; Rth Purpose Kchn meatless Tacos!&lt;/p&gt;</description>
+      <pubDate>Sat, 14 Nov 2026 17:00:00 -0800</pubDate>
+      <guid isPermaLink="false">cabd1b4cc22ced6d</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2026/09/IMG_8066.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Free Tasting: Simple Shots</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Nov 14 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Come sample the spirit based juice shot. Simple ingredients, all natural, made with real fruit.&lt;/p&gt;</description>
+      <pubDate>Sat, 14 Nov 2026 16:00:00 -0800</pubDate>
+      <guid isPermaLink="false">1d83cfc0e6118790</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2024/05/Screenshot-2024-05-15-at-3.45.58%E2%80%AFPM.png" type="image/png" />
+    </item>
+    <item>
       <title>Free Tasting: Common Space Brewing</title>
       <link>https://hiloliquor.com/locations/#Culver%20City</link>
       <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Nov 13 4:00 PM - 7:00 PM&lt;/p&gt;
@@ -40,6 +83,17 @@
       <enclosure url="https://hiloliquor.com/wp-content/uploads/2025/04/Screenshot-2025-04-29-at-1.15.11%E2%80%AFPM.png" type="image/png" />
     </item>
     <item>
+      <title>Free Tasting: Abre Ojos Tequila</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Nov 13 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Join us for a free tasting of Abre Ojos tequila!&lt;/p&gt;</description>
+      <pubDate>Fri, 13 Nov 2026 16:00:00 -0800</pubDate>
+      <guid isPermaLink="false">9045936efd9b9caa</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2026/03/Abre-Ojos.png" type="image/png" />
+    </item>
+    <item>
       <title>Free Tasting: Bardstown Whiskey</title>
       <link>https://hiloliquor.com/locations/#Long%20Beach</link>
       <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Nov 13 4:00 PM - 7:00 PM&lt;/p&gt;
@@ -49,6 +103,50 @@
       <guid isPermaLink="false">339ad06c09b21207</guid>
       <category>Long Beach</category>
       <enclosure url="https://hiloliquor.com/wp-content/uploads/2024/12/Screenshot-2024-12-02-at-3.04.18%E2%80%AFPM.png" type="image/png" />
+    </item>
+    <item>
+      <title>Free Tasting: Hinterhaus Distilling + Echo Mtn</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Nov 13 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;
+&lt;p&gt;Free Tasting with Hinterhaus Distilling!&lt;/p&gt;</description>
+      <pubDate>Fri, 13 Nov 2026 16:00:00 -0800</pubDate>
+      <guid isPermaLink="false">0d3f11a2e4f330b1</guid>
+      <category>Long Beach</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2026/06/IMG_4373.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Food Pop-Up: Little Dynamite Pizza</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Nov 12 5:00 PM - 9:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Serving up pizza sliced by Little Dynamite! Inquire at The Counter~&lt;/p&gt;</description>
+      <pubDate>Thu, 12 Nov 2026 17:00:00 -0800</pubDate>
+      <guid isPermaLink="false">473edeb659d8579c</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2026/08/IMG_6530.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Free Tasting Bero N/A Beer</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Nov 12 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;
+&lt;p&gt;Join us for a complimentary tasting of Bero N/A Beer by Tom Holland!&lt;/p&gt;</description>
+      <pubDate>Thu, 12 Nov 2026 16:00:00 -0800</pubDate>
+      <guid isPermaLink="false">20953f89b21c3b35</guid>
+      <category>Long Beach</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2026/11/IMG_1994-1.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Free Tasting: Banhez Mezcal, Libelula Tequila &amp; Combier Liqueur!</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Nov 12 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;
+&lt;p&gt;Join us for a complementary tasting of artisanal Banhez Mezcal, Libelula Tequila &amp;amp; Combier Liqueur!&lt;/p&gt;</description>
+      <pubDate>Thu, 12 Nov 2026 16:00:00 -0800</pubDate>
+      <guid isPermaLink="false">3d0b2a3d65d3902e</guid>
+      <category>Long Beach</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2025/09/IMG_9076.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Free Tasting: Topo Chico Hard Seltzer</title>
@@ -70,6 +168,28 @@
       <pubDate>Thu, 12 Nov 2026 13:00:00 -0800</pubDate>
       <guid isPermaLink="false">02aa0098b2b0fdb1</guid>
       <category>Costa Mesa</category>
+    </item>
+    <item>
+      <title>Free Tasting Bero N/A Beer</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Nov 11 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Join us for a complimentary tasting of Bero n/a beers by Tom Holland!&lt;/p&gt;</description>
+      <pubDate>Wed, 11 Nov 2026 16:00:00 -0800</pubDate>
+      <guid isPermaLink="false">0cc03997774a2f70</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2026/11/IMG_1994.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Free Tasting: Banhez Mezcal, Libelula Tequila &amp; Combier Liqueur</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Nov 11 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Join us for a complimentary tasting Banhez Mezcal, Libelula Tequila &amp;amp; Combier Liqueur!&lt;/p&gt;</description>
+      <pubDate>Wed, 11 Nov 2026 16:00:00 -0800</pubDate>
+      <guid isPermaLink="false">0e6b6810423c058a</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2025/09/IMG_9076.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Free Tasting: ROM Beer Co</title>
@@ -2045,6 +2165,16 @@ Costa Mesa ~ Dane&amp;#x27;s Donuts&lt;/p&gt;</description>
       <guid isPermaLink="false">caeb468793b303a4</guid>
       <category>Long Beach</category>
       <enclosure url="https://hiloliquor.com/wp-content/uploads/2024/05/Screenshot-2024-05-08-at-1.06.49%E2%80%AFPM.png" type="image/png" />
+    </item>
+    <item>
+      <title>Free Tasting: Katsura Elion Vodka</title>
+      <link>https://hiloliquor.com/locations/#Costa%20Mesa</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Aug 20 1:00 PM - 3:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Costa Mesa&lt;/p&gt;
+&lt;p&gt;Premium Sipping Vodka distilled from Greek olives—picked by hand – then blended with curated grains and natural spring water from crystalline rock to produce a vodka of unparalleled smoothness and timeless sophistication. Come stop by and taste this premium vodka!&lt;/p&gt;</description>
+      <pubDate>Thu, 20 Aug 2026 13:00:00 -0700</pubDate>
+      <guid isPermaLink="false">51f76e0755b1e2e8</guid>
+      <category>Costa Mesa</category>
     </item>
     <item>
       <title>Hi-Lo Long Beach: King Trivia</title>
