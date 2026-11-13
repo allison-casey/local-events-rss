@@ -5,7 +5,28 @@
     <link>feeds/all.xml</link>
     <description>Combined events from all local feed sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Nov 2026 06:47:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 06:03:43 +0000</lastBuildDate>
+    <item>
+      <title>Free Tasting: Mario's Hard Espresso</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Nov 19 3:30 PM - 6:30 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;
+&lt;p&gt;Join us for a free tasting with Mario&amp;#x27;s Hard Espresso!&lt;/p&gt;</description>
+      <pubDate>Thu, 19 Nov 2026 15:30:00 -0800</pubDate>
+      <guid isPermaLink="false">b4521fe9a275dcc7</guid>
+      <category>Long Beach</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2024/10/Screenshot-2024-10-24-at-12.09.37%E2%80%AFPM.png" type="image/png" />
+    </item>
+    <item>
+      <title>Free Tasting: Rally Gin</title>
+      <link>https://hiloliquor.com/locations/#Costa%20Mesa</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Nov 19 1:00 PM - 4:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Costa Mesa&lt;/p&gt;
+&lt;p&gt;Rally Gin is a California black and woman owned spirit company. Rally Gin is handcrafted and micro-distilled in small batches and is produced using 12 premium botanicals and Italian spices. Their distilling kettle is vapor-infused, giving a precise gin flavor profile. Come by and experience the difference in Rally Gin!&lt;/p&gt;</description>
+      <pubDate>Thu, 19 Nov 2026 13:00:00 -0800</pubDate>
+      <guid isPermaLink="false">01011640e31a71b0</guid>
+      <category>Costa Mesa</category>
+    </item>
     <item>
       <title>Free Tasting: Empirical Spirits</title>
       <link>https://hiloliquor.com/locations/#Costa%20Mesa</link>
