@@ -2303,6 +2303,33 @@
       "start_at": "2027-05-10T13:00:00-07:00",
       "end_at": "2027-05-10T16:00:00-07:00",
       "image_url": "https://hiloliquor.com/wp-content/uploads/2023/12/Screen-Shot-2023-12-19-at-1.07.16-PM.png"
+    },
+    {
+      "event_id": "a1615fc3bd02da78",
+      "location": "Long Beach",
+      "title": "Free Tasting: Mommenpop Aperitif",
+      "description": "Join us for a free tasting with Free Mommenpop Aperitif!",
+      "start_at": "2027-05-14T15:30:00-07:00",
+      "end_at": "2027-05-14T18:30:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2024/12/Screenshot-2024-12-02-at-3.10.21%E2%80%AFPM.png"
+    },
+    {
+      "event_id": "aff3c93093fed377",
+      "location": "Long Beach",
+      "title": "Free Tasting: Sylva N/A Aged Spirits",
+      "description": "Join us for a free tasting of this unique new entry into the n/a realm.  Sylva is the world's first maturation lab making aged non-alcoholic spirits from forest to glass.",
+      "start_at": "2027-05-14T16:00:00-07:00",
+      "end_at": "2027-05-14T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2026/04/S2_Sylva_cropped_1080x.webp"
+    },
+    {
+      "event_id": "5e21bb6bba946f0f",
+      "location": "Long Beach",
+      "title": "Free Tasting: Shelter Distilling",
+      "description": "Join us for a free tasting with Shelter Distilling!",
+      "start_at": "2027-05-14T16:00:00-07:00",
+      "end_at": "2027-05-14T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2024/11/Screenshot-2024-11-25-at-1.57.30%E2%80%AFPM.png"
     }
   ],
   "location": "Long Beach",

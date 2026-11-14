@@ -5,7 +5,40 @@
     <link>feeds/all.xml</link>
     <description>Combined events from all local feed sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Nov 2026 06:03:43 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 05:52:10 +0000</lastBuildDate>
+    <item>
+      <title>Free Tasting: El Segundo</title>
+      <link>https://hiloliquor.com/locations/#Costa%20Mesa</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Nov 20 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Costa Mesa&lt;/p&gt;
+&lt;p&gt;Formed in 2011, El Segundo is an independent craft brewery focusing on fresh, hoppy West Coast IPAs and other crisp flavors.&lt;/p&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 16:00:00 -0800</pubDate>
+      <guid isPermaLink="false">510c86491eeb6f22</guid>
+      <category>Costa Mesa</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2023/11/Screen-Shot-2023-11-28-at-2.57.25-PM.png" type="image/png" />
+    </item>
+    <item>
+      <title>Free Tasting: Whiskey Del Bac</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Nov 20 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Join us for a complimentary tasting of Whiskey Del Bac!&lt;/p&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 16:00:00 -0800</pubDate>
+      <guid isPermaLink="false">d82f43a6b597b513</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2025/11/IMG_0283.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Free Tasting: Long Beach Beer Lab</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Nov 20 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;
+&lt;p&gt;Join us with a complimentary with Long Beach Beer Lab~&lt;/p&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 16:00:00 -0800</pubDate>
+      <guid isPermaLink="false">61a6ab907aeae2a5</guid>
+      <category>Long Beach</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2025/11/IMG_0284.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Free Tasting: Mario's Hard Espresso</title>
       <link>https://hiloliquor.com/locations/#Long%20Beach</link>
