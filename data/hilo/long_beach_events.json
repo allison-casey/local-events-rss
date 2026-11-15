@@ -2330,6 +2330,15 @@
       "start_at": "2027-05-14T16:00:00-07:00",
       "end_at": "2027-05-14T19:00:00-07:00",
       "image_url": "https://hiloliquor.com/wp-content/uploads/2024/11/Screenshot-2024-11-25-at-1.57.30%E2%80%AFPM.png"
+    },
+    {
+      "event_id": "06f66935e1950efc",
+      "location": "Long Beach",
+      "title": "Free Tasting: Meet the Brewer – Ikasu Brewing",
+      "description": "Join us for a special event…Masahiro Kitano, the founder and brewmaster at Ikasu Brewing, will be in store sampling and talking about his beers!",
+      "start_at": "2027-05-15T16:00:00-07:00",
+      "end_at": "2027-05-15T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2026/05/Ikasu-Brewing.png"
     }
   ],
   "location": "Long Beach",
