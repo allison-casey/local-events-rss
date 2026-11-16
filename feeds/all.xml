@@ -5,7 +5,28 @@
     <link>feeds/all.xml</link>
     <description>Combined events from all local feed sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Nov 2026 05:53:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 05:53:01 +0000</lastBuildDate>
+    <item>
+      <title>Free Tasting: Trip N/A Drinks</title>
+      <link>https://hiloliquor.com/locations/#Costa%20Mesa</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Nov 22 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Costa Mesa&lt;/p&gt;</description>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 -0800</pubDate>
+      <guid isPermaLink="false">45c7bf41f37f3c13</guid>
+      <category>Costa Mesa</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2025/11/IMG_0065.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Food Pop-up: Three Pigs LBC</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Nov 22 12:00 PM - 4:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;
+&lt;p&gt;Come by to enjoy Three Pigs LBC Japanese street food + yakitori!&lt;/p&gt;</description>
+      <pubDate>Sun, 22 Nov 2026 12:00:00 -0800</pubDate>
+      <guid isPermaLink="false">f15759b3d8763891</guid>
+      <category>Long Beach</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2025/08/IMG_8691.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Free Tasting: El Segundo</title>
       <link>https://hiloliquor.com/locations/#Costa%20Mesa</link>

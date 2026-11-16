@@ -2294,6 +2294,15 @@
       "start_at": "2027-05-01T16:00:00-07:00",
       "end_at": "2027-05-01T19:00:00-07:00",
       "image_url": "https://hiloliquor.com/wp-content/uploads/2023/12/Screen-Shot-2023-12-19-at-1.05.07-PM.png"
+    },
+    {
+      "event_id": "f49b276c3ff1886d",
+      "location": "Culver City",
+      "title": "Free Tasting: Scotti's Original Springs Bourbon",
+      "description": "Come enjoy a free tasting of this recently re-established classic bourbon.  California distilled – using locally sourced California-grown purple barley, rye, and corn – this bourbon is aged 3 years for a high-quality, smooth drink.",
+      "start_at": "2027-05-16T16:00:00-07:00",
+      "end_at": "2027-05-16T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2026/05/Scottis-Original-Springs.png"
     }
   ],
   "location": "Culver City",

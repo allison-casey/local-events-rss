@@ -1529,6 +1529,15 @@
       "start_at": "2027-05-04T13:00:00-07:00",
       "end_at": "2027-05-04T16:00:00-07:00",
       "image_url": "https://hiloliquor.com/wp-content/uploads/2023/12/Screen-Shot-2023-12-19-at-1.24.30-PM.png"
+    },
+    {
+      "event_id": "7562a9f55cccefcf",
+      "location": "Costa Mesa",
+      "title": "Spring Market at Costa Mesa",
+      "description": "Join us for a fun day with a ton of vendors! \r\nVivy Cocktails / \r\nWilbur Wine Spritzers / \r\nSoto Sake / \r\nCalista Coffee /\r\nNeft Vodka",
+      "start_at": "2027-05-16T14:00:00-07:00",
+      "end_at": "2027-05-16T18:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2025/04/Screenshot-2025-04-22-at-3.06.11%E2%80%AFPM.png"
     }
   ],
   "location": "Costa Mesa",
