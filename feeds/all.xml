@@ -5,7 +5,7 @@
     <link>feeds/all.xml</link>
     <description>Combined events from all local feed sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Nov 2026 07:29:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 06:53:50 +0000</lastBuildDate>
     <item>
       <title>Free Tasting: Trip N/A Drinks</title>
       <link>https://hiloliquor.com/locations/#Costa%20Mesa</link>
@@ -61,6 +61,17 @@
       <enclosure url="https://hiloliquor.com/wp-content/uploads/2025/11/IMG_0284.jpg" type="image/jpeg" />
     </item>
     <item>
+      <title>Free Tasting: Simple Shots</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Nov 20 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;
+&lt;p&gt;Come sample the spirit based juice shot. Simple ingredients, all natural, made with real fruit.&lt;/p&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 16:00:00 -0800</pubDate>
+      <guid isPermaLink="false">ea143ec13838a6a2</guid>
+      <category>Long Beach</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2024/05/Screenshot-2024-05-15-at-3.45.58%E2%80%AFPM.png" type="image/png" />
+    </item>
+    <item>
       <title>Free Tasting: Mario's Hard Espresso</title>
       <link>https://hiloliquor.com/locations/#Long%20Beach</link>
       <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Nov 19 3:30 PM - 6:30 PM&lt;/p&gt;
@@ -80,6 +91,17 @@
       <pubDate>Thu, 19 Nov 2026 13:00:00 -0800</pubDate>
       <guid isPermaLink="false">01011640e31a71b0</guid>
       <category>Costa Mesa</category>
+    </item>
+    <item>
+      <title>Free Tasting: Moth RTD</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Nov 18 4:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Come sample this latest entry into the RTD market all the way from London, England!  Designed for wherever your day takes you, from trackies to tuxedoes, these small but mighty cocktails are crafted with the finest spirits and 100% real ingredients.  What&amp;#x27;s your pleasure guv?&lt;/p&gt;</description>
+      <pubDate>Wed, 18 Nov 2026 16:00:00 -0800</pubDate>
+      <guid isPermaLink="false">982cdacb1b8f5add</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2026/05/Moth-RTD.png" type="image/png" />
     </item>
     <item>
       <title>Free Tasting: Empirical Spirits</title>
@@ -2261,6 +2283,16 @@ Costa Mesa ~ Dane&amp;#x27;s Donuts&lt;/p&gt;</description>
       <guid isPermaLink="false">4fe691f4cf9e7316</guid>
       <category>Long Beach</category>
       <enclosure url="https://hiloliquor.com/wp-content/uploads/2023/10/HiLo-Returning-Post-3-2026-e1770771667892.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Free Tasting: 101 Cider House</title>
+      <link>https://hiloliquor.com/locations/#Costa%20Mesa</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Aug 19 5:00 PM - 7:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Costa Mesa&lt;/p&gt;
+&lt;p&gt;101 Cider House cultivates wild fermented cider, leaving a better-for-you, sessionable beverage that is easier on the body. Their blends have zero sugar, zero carbs, are gluten-free, packed with naturally occuring probiotics and always vegan friendly. 100% fresh pressed juice, punchy ingredients and positive guilt-free vibes. Have a drink with mother nature, and get to know her wild side!&lt;/p&gt;</description>
+      <pubDate>Wed, 19 Aug 2026 17:00:00 -0700</pubDate>
+      <guid isPermaLink="false">5a79103a9d14de2e</guid>
+      <category>Costa Mesa</category>
     </item>
     <item>
       <title>Free Tasting: Zumbador Tequila</title>
