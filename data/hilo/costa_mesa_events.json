@@ -1547,6 +1547,15 @@
       "start_at": "2027-05-16T14:00:00-07:00",
       "end_at": "2027-05-16T18:00:00-07:00",
       "image_url": "https://hiloliquor.com/wp-content/uploads/2025/04/Screenshot-2025-04-22-at-3.06.11%E2%80%AFPM.png"
+    },
+    {
+      "event_id": "adcf4881d54c8dfc",
+      "location": "Costa Mesa",
+      "title": "Free Tasting: Bücha Hard Kombucha",
+      "description": "Join us for a complimentary tasting with Bücha! A small batch kombucha made in San Diego from 100% organic whole fruit sourced from small California farms.",
+      "start_at": "2027-05-22T16:00:00-07:00",
+      "end_at": "2027-05-22T19:00:00-07:00",
+      "image_url": "https://hiloliquor.com/wp-content/uploads/2025/11/IMG_9909.jpg"
     }
   ],
   "location": "Costa Mesa",
