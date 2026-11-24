@@ -5,7 +5,7 @@
     <link>feeds/all.xml</link>
     <description>Combined events from all local feed sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Nov 2026 06:59:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 09:25:46 +0000</lastBuildDate>
     <item>
       <title>Free Tasting: Bardstown Whiskey</title>
       <link>https://hiloliquor.com/locations/#Costa%20Mesa</link>
@@ -39,6 +39,28 @@
       <enclosure url="https://hiloliquor.com/wp-content/uploads/2025/11/IMG_0064-1.jpg" type="image/jpeg" />
     </item>
     <item>
+      <title>Free Tasting: Alderete Tequila &amp; Winglore Bourbon</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Nov 28 1:00 PM - 4:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Enjoy a complimentary tasting with Alderete Tequila &amp;amp; Winglore Bourbon!&lt;/p&gt;</description>
+      <pubDate>Sat, 28 Nov 2026 13:00:00 -0800</pubDate>
+      <guid isPermaLink="false">afc818fc619374a4</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2026/11/IMG_2969.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Free Tasting: Alderete Tequila &amp; Winglore Bourbon</title>
+      <link>https://hiloliquor.com/locations/#Long%20Beach</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Nov 27 2:00 PM - 5:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Long Beach&lt;/p&gt;
+&lt;p&gt;Enjoy a complimentary tasting with Alderete Tequila &amp;amp; Winglore Bourbon&lt;/p&gt;</description>
+      <pubDate>Fri, 27 Nov 2026 14:00:00 -0800</pubDate>
+      <guid isPermaLink="false">5c601d6493fe6a26</guid>
+      <category>Long Beach</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2026/11/IMG_2969.jpg" type="image/jpeg" />
+    </item>
+    <item>
       <title>Small Business Saturday!</title>
       <link>https://hiloliquor.com/locations/#Costa%20Mesa</link>
       <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Nov 26 9:00 AM - 9:00 PM&lt;/p&gt;
@@ -47,6 +69,17 @@
       <pubDate>Thu, 26 Nov 2026 09:00:00 -0800</pubDate>
       <guid isPermaLink="false">6dc808c111f2cc96</guid>
       <category>Costa Mesa</category>
+    </item>
+    <item>
+      <title>Free Tasting: Banter Rum</title>
+      <link>https://hiloliquor.com/locations/#Culver%20City</link>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Nov 25 3:00 PM - 6:00 PM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where:&lt;/strong&gt; Culver City&lt;/p&gt;
+&lt;p&gt;Join us for a complimentary tasting of Banter Rum!!&lt;/p&gt;</description>
+      <pubDate>Wed, 25 Nov 2026 15:00:00 -0800</pubDate>
+      <guid isPermaLink="false">248d5b5cc5f4143b</guid>
+      <category>Culver City</category>
+      <enclosure url="https://hiloliquor.com/wp-content/uploads/2026/09/IMG_8854-scaled.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Free Tasting: Trip N/A Drinks</title>
